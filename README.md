@@ -5,5 +5,5 @@ description: >-
   elevate your knowledge to the next level.
 ---
 
-# Documentation
+# Using ThoughtFarmer
 
