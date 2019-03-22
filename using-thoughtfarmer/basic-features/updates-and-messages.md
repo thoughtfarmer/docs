@@ -31,7 +31,7 @@ You can also share an update from your profile page.
 5. Below your update it indicates who it will be visible to. Click on **Select a group** and click on **Everyone** to send the update to everyone.
 6. Click on the **Share** button to send your update. 
 
-![](../../.gitbook/assets/2%20%282%29.jpg)
+![](../../.gitbook/assets/2%20%283%29.jpg)
 
 
 

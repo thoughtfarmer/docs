@@ -53,5 +53,5 @@ You may not see the Add post option if the News Card creator has chosen not to d
 Click **Like** under the news post excerpt on the homepage to show that you like that post. The number of people who have liked the page will show beside the Like icon  
 
 
-![](../../.gitbook/assets/5%20%282%29.png)
+![](../../.gitbook/assets/5%20%283%29.png)
 

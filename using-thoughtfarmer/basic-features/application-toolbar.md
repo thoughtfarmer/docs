@@ -37,7 +37,7 @@ On smartphones, tap on the star icon to open the Bookmarks menu, and tap on the 
 
 If enabled, you will see a list of the groups you belong to in the Your Groups menu. This gives you easy access to team and project pages, and other groups relevant to your work.
 
-![](../../.gitbook/assets/5%20%281%29.png)
+![](../../.gitbook/assets/5%20%282%29.png)
 
 **On mobile devices**
 
