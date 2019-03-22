@@ -25,12 +25,12 @@ Use the explanations and instructions in this section to learn about the basic f
 
 If you found these instructions helpful, or you're looking for something similar, these pages might be helpful:
 
-* How to set up your profile page
-* How to use Search
-* How to add & edit tags
-* How to add pages and sections
-* How to edit pages
-* How to attach and edit files
+* [How to set up your profile page](../profile-pages/)
+* [How to use Search](../search/)
+* [How to add & edit tags](../tags/)
+* [How to add pages and sections](../add-pages-and-sections/)
+* [How to edit pages](../edit-page-contents/)
+* [How to attach and edit files](../add-and-edit-files/)
 
 
 
