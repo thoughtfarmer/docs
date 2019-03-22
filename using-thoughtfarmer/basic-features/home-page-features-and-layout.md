@@ -28,7 +28,7 @@ The Main Navigation Bar shows on tablets, but is not displayed on smartphones. O
 
 On the homepage, the Left Navigation Card is a simple treeview navigation that you can use to navigate through your intranet. Some organizations choose to hide the Left Navigation Card from the homepage when viewed on a desktop computer. When you navigate to other pages, the Left Hand Nav becomes the SuperNav, capable of much more than a simple treeview navigation! \([Learn more about the SuperNav](../search/use-the-supernav.md).\)
 
-![](../../.gitbook/assets/3.jpg)
+![](../../.gitbook/assets/3%20%281%29.jpg)
 
 **Mobile devices**
 
@@ -38,13 +38,13 @@ Depending on the size and orientation of tablets, the Left Navigation Card may d
 
 Included in the Recent News are both news stories targeted at all employees and personalized news stories just for you. The personalized stories are fed by the group pages you are a member of. Click on the News posts to read the whole story and keep current with what's happening in your organization. \([Learn more about News features](news.md).\)
 
-![](../../.gitbook/assets/4.jpg)
+![](../../.gitbook/assets/4%20%281%29.jpg)
 
 ### Activity
 
 In the Activity stream you can keep up-to-date on activity happening all over the intranet. The **Highlights** tab lets you know when pages are created, files are added, comments and Shout-outs are made and more. The **Updates** tab shows updates your colleagues have shared with everyone or with groups that you belong to. The **Shout-outs** tab shows Shout-outs sent to everyone and Shout-outs sent to groups you are a part of. The **Your Groups** tab shows activity specifically related to groups you are a member of. The Activity stream is interactive, allowing you to Like, Bookmark, Follow and Share activity items, and join discussions by commenting right from your homepage. \([Learn more about Activity streams](activity-streams.md).\)
 
-![](../../.gitbook/assets/5.jpg)
+![](../../.gitbook/assets/5%20%281%29.jpg)
 
 
 
@@ -61,7 +61,7 @@ Below we've given a brief summary of some of the Cards you may see on your homep
 
 * **Bookmarks:** Displays a list of pages that you have bookmarked. This Card contains the same information that is found in the Bookmarks menu on the Application Toolbar. You can add, rename and remove bookmarks from the Bookmarks Card. \([Learn more about Bookmarks](bookmarks/).\)
 
-![](../../.gitbook/assets/7.jpg)
+![](../../.gitbook/assets/7%20%281%29.jpg)
 
   
 
