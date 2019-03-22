@@ -60,7 +60,7 @@ On smartphones, tap the flag icon to open the Alerts menu.
 When you open files from your intranet so you can edit them, the **Locked files** menu appears in the Application Toolbar. Any files you open for editing are locked so that no one else can edit them at the same time. The intranet uses a behind-the-scenes application called the ThoughtFarmer Desktop Connector to communicate with your computer and to allow you to edit files from the intranet and save the changes back to the intranet. Click on **Locked files** in the Application Toolbar to see which files you have open for editing, and finish editing by clicking "Done editing" beside the file name.  
 
 
-![](../../.gitbook/assets/7.png)
+![](../../.gitbook/assets/7%20%281%29.png)
 
 \(See [how to open and lock files for editing](../add-and-edit-files/open-and-lock-a-file-for-editing.md) for more information on locked files.\)
 

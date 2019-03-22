@@ -16,7 +16,7 @@ It's easy to share an update from the homepage to communicate something to all o
 4. Below your update it indicates who it will be visible to. Click on **Select a group** and click on **Everyone** to send the update to everyone.
 5. Click on the **Share** button to send your update. 
 
-![](../../.gitbook/assets/1.jpg)
+![](../../.gitbook/assets/1%20%283%29.jpg)
 
 
 
@@ -31,7 +31,7 @@ You can also share an update from your profile page.
 5. Below your update it indicates who it will be visible to. Click on **Select a group** and click on **Everyone** to send the update to everyone.
 6. Click on the **Share** button to send your update. 
 
-![](../../.gitbook/assets/2.jpg)
+![](../../.gitbook/assets/2%20%281%29.jpg)
 
 
 
@@ -56,7 +56,7 @@ Updates shared on a group page only go to the group.
 3. Type your update in the text box. Below your update it indicates that it will be visible to the group whose page you are on.
 4. Click on the **Share** button.
 
-![](../../.gitbook/assets/3.jpg)
+![](../../.gitbook/assets/3%20%281%29.jpg)
 
 
 

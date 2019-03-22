@@ -144,7 +144,7 @@
     * [Reorder and move pages](using-thoughtfarmer/edit-page-contents/reorder-and-move-pages.md)
     * [Export to PDF or Word](using-thoughtfarmer/edit-page-contents/export-to-pdf-or-word.md)
     * [Email pages](using-thoughtfarmer/edit-page-contents/email-pages.md)
-    * [Share pages to a group](using-thoughtfarmer/edit-page-contents/share-pages-to-a-group.md)
+    * [Share page to a group](using-thoughtfarmer/edit-page-contents/share-pages-to-a-group.md)
     * [Print pages](using-thoughtfarmer/edit-page-contents/print-pages.md)
     * [Archive and delete pages](using-thoughtfarmer/edit-page-contents/archive-and-delete-pages.md)
     * [Restore or undelete pages](using-thoughtfarmer/edit-page-contents/restore-or-undelete-pages.md)

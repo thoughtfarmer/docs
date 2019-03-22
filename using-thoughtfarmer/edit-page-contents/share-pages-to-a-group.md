@@ -1,2 +1,2 @@
-# Share pages to a group
+# Share page to a group
 
