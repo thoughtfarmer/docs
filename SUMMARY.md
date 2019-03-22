@@ -15,7 +15,7 @@
       * [Edit and delete Comments](using-thoughtfarmer/basic-features/comments/edit-and-delete-comments.md)
       * [Comments and notifications](using-thoughtfarmer/basic-features/comments/comments-and-notifications.md)
       * [Comments on gallery photos](using-thoughtfarmer/basic-features/comments/comments-on-gallery-photos.md)
-      * [Comments on files](using-thoughtfarmer/basic-features/comments/comments-on-files.md)
+      * [Comment on a files](using-thoughtfarmer/basic-features/comments/comments-on-files.md)
     * [Cards](using-thoughtfarmer/basic-features/cards.md)
     * [Page Sharing Buttons](using-thoughtfarmer/basic-features/page-sharing-buttons.md)
     * [Following and Alerts](using-thoughtfarmer/basic-features/following-and-alerts/README.md)

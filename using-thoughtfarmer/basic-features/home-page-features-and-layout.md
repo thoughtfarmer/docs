@@ -10,13 +10,13 @@ Every ThoughtFarmer homepage is unique, depending on how your organization has s
 
 ### Application Toolbar
 
-![](../../.gitbook/assets/1%20%284%29.png)
+![](../../.gitbook/assets/1%20%288%29.png)
 
 The Application Toolbar is the bar at the very top of your homepage, and it stays at the top no matter what intranet page you are viewing. The menus and links in the Toolbar are really useful in navigating the intranet - you'll find pages that you've bookmarked, pages you've visited recently, a list of your group pages, Alerts to activity on pages you follow, Search, links to your profile and more. [Learn more about the Application Toolbar](application-toolbar.md).
 
 ### Main Navigation Bar
 
-![](../../.gitbook/assets/2%20%283%29.png)
+![](../../.gitbook/assets/2%20%288%29.png)
 
 The Main Navigation Bar extends across the page just below your intranet name or logo. It contains links to some of the top level pages on your intranet - those main pages that you start out on when delving into intranet content. You'll likely find a link to your Employee Directory in the main navigation bar, and some intranets have a link to a Group Directory as well. Depending on the settings on your intranet, the Main Navigation Bar may also have links to your homepage and profile page.
 
@@ -28,7 +28,7 @@ The Main Navigation Bar shows on tablets, but is not displayed on smartphones. O
 
 On the homepage, the Left Navigation Card is a simple treeview navigation that you can use to navigate through your intranet. Some organizations choose to hide the Left Navigation Card from the homepage when viewed on a desktop computer. When you navigate to other pages, the Left Hand Nav becomes the SuperNav, capable of much more than a simple treeview navigation! \([Learn more about the SuperNav](../search/use-the-supernav.md).\)
 
-![](../../.gitbook/assets/3%20%282%29.jpg)
+![](../../.gitbook/assets/3%20%284%29.jpg)
 
 **Mobile devices**
 
@@ -61,24 +61,24 @@ Below we've given a brief summary of some of the Cards you may see on your homep
 
 * **Bookmarks:** Displays a list of pages that you have bookmarked. This Card contains the same information that is found in the Bookmarks menu on the Application Toolbar. You can add, rename and remove bookmarks from the Bookmarks Card. \([Learn more about Bookmarks](bookmarks/).\)
 
-![](../../.gitbook/assets/7%20%282%29.jpg)
+![](../../.gitbook/assets/7%20%283%29.jpg)
 
   
 
 
 * **Poll:** Displays the selected poll, and allows users to vote on the poll. Once you vote, the Card displays the current results of the poll.
 
-![](../../.gitbook/assets/8%20%282%29.png)
+![](../../.gitbook/assets/8%20%285%29.png)
 
 
 
 * **Location:** Displays information entered about a location's address and contact info, and a map if desired.
 
-![](../../.gitbook/assets/9%20%282%29.png)
+![](../../.gitbook/assets/9%20%285%29.png)
 
 * **Mini Calendar:** Displays a mini calendar month indicating days that have events scheduled. Events come from a calendar page elsewhere on the intranet. Today's or the selected day's events show with the Mini Calendar.
 
-![](../../.gitbook/assets/10%20%281%29.png)
+![](../../.gitbook/assets/10%20%282%29.png)
 
 * **News Carousel:** Another way of displaying Recent News, in a rotating carousel of News items.
 
@@ -94,7 +94,7 @@ Below we've given a brief summary of some of the Cards you may see on your homep
 
 * **Random quote:** Displays random quotes added to the Quotes page by intranet users. Every page refresh shows a different quote, and you can click the arrows to navigate through the quotes.
 
-![](../../.gitbook/assets/14.png)
+![](../../.gitbook/assets/14%20%281%29.png)
 
 * **Rich text:** Anything you can add to the Rich Text Editor you use when editing a page can be displayed in a Rich Text Card.
 * **Custom Cards:** There are many possibilities for other things that your intranet administrator could add to your homepage in a Custom Card!
