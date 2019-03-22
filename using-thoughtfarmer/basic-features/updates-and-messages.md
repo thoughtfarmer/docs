@@ -31,7 +31,7 @@ You can also share an update from your profile page.
 5. Below your update it indicates who it will be visible to. Click on **Select a group** and click on **Everyone** to send the update to everyone.
 6. Click on the **Share** button to send your update. 
 
-![](../../.gitbook/assets/2%20%281%29.jpg)
+![](../../.gitbook/assets/2%20%282%29.jpg)
 
 
 
@@ -85,17 +85,17 @@ You can leave a message for a coworker on their profile page, and they will see 
 4. Type your message in the text box.
 5. Click on the **Share** button to send your message
 
-![](../../.gitbook/assets/5.jpg)
+![](../../.gitbook/assets/5%20%281%29.jpg)
 
 ### Edit an update or message
 
 When you share an update or message, you can edit it for two minutes \(or whatever time limit your intranet admin chooses\) after you hit **Share**. If you need to edit your update, click the three dots on the top right of the update, and click **Edit for 2 mins** in the menu that opens.
 
-![](../../.gitbook/assets/6.jpg)
+![](../../.gitbook/assets/6%20%281%29.jpg)
 
 ### View, Bookmark or Follow an update or message
 
 Because other users can comment on, like and follow your updates, they can become their own conversation that you'll want to check on and perhaps note for future reference. Click the three dots in the top right of an update or message to open a menu where you can access these actions.
 
-![](../../.gitbook/assets/7.jpg)
+![](../../.gitbook/assets/7%20%281%29.jpg)
 

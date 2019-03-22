@@ -82,7 +82,7 @@ On smartphones, the search icon \(a magnifying glass\) may be located in the App
 
 Click on your profile picture icon or name to open a menu with several options. Click on your name or profile picture in the open menu to go to your profile page. **Edit profile** takes you into edit mode on your profile page. **Settings** takes you to a page where you can change your timezone, preferred language, archived content view, alternate emails and Notification settings. **Help** takes you to an intranet help site chosen by your intranet administrator. The **View archived content** toggle selects whether archived pages are visible to you or not. \(See [how to archive and delete pages](../edit-page-contents/archive-and-delete-pages.md) for more information on archiving.\) **Change password** takes you to a screen for changing your password. Depending on the method used to login and access your intranet, there may be a **Sign out** option in this menu. Administrators also have a toggle for entering/leaving Admin Mode and a link to the Administration panel from the profile menu.
 
-![](../../.gitbook/assets/9.png)
+![](../../.gitbook/assets/9%20%281%29.png)
 
 \(See [how to set up profile pages](../profile-pages/) and [select and upload a profile photo](../profile-pages/add-a-profile-photo.md) for more information.\)
 

@@ -44,7 +44,7 @@ Included in the Recent News are both news stories targeted at all employees and 
 
 In the Activity stream you can keep up-to-date on activity happening all over the intranet. The **Highlights** tab lets you know when pages are created, files are added, comments and Shout-outs are made and more. The **Updates** tab shows updates your colleagues have shared with everyone or with groups that you belong to. The **Shout-outs** tab shows Shout-outs sent to everyone and Shout-outs sent to groups you are a part of. The **Your Groups** tab shows activity specifically related to groups you are a member of. The Activity stream is interactive, allowing you to Like, Bookmark, Follow and Share activity items, and join discussions by commenting right from your homepage. \([Learn more about Activity streams](activity-streams.md).\)
 
-![](../../.gitbook/assets/5%20%281%29.jpg)
+![](../../.gitbook/assets/5%20%282%29.jpg)
 
 
 
@@ -61,24 +61,24 @@ Below we've given a brief summary of some of the Cards you may see on your homep
 
 * **Bookmarks:** Displays a list of pages that you have bookmarked. This Card contains the same information that is found in the Bookmarks menu on the Application Toolbar. You can add, rename and remove bookmarks from the Bookmarks Card. \([Learn more about Bookmarks](bookmarks/).\)
 
-![](../../.gitbook/assets/7%20%281%29.jpg)
+![](../../.gitbook/assets/7%20%282%29.jpg)
 
   
 
 
 * **Poll:** Displays the selected poll, and allows users to vote on the poll. Once you vote, the Card displays the current results of the poll.
 
-![](../../.gitbook/assets/8%20%281%29.png)
+![](../../.gitbook/assets/8%20%282%29.png)
 
 
 
 * **Location:** Displays information entered about a location's address and contact info, and a map if desired.
 
-![](../../.gitbook/assets/9%20%281%29.png)
+![](../../.gitbook/assets/9%20%282%29.png)
 
 * **Mini Calendar:** Displays a mini calendar month indicating days that have events scheduled. Events come from a calendar page elsewhere on the intranet. Today's or the selected day's events show with the Mini Calendar.
 
-![](../../.gitbook/assets/10.png)
+![](../../.gitbook/assets/10%20%281%29.png)
 
 * **News Carousel:** Another way of displaying Recent News, in a rotating carousel of News items.
 
