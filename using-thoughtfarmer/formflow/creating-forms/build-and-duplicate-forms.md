@@ -11,7 +11,7 @@ Building and duplicating forms is easy! You can start a new form from scratch or
 1.There are many different feature options you can use to build your form including:  
 
 
-![](../../../.gitbook/assets/1%20%2827%29.png)
+![](../../../.gitbook/assets/1%20%2838%29.png)
 
 
 
@@ -23,11 +23,11 @@ Each one of these features has sections you can edit and add content to.
 
 4.Your new element will appear as a field with the label “untitled”.
 
-![](../../../.gitbook/assets/3%20%2814%29.png)
+![](../../../.gitbook/assets/3%20%2816%29.png)
 
 5.To edit the field, just click on the field to open the editor.
 
-![](../../../.gitbook/assets/4%20%287%29.png)
+![](../../../.gitbook/assets/4%20%288%29.png)
 
 
 
@@ -36,7 +36,7 @@ Each one of these features has sections you can edit and add content to.
 7.Once you have edited all of the content to your liking, click “save” to save your customized field and return to the workspace.  
 
 
-![](../../../.gitbook/assets/5%20%288%29.png)
+![](../../../.gitbook/assets/5%20%2810%29.png)
 
 
 
@@ -45,7 +45,7 @@ Each one of these features has sections you can edit and add content to.
 9.Even after you have saved an edited field, you still have the opportunity to change it if you need to. Just hover over the field you wish to edit to reveal two editing functions:  
 
 
-![](../../../.gitbook/assets/6%20%287%29.png)
+![](../../../.gitbook/assets/6%20%289%29.png)
 
 
 
@@ -64,7 +64,7 @@ Each one of these features has sections you can edit and add content to.
 
 1.From your forms overview, click Add form to start a new form.
 
-![](../../../.gitbook/assets/8%20%284%29.png)
+![](../../../.gitbook/assets/8%20%286%29.png)
 
 2.Create a name for your new form.
 

@@ -6,14 +6,14 @@ The Page Sharing Buttons contain multiple ways to share information and tell oth
   
 
 
-![](../../.gitbook/assets/3%20%283%29.jpg)
+![](../../.gitbook/assets/3%20%286%29.jpg)
 
 ### Like
 
 Clicking the Like icon \(a thumbs up\) lets others know that you enjoyed a page or found it useful. The number of people that have liked a page shows below the like icon. Hover over the number to see a pop-up list of people who like the page. Click on the number of Likes to see a list of the people who like that page, with profile photos. Once you click the Like \(or thumbs up\) icon, it is filled in to show that you like the page. If you click on the Like icon by mistake, just click on it again to remove your Like.  
 
 
-![](../../.gitbook/assets/4%20%284%29.png)
+![](../../.gitbook/assets/4%20%285%29.png)
 
 Depending on the settings that your intranet administrator has chosen, clicking the Like icon may increase the likelihood of that page showing higher in relevant search results.
 

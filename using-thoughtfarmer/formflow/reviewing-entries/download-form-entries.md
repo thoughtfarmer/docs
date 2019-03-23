@@ -12,7 +12,7 @@ Occasionally you may need an overview of the form entries that have been submitt
 * **Views dropdown** - This dropdown lets you filter form entries by predefined filters or views. You can choose from All entries, archived, in progress, overdue and more.
 * **Search bar** - The search bar works like any other search, it will filter the form entries by whatever keywords you search for.
 
-![](../../../.gitbook/assets/1%20%286%29.png)
+![](../../../.gitbook/assets/1%20%2810%29.png)
 
 3.When you have set your filters the way you want them, click the Download button on the top right of the page.
 

@@ -4,7 +4,7 @@
 
 Shout-outs are a great way of empowering employees to recognize one another for their outstanding contributions. In a few simple steps, users can send positive reinforcement to one colleague or several colleagues for a great presentation, a successful product launch, positive qualities, or anything else that deserves a Shout-outs. Shout-outs can be sent so that everyone in the organization sees them, or they can be directed to display on a particular group page and on the homepages of that groups' members.
 
-![](../../.gitbook/assets/1%20%282%29.jpg)
+![](../../.gitbook/assets/1%20%2814%29.jpg)
 
 ###  When you type an @mention in a Shout-out, that results in the mentioned person or group members receiving a notification of the Shout-out. The profile photo of the mentioned person\(s\) will also show in the Shout-outs. Just like an update or message, Shout-outs can be liked, commented on, bookmarked, followed, and viewed on their own page.  Shout-outs can be sent from the homepage, group pages with Activity cards, your profile page, and Shout-outs Cards \(if enabled\).
 
@@ -13,7 +13,7 @@ Shout-outs are a great way of empowering employees to recognize one another for 
 When you send a Shout-out, you can choose to either send it to Everyone, or to one of the groups that you belong to, depending on the settings your intranet administrator has chosen.  
 
 
-![](../../.gitbook/assets/2%20%282%29.jpg)
+![](../../.gitbook/assets/2%20%286%29.jpg)
 
 
 
@@ -36,7 +36,7 @@ If you choose to send a Shout-out **to a specific group** that you belong to, th
 4.Type your Shout-outs. Include one or more @mentions to alert the colleague\(s\) that you are giving a Shout-out to, and to have their profile photo appear in the Shout-outs. @Mention a group to send a Shout-out to all of that group's members. \(To learn more about @mentions, see [Mentions and Alerts](following-and-alerts/mentions-and-alerts.md).\)  
 
 
-![](../../.gitbook/assets/4%20%285%29.jpg)
+![](../../.gitbook/assets/4%20%287%29.jpg)
 
 ### 
 
@@ -44,7 +44,7 @@ If you choose to send a Shout-out **to a specific group** that you belong to, th
 
 6.Click the Shout-out ****button. Your Shout-out will now appear in Activity feeds and Shout-out cards on the intranet.
 
-![](../../.gitbook/assets/5%20%283%29.jpg)
+![](../../.gitbook/assets/5%20%286%29.jpg)
 
 ### Send a Shout-out on a group page
 
@@ -62,7 +62,7 @@ When you want to find a Shout-out you were mentioned in, or you just need a litt
 
 If enabled on your intranet, the number of Shout-outs you have received will show below your name on your profile page. Click on the number of Shout-outs to view a list of the Shout-outs in a pop-up window. In the window you can navigate through the list of Shout-outs, or click on a Shout-out to view the full content on a separate page.
 
-![](../../.gitbook/assets/8%20%288%29.png)
+![](../../.gitbook/assets/8%20%2810%29.png)
 
 
 
@@ -82,5 +82,5 @@ You can navigate to a page that lists Shout-outs that were sent to you and your 
    4. Click on Shout-outs, people's names or page titles to go to those individual pages.
 5. You can click the **Share** icon beside the number of Shout-outs at the top of the list to export information from the Shout Outs into an Excel sheet.
 
-![](../../.gitbook/assets/9.jpg)
+![](../../.gitbook/assets/9%20%282%29.jpg)
 

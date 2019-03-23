@@ -14,7 +14,7 @@ The form creator specifies the number of columns and applies form elements and c
 
 ![](../../../.gitbook/assets/2%20%283%29.png)
 
-![](../../../.gitbook/assets/3%20%284%29.png)
+![](../../../.gitbook/assets/3%20%285%29.png)
 
 
 
@@ -39,13 +39,13 @@ The form creator specifies the number of columns and applies form elements and c
 
 5.To add a form element to a column, click on the cog inside the column to open the Field Type pop-up. Select the type of field you want the column to contain and click save.
 
-![](../../../.gitbook/assets/4%20%2811%29.png)
+![](../../../.gitbook/assets/4%20%2813%29.png)
 
 6.Once your column has been populated with the field type of your choice, and the field editor will automatically be open and ready for you to customize. The editor lets you name the column, add instructions, and set other requirements.  
   
 **Example field editor \(People lookup field\)**
 
-![](../../../.gitbook/assets/5%20%283%29.png)
+![](../../../.gitbook/assets/5%20%284%29.png)
 
 **7.**After creating your first column, you can add additional columns by clicking Add column.
 
