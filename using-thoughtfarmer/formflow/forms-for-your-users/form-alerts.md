@@ -18,7 +18,7 @@ As part of the FormFlow feature, the existing Alerts panel has been expanded to 
 
 5.Or, click on the Forms overview link at the bottom of the tab to navigate to the general forms overview.
 
-![](../../../.gitbook/assets/2%20%2827%29.png)
+![](../../../.gitbook/assets/2%20%2835%29.png)
 
 
 

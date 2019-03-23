@@ -17,7 +17,7 @@ There are two ways to access your submitted entries:
 
 3.Click on the “Submitted by you” line to open the Entries page for these specific entries.
 
-![](../../../.gitbook/assets/2%20%284%29.png)
+![](../../../.gitbook/assets/2%20%285%29.png)
 
 
 

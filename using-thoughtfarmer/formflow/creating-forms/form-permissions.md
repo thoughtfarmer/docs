@@ -21,7 +21,7 @@ Submitters are any users that can submit entries to the form. Submitters can onl
 
 1. The Submitter field indicates who can create entries for the form. By default, this box is set to All Registered Users, but you can change this to include other groups or individuals. 
 
-![](../../../.gitbook/assets/2%20%2813%29.png)
+![](../../../.gitbook/assets/2%20%2817%29.png)
 
 
 
@@ -30,7 +30,7 @@ Submitters are any users that can submit entries to the form. Submitters can onl
 
 2.By default, Submitters are allowed to view, but not edit, their form entries. To allow editing, click on the box "Allow submitters to edit their form entries after they've been submitted".
 
-![](../../../.gitbook/assets/3%20%2814%29.png)
+![](../../../.gitbook/assets/3%20%2815%29.png)
 
 * Submitters will be able to edit any of their entries
 * Submitters cannot edit the form status, or who the form is assigned to
@@ -38,7 +38,7 @@ Submitters are any users that can submit entries to the form. Submitters can onl
 
 3.To limit the number of times a user can submit a form entry, click on the box "Limit the number of times a person can submit the form" and enter a number.
 
-![](../../../.gitbook/assets/4%20%2821%29.png)
+![](../../../.gitbook/assets/4%20%2824%29.png)
 
 
 
@@ -47,7 +47,7 @@ Submitters are any users that can submit entries to the form. Submitters can onl
 
 4. If you want to limit the total number of form entries you receive, click on the box "Limit the maximum number of submissions for this form" and enter the cutoff number you want in the text box.
 
-![](../../../.gitbook/assets/5%20%2819%29.png)
+![](../../../.gitbook/assets/5%20%2820%29.png)
 
 
 
@@ -66,7 +66,7 @@ Reviewers are the people who can view and process received entries. They will al
 
 2.Additional Reviewers have the same permissions as the Initial Reviewer. By default this text box is blank, but you can add whatever users or security groups you like. If you add a security group, each user in the group will become an Additional Reviewer, and will be visible in the Assigned To drop down on the form processing page. If the checkbox "Notify additional reviewers when entries are submitted" is checked, then additional reviewers will be notified of the entry at the same time the initial reviewer is notified.
 
-![](../../../.gitbook/assets/7%20%282%29.png)
+![](../../../.gitbook/assets/7%20%283%29.png)
 
 
 
@@ -79,7 +79,7 @@ Reviewers are the people who can view and process received entries. They will al
 4.To delete a reviewer, simply click the X next to their name.  
 
 
-![](../../../.gitbook/assets/8%20%289%29.png)
+![](../../../.gitbook/assets/8%20%2811%29.png)
 
 
 

@@ -18,7 +18,7 @@ At some point your browser will have asked you whether you want to receive notif
 
 ### **In Chrome**
 
-![](../../../.gitbook/assets/7%20%284%29.jpg)
+![](../../../.gitbook/assets/7%20%285%29.jpg)
 
 
 

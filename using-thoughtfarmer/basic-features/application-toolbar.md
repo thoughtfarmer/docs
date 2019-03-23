@@ -10,7 +10,7 @@ The Application Toolbar is the top bar on every page of your intranet. From any 
 
 Click the home icon to return to your intranet's homepage from any page.
 
-![](../../.gitbook/assets/2%20%2819%29.png)
+![](../../.gitbook/assets/2%20%2823%29.png)
 
 **On mobile devices**
 
@@ -27,7 +27,7 @@ Click on **Bookmarks** to see a list of pages you have bookmarked. Bookmark page
 
 Click on **History** to see pages you have visited recently. Easily navigate back and forth between several pages using the **History** dropdown. Look here when you don't remember where in the navigation to find a certain page, but you know you've visited it recently.
 
-![](../../.gitbook/assets/4%20%282%29.png)
+![](../../.gitbook/assets/4%20%283%29.png)
 
 **On mobile devices**
 
@@ -37,7 +37,7 @@ On smartphones, tap on the star icon to open the Bookmarks menu, and tap on the 
 
 If enabled, you will see a list of the groups you belong to in the Your Groups menu. This gives you easy access to team and project pages, and other groups relevant to your work.
 
-![](../../.gitbook/assets/5%20%2813%29.png)
+![](../../.gitbook/assets/5%20%2814%29.png)
 
 **On mobile devices**
 
@@ -60,7 +60,7 @@ On smartphones, tap the flag icon to open the Alerts menu.
 When you open files from your intranet so you can edit them, the **Locked files** menu appears in the Application Toolbar. Any files you open for editing are locked so that no one else can edit them at the same time. The intranet uses a behind-the-scenes application called the ThoughtFarmer Desktop Connector to communicate with your computer and to allow you to edit files from the intranet and save the changes back to the intranet. Click on **Locked files** in the Application Toolbar to see which files you have open for editing, and finish editing by clicking "Done editing" beside the file name.  
 
 
-![](../../.gitbook/assets/7%20%2810%29.png)
+![](../../.gitbook/assets/7%20%2812%29.png)
 
 \(See [how to open and lock files for editing](../add-and-edit-files/open-and-lock-a-file-for-editing.md) for more information on locked files.\)
 
@@ -72,7 +72,7 @@ On smartphones, tap the lock icon to open the Locked files menu.
 
 Click on Search to expand the search panel. For a basic search, enter a search term and click the search icon \(a magnifying glass\). You can also click on the menu at the left of the search bar to choose to search the people or groups directories, a particular section of the intranet, or an external search engine. Click on Advanced Search on the right to perform a search using filters. \(See [how to use search](../search/) for more information on search.\)
 
-![](../../.gitbook/assets/8%20%281%29.png)
+![](../../.gitbook/assets/8%20%282%29.png)
 
 **On mobile devices**
 

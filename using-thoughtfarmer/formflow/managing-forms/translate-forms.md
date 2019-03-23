@@ -22,11 +22,11 @@ Translating these areas is a simple change you can make within the form builder.
 
 ![](../../../.gitbook/assets/1%20%2815%29.png)
 
-![](../../../.gitbook/assets/2%20%2817%29.png)
+![](../../../.gitbook/assets/2%20%2821%29.png)
 
 3.Select the language you want the form to use in the selector.
 
-![](../../../.gitbook/assets/3%20%2819%29.png)
+![](../../../.gitbook/assets/3%20%2822%29.png)
 
 
 

@@ -22,7 +22,7 @@ You can use Mentions to let someone know information they need, or to draw their
 
 When your name, or a group you are a member of, is mentioned, a new alert will show in your Alerts menu on the Application Toolbar, under the **Mentions** tab. A number shows on the Alerts tab in the Application Toolbar showing how many new Notifications and Mentions you have. Click on the alert in the Mentions tab to be taken to the page or comment where you or your group was mentioned. "Unread" items in your Alerts menu are highlighted until you visit the page that triggered the alert - so you can keep track of Alerts you haven't looked at yet!
 
-![](../../../.gitbook/assets/2%20%2836%29.png)
+![](../../../.gitbook/assets/2%20%2844%29.png)
 
 ### Following content you are mentioned on
 

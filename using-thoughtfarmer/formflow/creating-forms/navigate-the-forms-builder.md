@@ -8,7 +8,7 @@ Access the form builder from your profile drop down menu.
 
 Click on Add a form. A modal will appear, asking for the name of your new form. Type in the name and click Save to launch the builder.
 
-![](../../../.gitbook/assets/2%20%2831%29.png)
+![](../../../.gitbook/assets/2%20%2839%29.png)
 
 Your form is now in draft mode. It will stay in draft mode and only you will be able to see it until you click the launch button.
 
@@ -25,7 +25,7 @@ The form builder has four navigation tabs:
 
 Form elements are all of the various fields and form content you can add to your form. There are options for paragraph text, different versions of multiple choice scenarios, image or content blocks and more.
 
-![](../../../.gitbook/assets/4%20%2814%29.png)
+![](../../../.gitbook/assets/4%20%2817%29.png)
 
 The main workspace is where you will build the form itself. You can drag elements from menu on the left and drop them into the workspace, or you can choose to use an existing form as the base for your new form.
 
@@ -35,7 +35,7 @@ The More Details area is a section of the Form Builder that contains key pieces 
 
 Access the More Details section by clicking on the downward arrow button next to the launch button.
 
-![](../../../.gitbook/assets/6%20%2811%29.png)
+![](../../../.gitbook/assets/6%20%2812%29.png)
 
 The More Details area lists:
 
@@ -51,7 +51,7 @@ Once you have built your form, you can move through the remaining builder tabs u
   
 When you are satisfied that your form is complete, click Preview to see how your form will look live, or click Launch to publish!
 
-![](../../../.gitbook/assets/7%20%288%29.png)
+![](../../../.gitbook/assets/7%20%289%29.png)
 
 Remember, you can always edit, modify, archive, or delete your form after it is launched.
 
