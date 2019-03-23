@@ -9,5 +9,5 @@ While browsing a photo gallery on your intranet, you're bound to see a photo tha
 Once a comment is added to a photo, a little bubble displays in the top right of the photo on the main gallery page, showing how many comments have been made on that photo. Click on the photo to view the larger Image Preview with comments below. \(See complete instructions on [how to add a photo gallery](../../add-pages-and-sections/add-a-photo-gallery/).\)  
 
 
-![](../../../.gitbook/assets/6%20%2810%29.png)
+![](../../../.gitbook/assets/6%20%2811%29.png)
 

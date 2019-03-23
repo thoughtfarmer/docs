@@ -12,12 +12,12 @@ FormFlow has an Import/Export feature that allows you to export forms from withi
 
 * From the forms overview, click on the ellipses and select **Export** in the dropdown.
 
-![](../../../.gitbook/assets/1%20%2811%29.png)
+![](../../../.gitbook/assets/1%20%2813%29.png)
 
 • Or, open the Form and click on the **Export** link on the Form landing page.  
 
 
-![](../../../.gitbook/assets/2%20%2814%29.png)
+![](../../../.gitbook/assets/2%20%2816%29.png)
 
 
 
@@ -30,7 +30,7 @@ FormFlow has an Import/Export feature that allows you to export forms from withi
 1.On the Forms overview page, click on the **Import** link.   
 
 
-![](../../../.gitbook/assets/3%20%2817%29.png)
+![](../../../.gitbook/assets/3%20%2819%29.png)
 
 
 

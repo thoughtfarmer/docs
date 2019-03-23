@@ -10,7 +10,7 @@ The Application Toolbar is the top bar on every page of your intranet. From any 
 
 Click the home icon to return to your intranet's homepage from any page.
 
-![](../../.gitbook/assets/2%20%2811%29.png)
+![](../../.gitbook/assets/2%20%2813%29.png)
 
 **On mobile devices**
 
@@ -23,7 +23,7 @@ If both Bookmarks and History \(recently viewed pages\) are enabled on your intr
 Click on **Bookmarks** to see a list of pages you have bookmarked. Bookmark pages that you visit often \(click the star icon in the Page Sharing Buttons\) for easy access from any page on the intranet. Once you have bookmarked a page, you can edit the bookmark name or delete it from either this list or the Bookmarks Card. You can also add external websites or email addresses to your Bookmarks from the Bookmarks Card. \(See [how to use Bookmarks](bookmarks/) for more information on Bookmarks.\)  
 
 
-![](../../.gitbook/assets/3%20%285%29.png)
+![](../../.gitbook/assets/3%20%286%29.png)
 
 Click on **History** to see pages you have visited recently. Easily navigate back and forth between several pages using the **History** dropdown. Look here when you don't remember where in the navigation to find a certain page, but you know you've visited it recently.
 
