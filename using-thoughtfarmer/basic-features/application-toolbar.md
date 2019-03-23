@@ -10,7 +10,7 @@ The Application Toolbar is the top bar on every page of your intranet. From any 
 
 Click the home icon to return to your intranet's homepage from any page.
 
-![](../../.gitbook/assets/2%20%286%29.png)
+![](../../.gitbook/assets/2%20%288%29.png)
 
 **On mobile devices**
 

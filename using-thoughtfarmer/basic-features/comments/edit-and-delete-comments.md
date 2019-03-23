@@ -6,7 +6,7 @@ How often do you click **Post** when adding a comment, and then realize that you
   
 
 
-![](../../../.gitbook/assets/1%20%288%29.png)
+![](../../../.gitbook/assets/1%20%2810%29.png)
 
 ### Delete your comment
 

@@ -12,7 +12,7 @@ As a default, all draft forms are initially set up with one section but you can 
 
 3.If you so desire, you can name each section. These names are for your reference only and will not be viewable on the completed form. Naming a section also makes it easier when you are setting up any associate form logic.
 
-![](../../../.gitbook/assets/2%20%284%29.png)
+![](../../../.gitbook/assets/2%20%286%29.png)
 
 
 
