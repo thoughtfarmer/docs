@@ -16,7 +16,7 @@ When you create a new page, you may want to make certain people aware of the pag
 3.Click in the **Enter name box**, and start typing the name of the person you want to add.  
 
 
-![](../../../.gitbook/assets/9%20%282%29.png)
+![](../../../.gitbook/assets/9%20%284%29.png)
 
 
 
@@ -36,7 +36,7 @@ You need to have edit permission on the page to stop someone from following the 
 
 3.Click the **X** to the right of a follower to remove that person as a follower on the page.
 
-![](../../../.gitbook/assets/10%20%284%29.png)
+![](../../../.gitbook/assets/10%20%286%29.png)
 
 
 

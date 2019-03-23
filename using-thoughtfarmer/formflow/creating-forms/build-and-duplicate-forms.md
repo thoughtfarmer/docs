@@ -11,7 +11,7 @@ Building and duplicating forms is easy! You can start a new form from scratch or
 1.There are many different feature options you can use to build your form including:  
 
 
-![](../../../.gitbook/assets/1%20%289%29.png)
+![](../../../.gitbook/assets/1%20%2815%29.png)
 
 
 
@@ -23,11 +23,11 @@ Each one of these features has sections you can edit and add content to.
 
 4.Your new element will appear as a field with the label “untitled”.
 
-![](../../../.gitbook/assets/3%20%284%29.png)
+![](../../../.gitbook/assets/3%20%289%29.png)
 
 5.To edit the field, just click on the field to open the editor.
 
-![](../../../.gitbook/assets/4%20%284%29.png)
+![](../../../.gitbook/assets/4%20%285%29.png)
 
 
 
@@ -36,7 +36,7 @@ Each one of these features has sections you can edit and add content to.
 7.Once you have edited all of the content to your liking, click “save” to save your customized field and return to the workspace.  
 
 
-![](../../../.gitbook/assets/5%20%285%29.png)
+![](../../../.gitbook/assets/5%20%288%29.png)
 
 
 
@@ -45,7 +45,7 @@ Each one of these features has sections you can edit and add content to.
 9.Even after you have saved an edited field, you still have the opportunity to change it if you need to. Just hover over the field you wish to edit to reveal two editing functions:  
 
 
-![](../../../.gitbook/assets/6%20%282%29.png)
+![](../../../.gitbook/assets/6%20%286%29.png)
 
 
 
@@ -68,7 +68,7 @@ Each one of these features has sections you can edit and add content to.
 
 2.Create a name for your new form.
 
-![](../../../.gitbook/assets/9%20%283%29.png)
+![](../../../.gitbook/assets/9%20%285%29.png)
 
 3.Instead of dragging and dropping form elements as you would to create a whole new form, click on the Choose an Existing Form located below the builder.
 
@@ -76,11 +76,11 @@ Each one of these features has sections you can edit and add content to.
 
 4.A pop up will appear with a list of forms you own or manage. Select the form you wish to replicate from the list.
 
-![](../../../.gitbook/assets/11%20%282%29.png)
+![](../../../.gitbook/assets/11%20%284%29.png)
 
 5.The builder will load the form fields, workflow, messaging, and permissions of the existing form. It will not load the owner, the created date, activity, or form data from the original form.
 
-![](../../../.gitbook/assets/12%20%281%29.png)
+![](../../../.gitbook/assets/12%20%283%29.png)
 
 
 
