@@ -1,0 +1,2 @@
+# Troubleshooting the search index
+

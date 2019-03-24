@@ -1,0 +1,2 @@
+# Image browser settings
+

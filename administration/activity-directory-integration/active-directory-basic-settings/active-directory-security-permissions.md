@@ -1,0 +1,2 @@
+# Active Directory security permissions
+

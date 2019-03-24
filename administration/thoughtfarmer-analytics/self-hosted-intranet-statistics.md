@@ -1,0 +1,2 @@
+# Self Hosted intranet statistics
+

@@ -1,0 +1,2 @@
+# Change carousel rotation options
+

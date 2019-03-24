@@ -1,0 +1,2 @@
+# Forum types and options
+
