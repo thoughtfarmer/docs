@@ -28,7 +28,7 @@ It's easy to replace the Thumbnail image for a page with another image.
   
 **If the desired image has already been inserted on the page, you can select it as the Thumbnail image in another way**: In edit mode, hover over that image in the content section, and click the **pencil** in the top right of the image. Select **Set as thumbnail** from the menu that appears. The Thumbnail image will automatically update on the right of the page.
 
-![](../../../.gitbook/assets/2%20%2855%29.jpg)
+![](../../../.gitbook/assets/2%20%2859%29.jpg)
 
 
 

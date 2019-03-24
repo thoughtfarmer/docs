@@ -18,7 +18,7 @@ Use these instructions to set up a group page where team members can share infor
 8. \(optional\) Set up other cards that are available on the template you choose. \(To learn more, see [How to set up cards on a page](../set-up-cards/)\).
 9. Continue editing or click **Publish** at the top of the page.  
 
-![](../../../.gitbook/assets/1%20%2881%29.jpg)
+![](../../../.gitbook/assets/1%20%2886%29.jpg)
 
 ### Difference between "Open" & "Managed" membership
 
@@ -44,7 +44,7 @@ The People Directory & Groups Directory use Group Types as search filters. By se
 
 A Location Card on your group page is where you can add your group's physical address and contact info. You can even add a map showing your location in a few simple steps. Colleagues visiting from out of town can find their way to your office by viewing the map on the office group page.
 
-![](../../../.gitbook/assets/2%20%2834%29.jpg)
+![](../../../.gitbook/assets/2%20%2838%29.jpg)
 
 
 
@@ -54,7 +54,7 @@ A Location Card on your group page is where you can add your group's physical ad
 
 3.Find the **Location** Card section and click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../../.gitbook/assets/3%20%2837%29.png)
+![](../../../.gitbook/assets/3%20%2841%29.png)
 
 
 

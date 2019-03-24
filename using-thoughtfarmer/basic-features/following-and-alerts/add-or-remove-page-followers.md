@@ -11,7 +11,7 @@ When you create a new page, you may want to make certain people aware of the pag
 2.In the **Following** pop-up window that opens, click **Edit list** above the list of followers.  
 
 
-![](../../../.gitbook/assets/8%20%286%29.png)
+![](../../../.gitbook/assets/8%20%287%29.png)
 
 3.Click in the **Enter name box**, and start typing the name of the person you want to add.  
 

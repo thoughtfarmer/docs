@@ -18,7 +18,7 @@ The first image that you insert on a page will automatically become the Thumbnai
 
 3.Click the **Insert Image** button to bring up the images pop-up window. \(The **Insert Image** button looks like a tiny photo of a landscape with a tiny green plus sign in the bottom right.\)
 
-![](../../.gitbook/assets/1%20%2816%29.png)
+![](../../.gitbook/assets/1%20%2817%29.png)
 
 
 
@@ -32,7 +32,7 @@ The first image that you insert on a page will automatically become the Thumbnai
 
             d.Click on one of the displayed **galleries**, and select an image       from the gallery.
 
-![](../../.gitbook/assets/2%20%2836%29.jpg)
+![](../../.gitbook/assets/2%20%2840%29.jpg)
 
 
 
@@ -48,7 +48,7 @@ When you insert an image on a page, one of the options in the Choose Image pop-u
   
 Your intranet administrator can set certain galleries as **Recommended galleries** that will appear above All galleries in the Choose Image window. Galleries that you have **Bookmarked** will appear with a star beside the title at the top of both the Recommended galleries and the All galleries sections.
 
-![](../../.gitbook/assets/3%20%2850%29.jpg)
+![](../../.gitbook/assets/3%20%2854%29.jpg)
 
 
 
@@ -73,12 +73,12 @@ In addition to inserting images from files on your computer you can insert image
 
 4.Click the **Insert Web Image** button to bring up the Web image pop-up window. \(The **Insert Web Image** button looks like a tiny photo of a landscape with three tiny chain links on top of it.\)
 
-![](../../.gitbook/assets/4%20%2826%29.png)
+![](../../.gitbook/assets/4%20%2827%29.png)
 
 5.Paste the URL in the **Enter image URL** field in the **Web image** pop-up window.  
 
 
-![](../../.gitbook/assets/5%20%2826%29.png)
+![](../../.gitbook/assets/5%20%2827%29.png)
 
 
 
@@ -110,7 +110,7 @@ You can make an image larger or smaller so it fits just right on the page.
 2. You can resize images in one of two ways:
    1. Click and drag any one of the tiny boxes around the image to make it smaller or larger.
 
-![](../../.gitbook/assets/7%20%289%29.png)
+![](../../.gitbook/assets/7%20%2810%29.png)
 
 
 

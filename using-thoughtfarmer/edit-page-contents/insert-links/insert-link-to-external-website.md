@@ -28,7 +28,7 @@ i.**Note**: Below the **Link Path** box is an option to **Show** **external** **
 **External website with intranet navigation links:**  
 \(How the external website will appear when **Show external location with \[Intranet name\] navigation** checkbox is selected.\)
 
-![](../../../.gitbook/assets/2%20%2826%29.jpg)
+![](../../../.gitbook/assets/2%20%2830%29.jpg)
 
 
 

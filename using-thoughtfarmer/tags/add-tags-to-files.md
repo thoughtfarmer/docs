@@ -9,7 +9,7 @@ You can add tags to files that you have edit permission on to help other people 
 
 1.Click the **down arrow** on the far right of the file name to expand the **File Controls**.
 
-![](../../.gitbook/assets/1%20%2834%29.jpg)
+![](../../.gitbook/assets/1%20%2836%29.jpg)
 
 
 
@@ -17,7 +17,7 @@ You can add tags to files that you have edit permission on to help other people 
 
 3.In the blank text box, start typing a tag. A list of matching tags will automatically appear.
 
-![](../../.gitbook/assets/2%20%283%29.jpg)
+![](../../.gitbook/assets/2%20%284%29.jpg)
 
 4.Click once on a tag from the matching list to select it; or type your new tag and click on **create new tag** in the list. Alternatively, select from the **Recommended tags** displayed by clicking on the tag you want. The tag will appear on the list in the pop-up window.
 

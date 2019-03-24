@@ -14,7 +14,7 @@ Need a list of your employees? The Export to Excel feature allows you to change 
 
 3.In the dropdown menu that opens, click **Export to Excel.**
 
-![](../../.gitbook/assets/1%20%2863%29.jpg)
+![](../../.gitbook/assets/1%20%2868%29.jpg)
 
 
 

@@ -6,7 +6,7 @@ Pages that have been archived or deleted can be restored and returned to a norma
 
 In order to restore archived content, you have to be able to **see** the archived content. Make sure you set**View archived content** to **ON** in your settings. You can access this setting by clicking on your name and photo on the top right of any page.
 
-![](../../.gitbook/assets/1%20%2823%29.png)
+![](../../.gitbook/assets/1%20%2824%29.png)
 
 
 

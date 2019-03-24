@@ -17,11 +17,11 @@ A Thumbnail image must be uploaded to the page it is connected with, but it does
 
 **News post: List View**
 
-![](../../../.gitbook/assets/1%20%2859%29.jpg)
+![](../../../.gitbook/assets/1%20%2864%29.jpg)
 
 **News post: Grid View**
 
-![](../../../.gitbook/assets/2%20%2843%29.jpg)
+![](../../../.gitbook/assets/2%20%2847%29.jpg)
 
 **News Carousel post:**
 
@@ -29,11 +29,11 @@ A Thumbnail image must be uploaded to the page it is connected with, but it does
 
 **Grid navigation sections:**
 
-![](../../../.gitbook/assets/4%20%2829%29.jpg)
+![](../../../.gitbook/assets/4%20%2832%29.jpg)
 
 **Search results:**
 
-![](../../../.gitbook/assets/5%20%285%29.jpg)
+![](../../../.gitbook/assets/5%20%286%29.jpg)
 
 **Video News Carousel posts and embedded videos**
 
@@ -78,7 +78,7 @@ When you add a new page header image, a new option becomes available in the Thum
 If there are multiple images available on the page, add the page header image to the page, then under the Thumbnail heading on the right, select the checkbox **Use page header image**. The page header image will show in the Thumbnail section, and if you change the page header image in the future, the Thumbnail image will automatically change.  
 
 
-![](../../../.gitbook/assets/1%20%2870%29.jpg)
+![](../../../.gitbook/assets/1%20%2875%29.jpg)
 
 
 

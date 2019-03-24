@@ -13,7 +13,7 @@ To open the nifty search dropdown at the top of the page, simply type CTRL+/. Se
 When you're in Preview mode, whether you are previewing images or files, use your left and right arrow keys to navigate through a bunch of photos and files.  
 
 
-![](../../.gitbook/assets/2%20%2812%29.jpg)
+![](../../.gitbook/assets/2%20%2813%29.jpg)
 
 **Click outside a pop-up window to close it**
 

@@ -36,15 +36,15 @@ This guide will cover both methods.
 3. The templates are organized by category according to their function \(e.g. Page, Group, Forum etc.\)
 4. If you are modifying an existing form template, locate the form from the list. Hover your cursor over the template until a pencil icon appears and click on it to open the Template Editor
 
-![](../../../.gitbook/assets/1%20%2838%29.png)
+![](../../../.gitbook/assets/1%20%2839%29.png)
 
 5.If you are creating a new template, locate the category that applies to the new template and click Add New to open the Template Editor.
 
-![](../../../.gitbook/assets/2%20%2840%29.png)
+![](../../../.gitbook/assets/2%20%2843%29.png)
 
 6.The Template Editor has three major sections: Page layout options; template name and language, and template content.
 
-![](../../../.gitbook/assets/3%20%284%29.png)
+![](../../../.gitbook/assets/3%20%285%29.png)
 
 
 
@@ -54,11 +54,11 @@ This guide will cover both methods.
 
 1. Page layout - select how many columns you want for your new template \(typically you’ll have a selection of two or three columns to choose from\).
 
-![](../../../.gitbook/assets/4%20%2818%29.png)
+![](../../../.gitbook/assets/4%20%2819%29.png)
 
 2.Enter the name of your new template in the content box, and select the template language from the drop down \(it is defaulted to English\).
 
-![](../../../.gitbook/assets/5%20%2818%29.png)
+![](../../../.gitbook/assets/5%20%2819%29.png)
 
 3.Build your template content by adding different cards. All templates will have the Body, Comments, and Document Library cards already built by default, but you can add additional cards if you want. In the column you wish to add content, click on + **Add Card** to open the card picker and select the option you want.
 
@@ -71,7 +71,7 @@ This guide will cover both methods.
 10.Click on + **Add Card** and either search for, or scroll through the list, to find the Form card and click on it.  
 
 
-![](../../../.gitbook/assets/8%20%2810%29.png)
+![](../../../.gitbook/assets/8%20%2811%29.png)
 
 11.You can reorder your content cards by dragging them up or down the list, or between columns.
 

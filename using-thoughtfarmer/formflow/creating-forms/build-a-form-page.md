@@ -9,18 +9,18 @@ Navigate to the area you want to add the form page and click on the Add icon \(+
 Enter the title of your page.  
 
 
-![](../../../.gitbook/assets/1%20%2864%29.png)
+![](../../../.gitbook/assets/1%20%2868%29.png)
 
 In the body area, enter any instructions or introductory information you would like to appear above the form on your new page. 
 
 Under Content type, select Form from the drop down.  
 
 
-![](../../../.gitbook/assets/2%20%2833%29.png)
+![](../../../.gitbook/assets/2%20%2836%29.png)
 
 To import an existing form, just search for the form title under Find a form and select the correct one from the results. It is strongly recommended that you build the form first and import it into a Form Page.
 
-![](../../../.gitbook/assets/3%20%2810%29.png)
+![](../../../.gitbook/assets/3%20%2812%29.png)
 
 The page will import the form data from the original form. The form is now associated with the page
 
@@ -32,7 +32,7 @@ If you must build a new form within a new Form Page, click on the “+ Or build 
 
 1.A pop up will appear to let you know that the Form page will be saved as a private page until your new form is built and launched.
 
-![](../../../.gitbook/assets/6%20%2816%29.png)
+![](../../../.gitbook/assets/6%20%2817%29.png)
 
 
 
@@ -47,7 +47,7 @@ Click on Build to accept and launch the form builder
 To make the form submittable on the page, select the Form option under Layout.  
 
 
-![](../../../.gitbook/assets/7%20%2810%29.png)
+![](../../../.gitbook/assets/7%20%2811%29.png)
 
 #### Entries
 
@@ -56,7 +56,7 @@ The other two layout options, Entries in list and Entries in grid, will display 
 List layout will display a table with the form entries in each row, that can be sorted by columns.  
 
 
-![](../../../.gitbook/assets/8%20%287%29.png)
+![](../../../.gitbook/assets/8%20%288%29.png)
 
 Grid layout uses cards, displaying one card per piece of form entry.
 

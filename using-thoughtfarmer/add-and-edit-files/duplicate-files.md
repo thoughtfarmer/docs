@@ -22,7 +22,7 @@ When you duplicate a file, the file content, file summary, tags, settings, and m
 
 4.Read the **Duplicate** pop-up window and click **Duplicate** in the bottom right of the pop-up. You will be taken into edit mode on the new duplicate file page.
 
-![](../../.gitbook/assets/2%20%282%29.jpg)
+![](../../.gitbook/assets/2%20%283%29.jpg)
 
 5.Edit the **file page title**. \(The duplicate will have the title **DUPLICATE OF \(title of file you duplicated\)**.
 
@@ -30,7 +30,7 @@ When you duplicate a file, the file content, file summary, tags, settings, and m
 
 6.Edit the **file name** as desired. \(The file name is used when you download the file or have it open for editing on your computer. You may wish to change the file name so as not to get it confused with the original.\)
 
-![](../../.gitbook/assets/4%20%2835%29.jpg)
+![](../../.gitbook/assets/4%20%2839%29.jpg)
 
 
 

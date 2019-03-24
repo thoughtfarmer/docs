@@ -13,7 +13,7 @@ However, there are three different ways you can access the **Leave a comment?** 
 
 1.Click the **file title**, which opens the **File Editing Menu**. Click **Preview** in the menu, which opens the **File Preview** window containing a **Leave a comment?** box.
 
-![](../../../.gitbook/assets/2%20%2842%29.jpg)
+![](../../../.gitbook/assets/2%20%2846%29.jpg)
 
 
 

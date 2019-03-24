@@ -12,15 +12,15 @@ Pretty much anything that you can put in the Rich Text Editor when you are editi
 
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** window will open.
 
-![](../../../.gitbook/assets/2%20%2829%29.jpg)
+![](../../../.gitbook/assets/2%20%2833%29.jpg)
 
 3.In the **Update cards** window, find the **Rich Text** **Card** section and click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../../.gitbook/assets/3%20%2849%29.jpg)
+![](../../../.gitbook/assets/3%20%2853%29.jpg)
 
 4.In the **Rich Text** pop-up window, add whatever content you want to display in the Rich Text Editor
 
-![](../../../.gitbook/assets/4%20%2821%29.jpg)
+![](../../../.gitbook/assets/4%20%2823%29.jpg)
 
 
 

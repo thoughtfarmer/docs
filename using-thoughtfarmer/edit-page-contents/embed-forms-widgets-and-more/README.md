@@ -13,7 +13,7 @@ The ability to insert Wufoo Forms is integrated into your intranet software, how
   
 **Example of an embedded Wufoo form:**
 
-![](../../../.gitbook/assets/1%20%2841%29.png)
+![](../../../.gitbook/assets/1%20%2842%29.png)
 
 
 

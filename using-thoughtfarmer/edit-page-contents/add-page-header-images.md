@@ -11,7 +11,7 @@ If you don't want to add a photo in your page header, you can pick a gradient co
   
 **Expanded page header:**
 
-![](../../.gitbook/assets/2%20%2811%29.jpg)
+![](../../.gitbook/assets/2%20%2812%29.jpg)
 
 
 
@@ -60,7 +60,7 @@ If you want to use an image that has already been uploaded to the page as your p
 
 When you add a new page header image, a new option becomes available in the Thumbnail image section - to use the page header image for the Thumbnail image. If the page header image is the only image available on the page, it will automatically be selected as the thumbnail image.
 
-![](../../.gitbook/assets/5%20%283%29.jpg)
+![](../../.gitbook/assets/5%20%284%29.jpg)
 
 
 

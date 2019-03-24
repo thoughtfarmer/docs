@@ -6,7 +6,7 @@ Your profile page has an Activity Card that shows activity you have performed, u
   
 
 
-![](../../.gitbook/assets/1%20%2848%29.jpg)
+![](../../.gitbook/assets/1%20%2851%29.jpg)
 
 
 

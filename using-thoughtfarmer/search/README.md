@@ -8,7 +8,7 @@ Use these instructions to learn all the tricks of searching on your ThoughtFarme
 
 The left hand SuperNav allows you to browse through the site navigation, or has section search and filters available for pages with subpages.
 
-![](../../.gitbook/assets/4%20%2831%29.jpg)
+![](../../.gitbook/assets/4%20%2834%29.jpg)
 
 Several different search filters help to narrow down search results, including by content type \(is it a page, a file, or a comment?\), by dates when something was added, by who has edited pages, by who owns pages, and by tags \([learn about tags](../tags/)\). When searching the People Directory you can narrow results by last name, by expertise and skills, by location or other group types, and by tags.  
   

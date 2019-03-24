@@ -6,7 +6,7 @@ If you don't add a thumbnail image, by default the frame five seconds into the v
   
 **Video thumbnail displaying in a News Carousel Card**
 
-![](../../../.gitbook/assets/1%20%2887%29.jpg)
+![](../../../.gitbook/assets/1%20%2893%29.jpg)
 
 
 
@@ -16,7 +16,7 @@ If you don't add a thumbnail image, by default the frame five seconds into the v
 
 2.Go into edit mode, and under the **Thumbnail** section on the right, click **Add image**. The **Choose Image** pop-up window will appear.
 
-![](../../../.gitbook/assets/2%20%2845%29.jpg)
+![](../../../.gitbook/assets/2%20%2849%29.jpg)
 
 
 
@@ -59,5 +59,5 @@ When you add a new page header image, a new option becomes available in the Thum
   
 If there are multiple images available on the page, add the page header image to the page, then under the Thumbnail heading on the right, select the checkbox **Use page header image**. The page header image will show in the Thumbnail section, and if you change the page header image in the future, the Thumbnail image will automatically change.
 
-![](../../../.gitbook/assets/5%20%2816%29.jpg)
+![](../../../.gitbook/assets/5%20%2818%29.jpg)
 

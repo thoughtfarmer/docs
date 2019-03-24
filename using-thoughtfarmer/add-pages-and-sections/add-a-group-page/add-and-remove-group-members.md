@@ -26,9 +26,9 @@ See the explanation of Open and Managed membership on [How to create group pages
 1. Click the **Edit button** \(pencil icon\) in the page header on the group page to go into edit mode.
 2. Click **View/change** under the **Membership** heading to bring up the **Group members** pop-up window.
 
-![](../../../.gitbook/assets/1%20%2836%29.jpg)
+![](../../../.gitbook/assets/1%20%2838%29.jpg)
 
-![](../../../.gitbook/assets/2%20%2815%29.png)
+![](../../../.gitbook/assets/2%20%2816%29.png)
 
 
 
@@ -51,7 +51,7 @@ See the explanation of Open and Managed membership on [How to create group pages
 3. Scroll through the list of group members to find the person you want to remove. \(Names are in alphabetical order by first name.\)
 4. Click the X to the right of the person's name to remove them.
 
-![](../../../.gitbook/assets/3%20%2835%29.png)
+![](../../../.gitbook/assets/3%20%2839%29.png)
 
 
 
@@ -96,7 +96,7 @@ The following instructions must be completed by an intranet administrator. They 
 3. Select the radio button for the **Closed** membership option.
 4. A dropdown field, **Add group to sync**, will appear. From it, select the group with which you wish to sync the membership, and click the **Add** button. Repeat to add more groups to sync with.
 
-![](../../../.gitbook/assets/5%20%2817%29.jpg)
+![](../../../.gitbook/assets/5%20%2819%29.jpg)
 
 
 

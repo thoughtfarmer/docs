@@ -18,11 +18,11 @@ Once you add a new tag to a page, the tag is added to the system and other emplo
 
 • When editing a page: Click the **Add tags** or **Edit tags** link in the **Tags** section on the right. This brings up the **Tags** pop-up window.
 
-![](../../.gitbook/assets/2%20%2848%29.jpg)
+![](../../.gitbook/assets/2%20%2852%29.jpg)
 
 1.In the text box, start typing a tag. A list of matching tags will automatically appear.
 
-![](../../.gitbook/assets/3%20%2843%29.jpg)
+![](../../.gitbook/assets/3%20%2846%29.jpg)
 
 2.Click once on a tag from the matching list to select it; or type your new tag and click on **create new tag** in the list. Alternatively, select from the **Recommended tags** displayed by clicking on the tag you want. The tag will appear on the list in the pop-up window.
 
