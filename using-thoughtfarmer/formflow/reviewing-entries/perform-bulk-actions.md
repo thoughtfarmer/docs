@@ -8,7 +8,7 @@ If you are a reviewer or administrator on several forms, you may find the need t
 
 2.Once you’ve selected all of the entries you want to act on, click on the **Actions** link on the top left of the page.
 
-![](../../../.gitbook/assets/1%20%2855%29.png)
+![](../../../.gitbook/assets/1%20%2862%29.png)
 
 
 
@@ -28,7 +28,7 @@ If you are a reviewer or administrator on several forms, you may find the need t
 
 6.Select the action you want to perform and confirm that you want to proceed. E.g. if you select **Delete**, you will be asked to confirm that you want to delete the entries. If you select **Assign to**, you can select one of the form’s reviewers and reassign all the selected entries to that reviewer.
 
-![](../../../.gitbook/assets/2%20%2848%29.png)
+![](../../../.gitbook/assets/2%20%2852%29.png)
 
 7.Click **Save** to save your action and apply it to all of the entries you selected.
 

@@ -30,7 +30,7 @@ You can change your following and notification settings in your Profile Settings
   
 
 
-![](../../../.gitbook/assets/3%20%2826%29.jpg)
+![](../../../.gitbook/assets/3%20%2831%29.jpg)
 
 
 
@@ -42,7 +42,7 @@ You can change your following and notification settings in your Profile Settings
 
 6.Click **Save** at the bottom of the page.
 
-![](../../../.gitbook/assets/4%20%285%29.jpg)
+![](../../../.gitbook/assets/4%20%287%29.jpg)
 
 
 

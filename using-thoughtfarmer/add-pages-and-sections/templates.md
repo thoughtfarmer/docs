@@ -4,7 +4,7 @@
 
 A template is a selected layout and arrangement of Cards that is available for a particular content type. \(To learn more about Cards, see the pages [Overview of Cards](../basic-features/cards.md) and [How to set up Cards](set-up-cards/).\) It determines the options available to you when you create a certain content type. A template is made up of Cards that are universal to all pages, such as the Left Navigation Card and Page Header Card, and Cards that are useful to particular page types, such as the Group Members Card and Forum statistics Card.
 
-![](../../.gitbook/assets/1%20%2831%29.jpg)
+![](../../.gitbook/assets/1%20%2836%29.jpg)
 
 
 
@@ -19,7 +19,7 @@ Since each content type has different templates, you must choose your content ty
 1. In Edit mode, click on the **Content type** box, and select the content type you want from the dropdown menu.
 2. Click on the **Template** box, and select the template you want from the dropdown menu.
 
-![](../../.gitbook/assets/2%20%284%29.png)
+![](../../.gitbook/assets/2%20%285%29.png)
 
 ### Compare templates
 

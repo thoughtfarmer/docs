@@ -14,7 +14,7 @@ When you add a link using these instructions the link shows up in the navigation
 
 2.Click on the **Content type** dropdown on the right and select the **Link** content type. \(The Template Link will automatically be selected.\)
 
-![](../../.gitbook/assets/1%20%288%29.png)
+![](../../.gitbook/assets/1%20%289%29.png)
 
 
 
@@ -22,7 +22,7 @@ When you add a link using these instructions the link shows up in the navigation
 
 4.Click the **Link setup** button on the left.
 
-![](../../.gitbook/assets/2%20%285%29.png)
+![](../../.gitbook/assets/2%20%286%29.png)
 
 
 
@@ -39,7 +39,7 @@ Follow the instructions below if you need to change the title or address of a li
 1. Navigate to the parent page on which the link shows.
 2. Hover over the icon next to the link in the navigation; it will turn into an Edit icon \(a pencil\). Click on the Edit icon. 
 
-![](../../.gitbook/assets/3%20%285%29.png)
+![](../../.gitbook/assets/3%20%286%29.png)
 
 
 
@@ -49,7 +49,7 @@ ii.**Change link address**: Click **Edit link** under the current link path or a
 
 iii.**To delete link**: Click **Delete link** underneath the **Save** button. Then click **Delete** in the pop-up window to confirm the deletion.
 
-![](../../.gitbook/assets/4%20%2811%29.png)
+![](../../.gitbook/assets/4%20%2812%29.png)
 
 
 
@@ -93,7 +93,7 @@ To **add** an archive date:
 
 1.In Edit mode on the link, click **Set archive date** in the **Publishing options** section on the right.
 
-![](../../.gitbook/assets/6%20%286%29.jpg)
+![](../../.gitbook/assets/6%20%287%29.jpg)
 
 
 

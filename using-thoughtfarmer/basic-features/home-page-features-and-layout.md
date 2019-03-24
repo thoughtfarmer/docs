@@ -10,13 +10,13 @@ Every ThoughtFarmer homepage is unique, depending on how your organization has s
 
 ### Application Toolbar
 
-![](../../.gitbook/assets/1%20%2838%29.png)
+![](../../.gitbook/assets/1%20%2845%29.png)
 
 The Application Toolbar is the bar at the very top of your homepage, and it stays at the top no matter what intranet page you are viewing. The menus and links in the Toolbar are really useful in navigating the intranet - you'll find pages that you've bookmarked, pages you've visited recently, a list of your group pages, Alerts to activity on pages you follow, Search, links to your profile and more. [Learn more about the Application Toolbar](application-toolbar.md).
 
 ### Main Navigation Bar
 
-![](../../.gitbook/assets/2%20%2851%29.png)
+![](../../.gitbook/assets/2%20%2856%29.png)
 
 The Main Navigation Bar extends across the page just below your intranet name or logo. It contains links to some of the top level pages on your intranet - those main pages that you start out on when delving into intranet content. You'll likely find a link to your Employee Directory in the main navigation bar, and some intranets have a link to a Group Directory as well. Depending on the settings on your intranet, the Main Navigation Bar may also have links to your homepage and profile page.
 
@@ -28,7 +28,7 @@ The Main Navigation Bar shows on tablets, but is not displayed on smartphones. O
 
 On the homepage, the Left Navigation Card is a simple treeview navigation that you can use to navigate through your intranet. Some organizations choose to hide the Left Navigation Card from the homepage when viewed on a desktop computer. When you navigate to other pages, the Left Hand Nav becomes the SuperNav, capable of much more than a simple treeview navigation! \([Learn more about the SuperNav](../search/use-the-supernav.md).\)
 
-![](../../.gitbook/assets/3%20%2818%29.jpg)
+![](../../.gitbook/assets/3%20%2823%29.jpg)
 
 **Mobile devices**
 
@@ -38,13 +38,13 @@ Depending on the size and orientation of tablets, the Left Navigation Card may d
 
 Included in the Recent News are both news stories targeted at all employees and personalized news stories just for you. The personalized stories are fed by the group pages you are a member of. Click on the News posts to read the whole story and keep current with what's happening in your organization. \([Learn more about News features](news.md).\)
 
-![](../../.gitbook/assets/4%20%282%29.jpg)
+![](../../.gitbook/assets/4%20%284%29.jpg)
 
 ### Activity
 
 In the Activity stream you can keep up-to-date on activity happening all over the intranet. The **Highlights** tab lets you know when pages are created, files are added, comments and Shout-outs are made and more. The **Updates** tab shows updates your colleagues have shared with everyone or with groups that you belong to. The **Shout-outs** tab shows Shout-outs sent to everyone and Shout-outs sent to groups you are a part of. The **Your Groups** tab shows activity specifically related to groups you are a member of. The Activity stream is interactive, allowing you to Like, Bookmark, Follow and Share activity items, and join discussions by commenting right from your homepage. \([Learn more about Activity streams](activity-streams.md).\)
 
-![](../../.gitbook/assets/5%20%2811%29.jpg)
+![](../../.gitbook/assets/5%20%2812%29.jpg)
 
 
 
@@ -61,14 +61,14 @@ Below we've given a brief summary of some of the Cards you may see on your homep
 
 * **Bookmarks:** Displays a list of pages that you have bookmarked. This Card contains the same information that is found in the Bookmarks menu on the Application Toolbar. You can add, rename and remove bookmarks from the Bookmarks Card. \([Learn more about Bookmarks](bookmarks/).\)
 
-![](../../.gitbook/assets/7%20%284%29.jpg)
+![](../../.gitbook/assets/7%20%285%29.jpg)
 
   
 
 
 * **Poll:** Displays the selected poll, and allows users to vote on the poll. Once you vote, the Card displays the current results of the poll.
 
-![](../../.gitbook/assets/8%20%2810%29.png)
+![](../../.gitbook/assets/8%20%2811%29.png)
 
 
 

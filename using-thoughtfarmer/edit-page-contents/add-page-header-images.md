@@ -2,7 +2,7 @@
 
 ### Page header images add personality to the intranet
 
-![](../../.gitbook/assets/1%20%2817%29.jpg)
+![](../../.gitbook/assets/1%20%2820%29.jpg)
 
   
 You can add visual interest and either uniqueness or continuity by adding a page header image. The page header is the area below the Main Navigation Bar that contains the page title, Add, Edit and Page Sharing Buttons. If you click the down arrow on the right of the page header, it expands to reveal the Page Controls area. A unique page header image can make a page stand out from others on the intranet. However, choosing to have the same page header throughout a section of the intranet can lend continuity to a department's pages, or to information all related to the same topic. Page header images can be used to good effect for different purposes.  
@@ -11,7 +11,7 @@ If you don't want to add a photo in your page header, you can pick a gradient co
   
 **Expanded page header:**
 
-![](../../.gitbook/assets/2%20%285%29.jpg)
+![](../../.gitbook/assets/2%20%286%29.jpg)
 
 
 
@@ -27,13 +27,13 @@ The recommended image size for a page header image is 1200 x 700 pixels. When th
 
 1**.**In edit mode, click on the **edit icon** \(a pencil\) in the top right of the page header image \(which shows behind the title box\). The **Choose Image** pop-up window will appear.
 
-![](../../.gitbook/assets/3%20%287%29.jpg)
+![](../../.gitbook/assets/3%20%289%29.jpg)
 
 
 
 2.If you just want to pick a gradient color for the page header, click on the **color** you want, and skip to step 6.
 
-![](../../.gitbook/assets/4%20%286%29.jpg)
+![](../../.gitbook/assets/4%20%289%29.jpg)
 
 
 

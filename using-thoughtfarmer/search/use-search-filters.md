@@ -12,7 +12,7 @@ Whenever you search your intranet you'll see five different search filters on th
   
 
 
-![](../../.gitbook/assets/1%20%2843%29.png)
+![](../../.gitbook/assets/1%20%2850%29.png)
 
 **Options**:
 
@@ -22,7 +22,7 @@ Use the **Type** filter if you know the format of the content you seek. For inst
 
 **Filter 2: Edited By**
 
-![](../../.gitbook/assets/2%20%2814%29.png)
+![](../../.gitbook/assets/2%20%2815%29.png)
 
 **Options**:
 
@@ -32,7 +32,7 @@ Use the **Edited by** filter if you know the name of a person who edited the con
 
 **Filter 3: Owned By**
 
-![](../../.gitbook/assets/3%20%284%29.png)
+![](../../.gitbook/assets/3%20%285%29.png)
 
 **Options:**
 
@@ -42,7 +42,7 @@ Use the **Owned by** filter if you know the name of the person who owns the cont
 
 **Filter 4: Posted Date**
 
-![](../../.gitbook/assets/4%20%2816%29.png)
+![](../../.gitbook/assets/4%20%2817%29.png)
 
 **Options**:
 
@@ -79,7 +79,7 @@ For the **Edited by**, **Owned by** and **Tag** filters you can type in a specif
   
 At the bottom of the list of names in the **Edited by** or **Owned by** filter look for a small search box. Start typing in a name and a list of matching names will automatically appear; click on the one you want and then click on the search button \(the mini magnifying glass\). You can do the same for tags at the bottom of the **Tags** filter.
 
-![](../../.gitbook/assets/6%20%287%29.png)
+![](../../.gitbook/assets/6%20%288%29.png)
 
 ### Undo search filters at top of page
 
@@ -87,7 +87,7 @@ Each time you click on a search filter the results page will refresh and the fil
   
 If a filter you chose turns out not to be helpful, remove it by clicking the **X** to the right of that filter's name at the top of the page. If you want to start your search from scratch click **Clear filters** to the right of the current filters.
 
-![](../../.gitbook/assets/7%20%2812%29.png)
+![](../../.gitbook/assets/7%20%2813%29.png)
 
 ### View archived content in search
 

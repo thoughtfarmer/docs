@@ -8,7 +8,7 @@ To learn how to add a cover photo to your profile page, see [How to add a profil
   
 
 
-![](../../.gitbook/assets/1%20%2819%29.jpg)
+![](../../.gitbook/assets/1%20%2824%29.jpg)
 
 
 
@@ -18,7 +18,7 @@ Profile photos may come in all shapes and sizes, so when you add a profile photo
 
 1.Click on your name or profile photo in the top right on any page, and click **Edit profile** in the menu that opens.
 
-![](../../.gitbook/assets/2%20%2826%29.png)
+![](../../.gitbook/assets/2%20%2828%29.png)
 
 
 
@@ -36,7 +36,7 @@ Profile photos may come in all shapes and sizes, so when you add a profile photo
 
 6.The **Profile photo** pop-up window will appear. In this window, use the **plus and minus buttons** to zoom in or out on the photo, and **click and drag** on the photo to choose which part to display. If the photo needs to be rotated, click **Rotate left** or **Rotate right** till you get the correct orientation. To choose a different photo, click the **Replace** button.
 
-![](../../.gitbook/assets/3%20%2819%29.jpg)
+![](../../.gitbook/assets/3%20%2824%29.jpg)
 
 
 

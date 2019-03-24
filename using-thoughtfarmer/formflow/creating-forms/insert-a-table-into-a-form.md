@@ -12,9 +12,9 @@ The form creator specifies the number of columns and applies form elements and c
 
 2.Click on the Table name to open the editor. In the editor you can set a name for the table, enter any instructions, and, if you want to, set a maximum on the number of rows users can create.
 
-![](../../../.gitbook/assets/2%20%286%29.png)
+![](../../../.gitbook/assets/2%20%287%29.png)
 
-![](../../../.gitbook/assets/3%20%286%29.png)
+![](../../../.gitbook/assets/3%20%287%29.png)
 
 
 
@@ -39,7 +39,7 @@ The form creator specifies the number of columns and applies form elements and c
 
 5.To add a form element to a column, click on the cog inside the column to open the Field Type pop-up. Select the type of field you want the column to contain and click save.
 
-![](../../../.gitbook/assets/4%20%2818%29.png)
+![](../../../.gitbook/assets/4%20%2819%29.png)
 
 6.Once your column has been populated with the field type of your choice, and the field editor will automatically be open and ready for you to customize. The editor lets you name the column, add instructions, and set other requirements.  
   
@@ -55,7 +55,7 @@ The form creator specifies the number of columns and applies form elements and c
 
 9.Preview your form to test if your table is displaying the way you need it to. You can also test out the user experience by adding rows and interacting with the information.
 
-![](../../../.gitbook/assets/6%20%282%29.png)
+![](../../../.gitbook/assets/6%20%283%29.png)
 
 
 

@@ -9,11 +9,11 @@ If you are a reviewer on a form, you will need to access and review entries when
 2.Click on the Forms option to open the Form Overview.  
 
 
-![](../../../.gitbook/assets/1%20%289%29.png)
+![](../../../.gitbook/assets/1%20%2810%29.png)
 
 3.Click on the Entries tab to view entries.
 
-![](../../../.gitbook/assets/2%20%2822%29.png)
+![](../../../.gitbook/assets/2%20%2823%29.png)
 
 
 
@@ -25,11 +25,11 @@ There are three main filter tools:
 
 * **Form selector** - this dropdown defaults to All Forms, but you can use it to select a specific form. Choosing a form from the dropdown will filter all of the entries so that only those associated with the selected form are displayed.
 
-![](../../../.gitbook/assets/3%20%2812%29.png)
+![](../../../.gitbook/assets/3%20%2814%29.png)
 
 **• View selector** - this dropdown filters entries by where they are in the entry lifecycle. By default, this option is set to Open Entries but you have several options:
 
-![](../../../.gitbook/assets/4%20%2825%29.png)
+![](../../../.gitbook/assets/4%20%2827%29.png)
 
 **•Search bar** - just enter any keyword - such as the form owner, or a part of the form name - into the search bar and click enter to get a list of results.
 
@@ -40,7 +40,7 @@ There are three main filter tools:
 1. By default, 20 entries are shown and you must navigate to a new page to see more. Click on the arrows to move between pages. The numbers between the arrows tell you the total number of entries, and where you currently fall in the range. 
 2. You can also create custom views by using the advanced filter options. To access the advanced filter options, click on Filter entries on the top right of the Entries page.
 
-![](../../../.gitbook/assets/6%20%2810%29.png)
+![](../../../.gitbook/assets/6%20%2811%29.png)
 
 #### Additional filters
 

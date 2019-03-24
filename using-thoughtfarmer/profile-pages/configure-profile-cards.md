@@ -13,7 +13,7 @@ To configure the Cards on your profile page, **edit your profile** and click **C
 The **Update cards** pop-up window will appear.  
 
 
-![](../../.gitbook/assets/2%20%2826%29.jpg)
+![](../../.gitbook/assets/2%20%2832%29.jpg)
 
 
 
@@ -36,7 +36,7 @@ If your intranet administrator has added the Bookmark manager to the profile pag
 1. Select the checkbox to let other users see your Bookmarks.
 2. Deselect the checkbox to hide your Bookmarks from other users.
 
-![](../../.gitbook/assets/3%20%2814%29.jpg)
+![](../../.gitbook/assets/3%20%2818%29.jpg)
 
 
 
