@@ -20,7 +20,7 @@ If your intranet is connected to SharePoint Online, see [Link to cloud drive fil
 
 4.Click the **SharePoint tab** on the left-hand side of the window.
 
-![](../../.gitbook/assets/1%20%2856%29.jpg)
+![](../../.gitbook/assets/1%20%2858%29.jpg)
 
 5.Select a **SharePoint site** from the **Site** dropdown menu.
 

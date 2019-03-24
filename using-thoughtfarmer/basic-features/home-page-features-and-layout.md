@@ -28,7 +28,7 @@ The Main Navigation Bar shows on tablets, but is not displayed on smartphones. O
 
 On the homepage, the Left Navigation Card is a simple treeview navigation that you can use to navigate through your intranet. Some organizations choose to hide the Left Navigation Card from the homepage when viewed on a desktop computer. When you navigate to other pages, the Left Hand Nav becomes the SuperNav, capable of much more than a simple treeview navigation! \([Learn more about the SuperNav](../search/use-the-supernav.md).\)
 
-![](../../.gitbook/assets/3%20%2833%29.jpg)
+![](../../.gitbook/assets/3%20%2834%29.jpg)
 
 **Mobile devices**
 

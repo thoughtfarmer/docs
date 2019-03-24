@@ -26,7 +26,7 @@ To get to the News Card setup window:
 
 **News display options as they appear to the user:**
 
-![](../../.gitbook/assets/1%20%2859%29.jpg)
+![](../../.gitbook/assets/1%20%2861%29.jpg)
 
 **Choose whether to display a title:**
 
@@ -36,7 +36,7 @@ To get to the News Card setup window:
 
 **News display options in the News Card setup window:**
 
-![](../../.gitbook/assets/2%20%288%29.jpg)
+![](../../.gitbook/assets/2%20%289%29.jpg)
 
 **Choose whether to display the Add Post and Manage News Feed controls:**
 
@@ -53,7 +53,7 @@ Three layouts are available for the News Card. The News Carousel Card provides a
 In Grid View, News items display in a Grid of cards, with each News post on its own card. The News post image displays in the top portion of the card with the News post title in it. The lower portion of the card contains the News item excerpt or summary, posted date and author. Buttons to Like and Comment are at the bottom of the post.  
 
 
-![](../../.gitbook/assets/3%20%2835%29.jpg)
+![](../../.gitbook/assets/3%20%2836%29.jpg)
 
 ### News: List View
 

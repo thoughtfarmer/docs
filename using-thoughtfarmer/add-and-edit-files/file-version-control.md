@@ -12,7 +12,7 @@ When you revert to a previous version of a file, the intranet creates a new vers
 
 1.Click on the **file title** to open the **File Editing Menu**.
 
-![](../../.gitbook/assets/1%20%289%29.jpg)
+![](../../.gitbook/assets/1%20%2810%29.jpg)
 
 
 
@@ -20,11 +20,11 @@ When you revert to a previous version of a file, the intranet creates a new vers
 
 3.Click **File version \#** just below the file name to see a list of all versions. The **Version history** pop-up window will appear.
 
-![](../../.gitbook/assets/2%20%2861%29.jpg)
+![](../../.gitbook/assets/2%20%2864%29.jpg)
 
 4.Click on a **file version** to view the file.
 
-![](../../.gitbook/assets/3%20%2849%29.jpg)
+![](../../.gitbook/assets/3%20%2850%29.jpg)
 
 
 

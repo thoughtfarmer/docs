@@ -33,7 +33,7 @@ a.Check the box to allow comments,
 
 b.Uncheck the box to disallow comment.
 
-![](../../../.gitbook/assets/1%20%2828%29.jpg)
+![](../../../.gitbook/assets/1%20%2829%29.jpg)
 
 5.Click **Done** at the bottom of the **Update cards** window.
 
@@ -46,7 +46,7 @@ The Document Library Card will be a part of some page templates by default, but 
 When you allow files, the **Add file icon** will appear on the page  
 
 
-![](../../../.gitbook/assets/1%20%2820%29.jpg)
+![](../../../.gitbook/assets/1%20%2821%29.jpg)
 
 
 
@@ -65,7 +65,7 @@ When you allow files, the **Add file icon** will appear on the page
 1. Check the box to allow files,
 2. Uncheck the box to disallow files.
 
-![](../../../.gitbook/assets/3%20%2818%29.jpg)
+![](../../../.gitbook/assets/3%20%2819%29.jpg)
 
 
 

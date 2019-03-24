@@ -15,7 +15,7 @@ Each time a page is edited and saved, the intranet creates a new version of the 
 1. Click the down arrow on the right of the page header to open the Page Controls.
 2. Under **Last updated**, click **Version history**. This opens the **Version History** pop-up window, displaying the changes made to create the most recent version. \(If there is only one version of the page, **Version history** will not display.\)
 
-![](../../.gitbook/assets/1%20%2872%29.jpg)
+![](../../.gitbook/assets/1%20%2874%29.jpg)
 
 3.New text in this version is shown highlighted in yellow. Removed text is highlighted in purple. If you want to see the version without the new and removed text highlighted, uncheck the **Show changes** checkbox at the top left.   
 

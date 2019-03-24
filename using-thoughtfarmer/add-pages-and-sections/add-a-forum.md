@@ -21,7 +21,7 @@ Use these instructions to add a Forum page to your intranet. Forums are designed
 
 5.\(optional\) Choose a **Forum Type** from the dropdown on the left. \(To learn more, see **Choose forum type** below.\)
 
-![](../../.gitbook/assets/2%20%2829%29.jpg)
+![](../../.gitbook/assets/2%20%2832%29.jpg)
 
 5.\(optional\) Select the **Lock this page** checkbox if desired. \(To learn more, see **Lock this page feature** below.\)
 

@@ -4,7 +4,7 @@
 
 Use these instructions to add information about your skills, qualities, qualifications and other useful information about you to your profile. Adding this information to your profile lets your coworkers know about what abilities you have, and it can help coworkers that haven't even met you to find you when they need your expertise.
 
-![](../../.gitbook/assets/1%20%2871%29.jpg)
+![](../../.gitbook/assets/1%20%2873%29.jpg)
 
 
 
@@ -20,7 +20,7 @@ When you add Expertise and Skills tags to your profile, they become search terms
 
 4.Add tags to the different fields under the **Expertise & skills** heading. Type a tag and choose either an existing tag from the dropdown menu, or choose to create a new tag if that option exists on your intranet. Alternatively, select a tag from the list of Recommended tags.
 
-![](../../.gitbook/assets/1%20%2849%29.jpg)
+![](../../.gitbook/assets/1%20%2851%29.jpg)
 
 
 

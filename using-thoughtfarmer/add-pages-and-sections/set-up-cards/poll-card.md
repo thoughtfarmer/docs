@@ -4,11 +4,11 @@
 
 A Poll Card is a way to engage users in your page and let them express their opinions and give you useful feedback. When you add a Poll Card, you can choose to have it display the most current poll created on the intranet, or you can choose to display any poll existing on the intranet.
 
-![](../../../.gitbook/assets/1%20%2810%29.jpg)
+![](../../../.gitbook/assets/1%20%2811%29.jpg)
 
 Once a user votes on a poll, the Poll Card displays the poll results.
 
-![](../../../.gitbook/assets/2%20%2826%29.jpg)
+![](../../../.gitbook/assets/2%20%2829%29.jpg)
 
 
 
@@ -17,7 +17,7 @@ Once a user votes on a poll, the Poll Card displays the poll results.
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** pop-up window will open.  
 
 
-![](../../../.gitbook/assets/3%20%2821%29.jpg)
+![](../../../.gitbook/assets/3%20%2822%29.jpg)
 
 3.In the **Update cards** window, find the **Poll Card** section and click **Set up** or **In use** below it \(or the gear icon on the right of it\).  
 

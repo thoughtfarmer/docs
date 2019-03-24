@@ -26,7 +26,7 @@ To have News on your group page, you need to bring it in from existing News, Blo
 7. To hide the **Add Post** and **Manage News Feeds** controls from viewers, deselect the checkbox **Display the** _**Add Post**_ **and** _**Manage News Feeds**_ **controls**.
 8. Select the radio button for the **Display style** that you want.  
 
-![](../../../.gitbook/assets/1%20%2822%29.jpg)
+![](../../../.gitbook/assets/1%20%2823%29.jpg)
 
 
 
@@ -76,7 +76,7 @@ To manage what groups you see News from on your homepage:
 4. Uncheck the boxes for the groups whose News you do not want to see. Leave boxes checked for groups whose News you want to see.
 5. Click **Save**.
 
-![](../../../.gitbook/assets/2%20%287%29.jpg)
+![](../../../.gitbook/assets/2%20%288%29.jpg)
 
 
 

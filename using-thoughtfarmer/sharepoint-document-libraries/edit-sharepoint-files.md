@@ -16,11 +16,11 @@ You can add folders to SharePoint libraries from the intranet, but to delete a f
 
 2.At the bottom of the SharePoint Card click **Add folder**. The **Add folder** **pop-up window** will appear.
 
-![](../../.gitbook/assets/1%20%2855%29.jpg)
+![](../../.gitbook/assets/1%20%2857%29.jpg)
 
 3.Type the name of the new folder in the text box.
 
-![](../../.gitbook/assets/2%20%2823%29.jpg)
+![](../../.gitbook/assets/2%20%2826%29.jpg)
 
 4.Click the **Add folder** button. The new folder will appear in the library.
 
@@ -34,7 +34,7 @@ You can add folders to SharePoint libraries from the intranet, but to delete a f
   
 **The header of the SharePoint Card will show you where you are in the library.**
 
-![](../../.gitbook/assets/3%20%2831%29.jpg)
+![](../../.gitbook/assets/3%20%2832%29.jpg)
 
 
 

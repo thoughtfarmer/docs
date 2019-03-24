@@ -29,7 +29,7 @@ To switch back to viewing intranet search results, click on SharePoint above the
 
 1.Click Search in the Application Toolbar at the top of the page.
 
-![](../../.gitbook/assets/3%20%2823%29.jpg)
+![](../../.gitbook/assets/3%20%2824%29.jpg)
 
 2.In the Search dropdown, click on **All** on the top left, and in the menu that opens, click on **SharePoint**. 
 

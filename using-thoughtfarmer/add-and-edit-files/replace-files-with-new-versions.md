@@ -12,7 +12,7 @@ Use these instructions to replace a file with a newer version. Don't delete that
 
 2.Click **Replace**. The **Replace file** pop-up window will appear.
 
-![](../../.gitbook/assets/1%20%2829%29.jpg)
+![](../../.gitbook/assets/1%20%2830%29.jpg)
 
 
 
@@ -30,7 +30,7 @@ When you open the File Controls \(by clicking on the down arrow on the right of 
 
 Once multiple versions of a file exist, comments on the file will show what version of the file the comment relates to. This version indicator appears below the comment in file preview and on the file page.
 
-![](../../.gitbook/assets/3%20%2828%29.jpg)
+![](../../.gitbook/assets/3%20%2829%29.jpg)
 
 ### Hot intranet tip!
 

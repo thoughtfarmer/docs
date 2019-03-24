@@ -4,7 +4,7 @@
 
 A Mini Calendar Card gives people an easy way of referencing past, present and future events, without having to visit the calendar page itself. In order to use a Mini Calendar Card, the calendar you want to display in the Card must already exist somewhere on the intranet.
 
-![](../../../.gitbook/assets/1%20%2813%29.jpg)
+![](../../../.gitbook/assets/1%20%2814%29.jpg)
 
 
 
@@ -12,7 +12,7 @@ A Mini Calendar Card gives people an easy way of referencing past, present and f
 
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** window will open.
 
-![](../../../.gitbook/assets/2%20%2825%29.jpg)
+![](../../../.gitbook/assets/2%20%2828%29.jpg)
 
 3.In the **Update cards** window, find the **Mini Calendar** Card section and click **Set up** below it \(or the gear icon on the right of it\).
 

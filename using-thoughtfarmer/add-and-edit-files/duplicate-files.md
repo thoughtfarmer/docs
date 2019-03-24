@@ -14,7 +14,7 @@ When you duplicate a file, the file content, file summary, tags, settings, and m
 
 2.Click the **down arrow** on the far right of the file name to open the **File Controls**.
 
-![](../../.gitbook/assets/1%20%2811%29.jpg)
+![](../../.gitbook/assets/1%20%2812%29.jpg)
 
 
 

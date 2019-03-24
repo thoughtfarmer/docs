@@ -8,7 +8,7 @@ A Google Drive Card allows you to embed files on your Google Drive into intranet
   
 The Google Drive Card is a Standard Card that comes with ThoughtFarmer, however it must be enabled by an administrator. See Google Drive integration for administrator instructions on how to enable Google Drive integration.
 
-![](../../../.gitbook/assets/1%20%2860%29.jpg)
+![](../../../.gitbook/assets/1%20%2862%29.jpg)
 
 
 
@@ -19,7 +19,7 @@ Once the Google Drive Card is enabled on your intranet, here's how to set it up:
 
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update Cards** pop-up window will open.
 
-![](../../../.gitbook/assets/2%20%2854%29.jpg)
+![](../../../.gitbook/assets/2%20%2857%29.jpg)
 
 
 

@@ -26,7 +26,7 @@ See the explanation of Open and Managed membership on [How to create group pages
 1. Click the **Edit button** \(pencil icon\) in the page header on the group page to go into edit mode.
 2. Click **View/change** under the **Membership** heading to bring up the **Group members** pop-up window.
 
-![](../../../.gitbook/assets/1%20%2838%29.jpg)
+![](../../../.gitbook/assets/1%20%2840%29.jpg)
 
 ![](../../../.gitbook/assets/2%20%2816%29.png)
 

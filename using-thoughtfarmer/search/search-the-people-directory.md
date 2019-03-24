@@ -34,11 +34,11 @@ You can choose to view the People Directory in one of two ways: Grid view or Lis
   
 **Grid View**
 
-![](../../.gitbook/assets/2%20%285%29.jpg)
+![](../../.gitbook/assets/2%20%286%29.jpg)
 
 **List View**
 
-![](../../.gitbook/assets/3%20%2852%29.jpg)
+![](../../.gitbook/assets/3%20%2854%29.jpg)
 
 Grid view is the default view of the People Directory, but the way you view the People Directory is controlled by you and specific to you. To change your view, click the Grid or List icons on the top left of the People Directory, just under the number of people. The intranet will remember your last selected view preference, and will display the People Directory that way next time you visit it.
 

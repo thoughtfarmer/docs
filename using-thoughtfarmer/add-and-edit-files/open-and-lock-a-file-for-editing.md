@@ -16,17 +16,17 @@ If you encounter problems in following the steps below, please contact your intr
 
 1.Navigate to the file that you want to open, and click on the **file title** to open the **File Editing Menu**.
 
-![](../../.gitbook/assets/1%20%2841%29.jpg)
+![](../../.gitbook/assets/1%20%2843%29.jpg)
 
 2.Click **Open for editing** in the menu that opens.
 
 3.Read the **Desktop Connector Tips!** pop-up window.
 
-![](../../.gitbook/assets/2%20%2855%29.jpg)
+![](../../.gitbook/assets/2%20%2858%29.jpg)
 
 4.Click **Install now** under the **Having trouble connecting?** heading. It may take a few moments for the Desktop Connector to download.
 
-![](../../.gitbook/assets/3%20%2841%29.jpg)
+![](../../.gitbook/assets/3%20%2842%29.jpg)
 
 
 

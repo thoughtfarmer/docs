@@ -18,7 +18,7 @@ By default, subpages inherit security settings from their parent pages. When cha
   
 **Checkbox option indicates that security settings will be inherited from the parent page in the navigation**
 
-![](../../.gitbook/assets/1%20%2843%29.jpg)
+![](../../.gitbook/assets/1%20%2845%29.jpg)
 
 
 
@@ -46,7 +46,7 @@ You need to have View & edit permission on a page in order to change the securit
 
 6.Click on the name of the person or security group you want to add. \(Or use the arrow keys to navigate to the person's name and then hit the Enter key.\) It will appear in the text box.
 
-![](../../.gitbook/assets/3%20%2848%29.jpg)
+![](../../.gitbook/assets/3%20%2849%29.jpg)
 
 
 

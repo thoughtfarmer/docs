@@ -32,7 +32,7 @@ The first image that you insert on a page will automatically become the Thumbnai
 
             d.Click on one of the displayed **galleries**, and select an image       from the gallery.
 
-![](../../.gitbook/assets/2%20%2840%29.jpg)
+![](../../.gitbook/assets/2%20%2843%29.jpg)
 
 
 
@@ -48,7 +48,7 @@ When you insert an image on a page, one of the options in the Choose Image pop-u
   
 Your intranet administrator can set certain galleries as **Recommended galleries** that will appear above All galleries in the Choose Image window. Galleries that you have **Bookmarked** will appear with a star beside the title at the top of both the Recommended galleries and the All galleries sections.
 
-![](../../.gitbook/assets/3%20%2854%29.jpg)
+![](../../.gitbook/assets/3%20%2856%29.jpg)
 
 
 

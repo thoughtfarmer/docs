@@ -12,7 +12,7 @@ File listings show a file type icon, file title and down arrow on the right. Dep
 
 1. Click **Add file**. This brings up the **Add file** pop-up window.
 
-![](../../.gitbook/assets/1%20%2825%29.jpg)
+![](../../.gitbook/assets/1%20%2826%29.jpg)
 
 
 
