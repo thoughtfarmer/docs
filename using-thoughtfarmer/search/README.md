@@ -4,11 +4,11 @@
 
 Use these instructions to learn all the tricks of searching on your ThoughtFarmer intranet. Your intranet search is actually pretty cool and includes special sections for finding people and groups. You can narrow down the scope of search to within any section of the intranet, search just for people or groups, or browse all site content. You can also search the web using external search engines from within your intranet.
 
-![](../../.gitbook/assets/1%20%2812%29.jpg)
+![](../../.gitbook/assets/1%20%2813%29.jpg)
 
 The left hand SuperNav allows you to browse through the site navigation, or has section search and filters available for pages with subpages.
 
-![](../../.gitbook/assets/4%20%2821%29.jpg)
+![](../../.gitbook/assets/4%20%2822%29.jpg)
 
 Several different search filters help to narrow down search results, including by content type \(is it a page, a file, or a comment?\), by dates when something was added, by who has edited pages, by who owns pages, and by tags \([learn about tags](../tags/)\). When searching the People Directory you can narrow results by last name, by expertise and skills, by location or other group types, and by tags.  
   

@@ -5,7 +5,7 @@
 Use these instructions to add a Forum page to your intranet. Forums are designed for online discussions - for sharing knowledge on varied topics, developing ideas, and asking and answering questions. By setting the page type to Forum you transform the way subpages appear. Subpages appear as post titles in the center of the page, along with some information about the post - post owner, posting time or date, number of comments and last commenter.  
 
 
-![](../../.gitbook/assets/1%20%2840%29.png)
+![](../../.gitbook/assets/1%20%2848%29.png)
 
 
 
@@ -21,7 +21,7 @@ Use these instructions to add a Forum page to your intranet. Forums are designed
 
 5.\(optional\) Choose a **Forum Type** from the dropdown on the left. \(To learn more, see **Choose forum type** below.\)
 
-![](../../.gitbook/assets/2%20%2812%29.jpg)
+![](../../.gitbook/assets/2%20%2814%29.jpg)
 
 5.\(optional\) Select the **Lock this page** checkbox if desired. \(To learn more, see **Lock this page feature** below.\)
 
@@ -32,7 +32,7 @@ Use these instructions to add a Forum page to your intranet. Forums are designed
 
 6.Click on **Security permissions** on the right under **Security** and make sure all the right people have edit permission on the page. \(See complete instructions on [how to change permissions to view & edit](../security-settings-and-permissions/permission-to-view-and-edit.md).\) Click **Done** when you are finished.
 
-![](../../.gitbook/assets/4%20%2811%29.jpg)
+![](../../.gitbook/assets/4%20%2812%29.jpg)
 
 
 
@@ -62,7 +62,7 @@ Forums are designed for online discussions. A comment window is automatically op
 
 1. From the Forum page, click on the Forum post title to go to the individual post page.
 
-![](../../.gitbook/assets/5%20%2821%29.png)
+![](../../.gitbook/assets/5%20%2824%29.png)
 
 
 
@@ -70,12 +70,12 @@ Forums are designed for online discussions. A comment window is automatically op
 
 1. Type the text of your reply in the comment box.
 
-![](../../.gitbook/assets/6%20%289%29.png)
+![](../../.gitbook/assets/6%20%2811%29.png)
 
 2.If you wish to respond to another person's reply, click **Quote** below their reply, and the text of the reply will automatically be added to your reply window. You can then type your own reply.  
 
 
-![](../../.gitbook/assets/7%20%2810%29.png)
+![](../../.gitbook/assets/7%20%2811%29.png)
 
 3.Click **Add file** at the bottom of the comment box to add a file as a reply. \(See [how to attach a file](../add-and-edit-files/) for more information on attaching files.\) Add any text in a separate reply.
 

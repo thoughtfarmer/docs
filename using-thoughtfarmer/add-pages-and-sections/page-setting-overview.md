@@ -8,25 +8,25 @@ On this page, you'll find instructions for how to add a page summary, how to add
 
 The content type and page template you choose determine the purpose, layout and available [Cards](../basic-features/cards.md) for the page. See [Learn about content types](content-types.md) and [Learn about page templates](templates.md).
 
-![](../../.gitbook/assets/1%20%2840%29.jpg)
+![](../../.gitbook/assets/1%20%2844%29.jpg)
 
 ### How to add a Thumbnail image
 
 The Thumbnail image for a page displays with the page title in search results, News posts, News Carousel posts, Grid navigation sections and on the Group Directory. See [How to add a Thumbnail image](../edit-page-contents/add-thumbnail-images/).
 
-![](../../.gitbook/assets/2%20%2831%29.jpg)
+![](../../.gitbook/assets/2%20%2836%29.jpg)
 
 ### Publishing options section
 
 The Publishing options section of the Page settings has three parts - page Summary, Short title and Archive date.
 
-![](../../.gitbook/assets/3%20%288%29.jpg)
+![](../../.gitbook/assets/3%20%289%29.jpg)
 
 ### How to add a page summary
 
 A page summary appears below the page title in search results and in some section page layouts, and also appears as a summary description of News, Blog or Forum posts that appear in your homepage News or other News sections. Writing a page summary will give your readers a quick idea of the contents of your page.
 
-![](../../.gitbook/assets/4%20%2820%29.jpg)
+![](../../.gitbook/assets/4%20%2821%29.jpg)
 
 
 

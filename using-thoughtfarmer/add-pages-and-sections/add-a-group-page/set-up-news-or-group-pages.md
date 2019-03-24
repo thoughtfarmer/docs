@@ -26,7 +26,7 @@ To have News on your group page, you need to bring it in from existing News, Blo
 7. To hide the **Add Post** and **Manage News Feeds** controls from viewers, deselect the checkbox **Display the** _**Add Post**_ **and** _**Manage News Feeds**_ **controls**.
 8. Select the radio button for the **Display style** that you want.  
 
-![](../../../.gitbook/assets/1%20%2813%29.jpg)
+![](../../../.gitbook/assets/1%20%2814%29.jpg)
 
 
 
@@ -101,7 +101,7 @@ Once you've added News to the group page you can create new posts directly from 
 2.Click the **Add post** button beside **Recent News** in the News Card.  
 
 
-![](../../../.gitbook/assets/3%20%2816%29.png)
+![](../../../.gitbook/assets/3%20%2818%29.png)
 
 
 

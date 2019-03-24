@@ -9,7 +9,7 @@ There are two ways to add an event to a calendar:
 1. Click the **Add button** \(plus icon\) in the page header of the calendar page. This will open a new page for editing. Continue to Step 3. **OR**
 2. Click any day on the calendar to add an event. \(Click and drag to select multiple days for a multi-day event.\) The **Add Event** pop-up window will appear, type in the event title in the **What** box. Click on the dropdown menu beside **Event type** to select the nature of your event \(eg. Meeting, Statutory Holiday\). Click **Create event** to add your all-day event to the calendar, or click **Edit event details** and go to Step 3 to add more info about your event.  
 
-![](../../../.gitbook/assets/1%20%2833%29.jpg)
+![](../../../.gitbook/assets/1%20%2835%29.jpg)
 
 
 
@@ -29,7 +29,7 @@ f.Type in the Rich Text Editor box to add more information about your event to t
 
 4.Click **Publish** and the event will show up on the calendar on the date\(s\) you specified.
 
-![](../../../.gitbook/assets/2%20%2816%29.png)
+![](../../../.gitbook/assets/2%20%2820%29.png)
 
 
 
@@ -57,7 +57,7 @@ You can add an event that will repeat on a regular basis for a set amount of tim
 6. Click **Done**. A summary of the repeat pattern will show beside the **Repeat** checkbox.
 7. Continue creating your event, and click **Publish** or **Save**.
 
-![](../../../.gitbook/assets/3%20%2820%29.jpg)
+![](../../../.gitbook/assets/3%20%2821%29.jpg)
 
 ### Edit repeating event
 

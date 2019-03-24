@@ -8,7 +8,7 @@ Use Bookmarks on your ThoughtFarmer intranet to access important pages quickly a
 
 Navigate to the page you want to add and click the Bookmark icon \(a star\) in the Page Sharing Buttons in the page header. When you click the Bookmark icon, the icon is filled in to show that you have bookmarked the page. That's it!
 
-![](../../../.gitbook/assets/1%20%2849%29.jpg)
+![](../../../.gitbook/assets/1%20%2853%29.jpg)
 
 Now you can click on **Bookmarks** in the Application Toolbar and you will see the page you have bookmarked in your list of bookmarks. \(If both are enabled, Bookmarks and History live in the same menu in the Application Toolbar. The Toolbar remembers and displays the last tab you used, so you may have to click on **History** to access the Bookmarks tab.\)  
 
@@ -21,7 +21,7 @@ The number under the Bookmark icon indicates how many people have bookmarked the
 
 When an update, Shout Out or other content in an Activity stream has the three dots icon beside it, you can bookmark the page right from the Activity stream. Click the **three dots icon** on the top right of the Activity item. In the menu that opens, click **Bookmark**. The content or update page will automatically be added to your Bookmarks.
 
-![](../../../.gitbook/assets/3%20%2819%29.jpg)
+![](../../../.gitbook/assets/3%20%2820%29.jpg)
 
 
 
@@ -42,7 +42,7 @@ To change whether Bookmarking a page results in you getting notifications from t
 1. Select the checkbox to automatically Follow when you Bookmark pages.
 2. Deselect the checkbox to Bookmark pages without Following them.
 
-![](../../../.gitbook/assets/4%20%2810%29.jpg)
+![](../../../.gitbook/assets/4%20%2811%29.jpg)
 
 
 

@@ -4,7 +4,7 @@
 
 If it's enabled on your intranet, you can personalize your profile even more by adding a cover photo that will show as the page header on your profile page! Your profile will by default have the same page header photo/gradient that is found on its parent page - the People Directory. However, once you change your cover photo, it will not be affected by changes to the People Directory page header photo. If you don't want to add a cover photo, you can still pick which gradient color you want your profile page header to be.
 
-![](../../.gitbook/assets/1%20%2847%29.jpg)
+![](../../.gitbook/assets/1%20%2851%29.jpg)
 
 
 
@@ -16,11 +16,11 @@ The recommended image size for a profile cover photo is 1200 x 700 pixels. When 
 
 1.Click on your name or profile photo in the top right on any page, and click **Edit profile** in the menu that opens.
 
-![](../../.gitbook/assets/2%20%2823%29.jpg)
+![](../../.gitbook/assets/2%20%2828%29.jpg)
 
 2.In the cover photo area at the top of the page, click on the **edit icon** \(a pencil\) in the top right. The **Choose Image** pop-up window will appear.
 
-![](../../.gitbook/assets/3%20%2815%29.jpg)
+![](../../.gitbook/assets/3%20%2816%29.jpg)
 
 
 

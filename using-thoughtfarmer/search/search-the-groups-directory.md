@@ -4,7 +4,7 @@
 
 Use these instructions to search the Groups Directory on your intranet. You can narrow down the results using special search filters for group type and for tags. Depending on whether you are viewing the Group Directory in Grid View or List View, you'll see the group name, number of group members, a list of group members, the location of the group within the site's navigation and a "Join group" button if it is an open group.
 
-![](../../.gitbook/assets/1%20%281%29.png)
+![](../../.gitbook/assets/1%20%282%29.png)
 
 
 
@@ -13,7 +13,7 @@ Use these instructions to search the Groups Directory on your intranet. You can 
 1.From any page on the intranet, click on the **Home** layer of the SuperNav on the left to open its subpage navigation. \(Or, if your intranet has a **Groups** tab in the Main Navigation Bar, just click on that.\)  
 
 
-![](../../.gitbook/assets/2%20%2842%29.png)
+![](../../.gitbook/assets/2%20%2850%29.png)
 
 
 
@@ -31,7 +31,7 @@ You can also start a search of the Groups Directory from any page on the intrane
 
 2.Click on **All** above the **Search** box, and select **Groups** from the menu that opens.
 
-![](../../.gitbook/assets/3%20%2823%29.png)
+![](../../.gitbook/assets/3%20%2825%29.png)
 
 
 
@@ -47,11 +47,11 @@ You can choose to view the Groups Directory in one of two ways: Grid view or Lis
   
 **Grid View**
 
-![](../../.gitbook/assets/4%20%2822%29.jpg)
+![](../../.gitbook/assets/4%20%2823%29.jpg)
 
 **List View**
 
-![](../../.gitbook/assets/5%20%284%29.jpg)
+![](../../.gitbook/assets/5%20%285%29.jpg)
 
 Grid view is the default view of the Groups Directory, but the way you view the Groups Directory is controlled by you and specific to you. To change your view, click the Grid or List icons on the top left of the Groups Directory, just under the number of groups. The intranet will remember your last selected view preference, and will display the Groups Directory that way next time you visit it.
 
@@ -61,7 +61,7 @@ Grid view is the default view of the Groups Directory, but the way you view the 
 
 **Filter 1: Group Type**
 
-![](../../.gitbook/assets/7%20%2813%29.png)
+![](../../.gitbook/assets/7%20%2814%29.png)
 
 **Options**:
 

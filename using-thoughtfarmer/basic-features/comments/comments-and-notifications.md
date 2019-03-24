@@ -10,7 +10,7 @@ Email alerts for comments are sent out after the two minute [comment edit window
 
 You'll also receive an in-app alert when someone mentions you in a comment. A **Mention** is when someone types **@Yourname** or **@Groupname** in a comment, page body, or Rich Text Editor to bring something to your attention. When your name, or the name of a group you are a member of, is mentioned, a new alert will show in your Alerts menu on the Application Toolbar, under the **Mentions** tab. Click on the alert in the Mentions tab to be taken to the page or comment where you or your group was mentioned.
 
-![](../../../.gitbook/assets/2%20%2841%29.png)
+![](../../../.gitbook/assets/2%20%2849%29.png)
 
 ### Click Unfollow icon to stop email alerts
 
@@ -21,7 +21,7 @@ To stop receiving email alerts on a specific page where you have left a comment,
 
 To stop receiving emails when comments occur on pages you follow, click on the **Alerts** menu, and click on the **gear icon** at the bottom right of the **Notifications** tab. On the Profile Settings page that opens, under the **Email** heading, deselect the **Comments occur** checkbox.
 
-![](../../../.gitbook/assets/4%20%2813%29.jpg)
+![](../../../.gitbook/assets/4%20%2814%29.jpg)
 
 ### Hot intranet tip
 
