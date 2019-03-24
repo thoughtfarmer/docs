@@ -23,11 +23,11 @@ To edit your profile information, follow these steps:
   
 
 
-![](../../.gitbook/assets/1%20%2852%29.png)
+![](../../.gitbook/assets/1%20%2853%29.png)
 
 3.Edit your profile information. Click the headings to expand the profile info sections.
 
-![](../../.gitbook/assets/2%20%2810%29.jpg)
+![](../../.gitbook/assets/2%20%2816%29.jpg)
 
 
 
@@ -45,7 +45,7 @@ In the list below a star \(\*\) next to a profile field indicates that it is usu
 
 If enabled by your intranet administator, a Profile Strength indicator will show on your profile page and when editing your profile. Profile Strength relates to how many profile fields you have filled out, and is displayed as a percentage. On your profile page, the Profile Strength indicator displays only to you and to intranet admins, and it only shows if your Profile Strength is less than 100%. Click on the words **Profile Strength** on your profile page to go into edit mode on your profile.
 
-![](../../.gitbook/assets/3%20%2811%29.jpg)
+![](../../.gitbook/assets/3%20%2814%29.jpg)
 
 
 
@@ -60,7 +60,7 @@ The list below includes explanations for all the default profile fields on your 
 * **Cover photo**: If enabled on your intranet, you can add a photo that will fill the page header on your profile page.
 * **Photo**: Your profile photo, which will show as a thumbnail on your comments and activities on the intranet. You may be able to add your own profile photo, or it may be a non-editable field that contains your official work photo.
 
-![](../../.gitbook/assets/4%20%2818%29.jpg)
+![](../../.gitbook/assets/4%20%2823%29.jpg)
 
 #### Featured Information
 

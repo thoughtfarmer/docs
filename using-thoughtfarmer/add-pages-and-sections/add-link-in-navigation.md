@@ -22,7 +22,7 @@ When you add a link using these instructions the link shows up in the navigation
 
 4.Click the **Link setup** button on the left.
 
-![](../../.gitbook/assets/2%20%286%29.png)
+![](../../.gitbook/assets/2%20%287%29.png)
 
 
 
@@ -39,7 +39,7 @@ Follow the instructions below if you need to change the title or address of a li
 1. Navigate to the parent page on which the link shows.
 2. Hover over the icon next to the link in the navigation; it will turn into an Edit icon \(a pencil\). Click on the Edit icon. 
 
-![](../../.gitbook/assets/3%20%286%29.png)
+![](../../.gitbook/assets/3%20%287%29.png)
 
 
 
@@ -65,7 +65,7 @@ Follow the instructions below if you need to move a link to a different page or 
 
 3.Click **Move** beside the link path above the page title. The **Move** pop-up window will open.
 
-![](../../.gitbook/assets/5%20%2813%29.png)
+![](../../.gitbook/assets/5%20%2814%29.png)
 
 
 
@@ -93,7 +93,7 @@ To **add** an archive date:
 
 1.In Edit mode on the link, click **Set archive date** in the **Publishing options** section on the right.
 
-![](../../.gitbook/assets/6%20%287%29.jpg)
+![](../../.gitbook/assets/6%20%2810%29.jpg)
 
 
 

@@ -5,7 +5,7 @@
 Adding a comment to a file is very similar to adding a comment on a gallery photo. Open the File Preview window - click on a file title to open the **File Editing Menu**, and click on **Preview** in the menu. \(Learn more about [File Preview](../../add-and-edit-files/attach-and-reorder-files.md).\) In the File Preview, just like in Image Preview, click in the **Leave a comment?** box, type your comment, and then click **Post**.  
  
 
-![](../../../.gitbook/assets/1%20%2817%29.jpg)
+![](../../../.gitbook/assets/1%20%2824%29.jpg)
 
 
 
@@ -13,7 +13,7 @@ However, there are three different ways you can access the **Leave a comment?** 
 
 1.Click the **file title**, which opens the **File Editing Menu**. Click **Preview** in the menu, which opens the **File Preview** window containing a **Leave a comment?** box.
 
-![](../../../.gitbook/assets/2%20%2835%29.jpg)
+![](../../../.gitbook/assets/2%20%2842%29.jpg)
 
 
 

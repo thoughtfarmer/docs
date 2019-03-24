@@ -17,7 +17,7 @@ There are two ways to access your submitted entries:
 
 3.Click on the “Submitted by you” line to open the Entries page for these specific entries.
 
-![](../../../.gitbook/assets/2%20%288%29.png)
+![](../../../.gitbook/assets/2%20%289%29.png)
 
 
 
@@ -32,7 +32,7 @@ Once you have found the entry, the next step is to make your desired changes.
 1. From the Entries page, click on the title of the entry you want to edit to bring up the Entry.
 2. Click on the pencil icon in the body of the entry to open the editing window.
 
-![](../../../.gitbook/assets/1%20%2825%29.png)
+![](../../../.gitbook/assets/1%20%2826%29.png)
 
 
 

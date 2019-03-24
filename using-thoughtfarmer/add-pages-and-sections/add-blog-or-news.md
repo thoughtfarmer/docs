@@ -8,7 +8,7 @@ Use these instructions to add a Blog or News page to your intranet. They are eas
 
 By selecting the Blog/News content type you transform the way subpages appear. Instead of showing up only in the SuperNav on the left, or in a directory navigation on the page, subpages appear chronologically in the main column of the page.
 
-![](../../.gitbook/assets/1%20%2859%29.png)
+![](../../.gitbook/assets/1%20%2860%29.png)
 
 
 
@@ -18,11 +18,11 @@ On the left-hand side of blog and news pages you see a list of recent post title
 
 * **Blogs show whole posts**: For each post, the title and full post show on the blog section main page. This makes it easy to read a full post, but can result in a lot of scrolling.
 
-![](../../.gitbook/assets/2%20%2834%29.png)
+![](../../.gitbook/assets/2%20%2836%29.png)
 
 **•News shows excerpts of posts**: For each news item an image, the title, and an excerpt or summary of the post show on the News main page. This is more concise than a blog and the excerpts give the scent of the full post.
 
-![](../../.gitbook/assets/3%20%2831%29.png)
+![](../../.gitbook/assets/3%20%2833%29.png)
 
 
 
@@ -35,11 +35,11 @@ On the left-hand side of blog and news pages you see a list of recent post title
 4. Click on the **Template** dropdown on the right, and select the desired template.
 5. Select the radio button on the left for whether you want **News** or **Blog**. If you select **News**, choose whether to **Display thumbnail images** with the checkbox.
 
-![](../../.gitbook/assets/4%20%286%29.jpg)
+![](../../.gitbook/assets/4%20%2810%29.jpg)
 
 6.Click on **Security permissions** on the right under **Security** and make sure all the right people have edit permission on the page. \(See complete instructions on [how to change permissions to view & edit](../security-settings-and-permissions/permission-to-view-and-edit.md).\) Click **Done** when you are finished.
 
-![](../../.gitbook/assets/5%20%2816%29.jpg)
+![](../../.gitbook/assets/5%20%2819%29.jpg)
 
 
 
@@ -49,7 +49,7 @@ On the left-hand side of blog and news pages you see a list of recent post title
 
 Once the content type News/Blog is chosen, a new option appears in edit mode - the checkbox **Lock this page**. If you check this box, people who have edit permission can still add new posts, but they are not able to make edits to the main news or blog page itself - it is "locked". Only the page owner can edit the news or blog page when it is locked.
 
-![](../../.gitbook/assets/6%20%284%29.jpg)
+![](../../.gitbook/assets/6%20%285%29.jpg)
 
 ### Add a Blog or News post
 

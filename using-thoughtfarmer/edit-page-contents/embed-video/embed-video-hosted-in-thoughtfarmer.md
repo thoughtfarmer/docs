@@ -19,7 +19,7 @@ If your video is in a supported format \(see [Video formats and conversion](vide
 
 2.**Grab the embed code**: Visit the document landing page for the video. From a document library just click the name of the file and select **Go to file**. From here you will see the video details, a preview for the video and the embed code below that. Click the button **Show embed code** to display the code, then copy it.
 
-![](../../../.gitbook/assets/1%20%2851%29.png)
+![](../../../.gitbook/assets/1%20%2852%29.png)
 
 
 

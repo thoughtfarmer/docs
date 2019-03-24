@@ -8,7 +8,7 @@ You and your colleagues can collaborate on adding events to the calendar. For an
   
 
 
-![](../../../.gitbook/assets/1%20%2857%29.png)
+![](../../../.gitbook/assets/1%20%2858%29.png)
 
 
 
@@ -32,11 +32,11 @@ You can create a calendar that combines events from several other existing calen
 4. Available event types on your calendar will appear under the **Calendar Event Types** heading on the left. Click on **Edit event types** if you want to change the event types that will be available to users adding events to your calendar. In the **Edit event types** pop-up window, select the checkboxes for the events that you want to be available to add to your calendar. Click the **Primary** radio button on the right of the event that you want to be the default selected event type for the calendar. Click **Done** when you are done editing event types.
 5. \(optional\) Select the **Lock this page** checkbox if desired. \(To learn more see **Lock this page feature** below.\)
 
-![](../../../.gitbook/assets/2%20%2843%29.jpg)
+![](../../../.gitbook/assets/2%20%2853%29.jpg)
 
 6.Click on **Security permissions** on the right under **Security** and make sure all the right people have edit permission on the page. \(See complete instructions on [how to change permissions to view & edit](../../security-settings-and-permissions/permission-to-view-and-edit.md).\) Click **Done** when you are finished.
 
-![](../../../.gitbook/assets/3%20%2828%29.jpg)
+![](../../../.gitbook/assets/3%20%2836%29.jpg)
 
 
 

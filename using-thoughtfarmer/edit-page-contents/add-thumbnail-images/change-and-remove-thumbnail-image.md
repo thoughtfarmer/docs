@@ -13,7 +13,7 @@ It's easy to replace the Thumbnail image for a page with another image.
 3.Click on another image that has been uploaded, or upload a new image and then click on it. \(To learn more, see [How to insert images](../insert-images.md).\) Make sure a **checkmark** appears over the image you want to be the Thumbnail image.  
 
 
-![](../../../.gitbook/assets/1%20%285%29.jpg)
+![](../../../.gitbook/assets/1%20%286%29.jpg)
 
 
 
@@ -28,7 +28,7 @@ It's easy to replace the Thumbnail image for a page with another image.
   
 **If the desired image has already been inserted on the page, you can select it as the Thumbnail image in another way**: In edit mode, hover over that image in the content section, and click the **pencil** in the top right of the image. Select **Set as thumbnail** from the menu that appears. The Thumbnail image will automatically update on the right of the page.
 
-![](../../../.gitbook/assets/2%20%2845%29.jpg)
+![](../../../.gitbook/assets/2%20%2855%29.jpg)
 
 
 

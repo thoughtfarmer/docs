@@ -16,7 +16,7 @@ Occasionally you may need an overview of the form entries that have been submitt
 
 3.When you have set your filters the way you want them, click the Download button on the top right of the page.
 
-![](../../../.gitbook/assets/2%20%283%29.png)
+![](../../../.gitbook/assets/2%20%284%29.png)
 
 
 

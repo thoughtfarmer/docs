@@ -17,7 +17,7 @@ To reorder pages you must be on the page above the set of pages you want to reor
 1. Navigate to the parent page of the pages you wish to reorder. \(Don't go into edit mode.\)
 2. Click the **down arrow** on the right of the page header to open the **Page Controls**.
 
-![](../../.gitbook/assets/1%20%2818%29.jpg)
+![](../../.gitbook/assets/1%20%2827%29.jpg)
 
 3.Click **Reorder navigation**. This brings up the **Reorder navigation** pop-up window.
 
@@ -39,12 +39,12 @@ To reorder pages you must be on the page above the set of pages you want to reor
 
 2.Click the down arrow on the right of the page header to open the Page Controls.
 
-![](../../.gitbook/assets/2%20%2823%29.jpg)
+![](../../.gitbook/assets/2%20%2830%29.jpg)
 
 3.Click **Move**. This brings up the **Move** pop-up window.  
 
 
-![](../../.gitbook/assets/3%20%2821%29.jpg)
+![](../../.gitbook/assets/3%20%2828%29.jpg)
 
 
 

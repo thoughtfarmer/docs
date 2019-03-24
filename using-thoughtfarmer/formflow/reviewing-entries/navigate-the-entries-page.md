@@ -13,7 +13,7 @@ If you are a reviewer on a form, you will need to access and review entries when
 
 3.Click on the Entries tab to view entries.
 
-![](../../../.gitbook/assets/2%20%2823%29.png)
+![](../../../.gitbook/assets/2%20%2824%29.png)
 
 
 
@@ -25,7 +25,7 @@ There are three main filter tools:
 
 * **Form selector** - this dropdown defaults to All Forms, but you can use it to select a specific form. Choosing a form from the dropdown will filter all of the entries so that only those associated with the selected form are displayed.
 
-![](../../../.gitbook/assets/3%20%2814%29.png)
+![](../../../.gitbook/assets/3%20%2816%29.png)
 
 **• View selector** - this dropdown filters entries by where they are in the entry lifecycle. By default, this option is set to Open Entries but you have several options:
 
@@ -33,7 +33,7 @@ There are three main filter tools:
 
 **•Search bar** - just enter any keyword - such as the form owner, or a part of the form name - into the search bar and click enter to get a list of results.
 
-![](../../../.gitbook/assets/5%20%2820%29.png)
+![](../../../.gitbook/assets/5%20%2821%29.png)
 
 
 

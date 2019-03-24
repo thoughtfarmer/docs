@@ -12,9 +12,9 @@ The form creator specifies the number of columns and applies form elements and c
 
 2.Click on the Table name to open the editor. In the editor you can set a name for the table, enter any instructions, and, if you want to, set a maximum on the number of rows users can create.
 
-![](../../../.gitbook/assets/2%20%287%29.png)
+![](../../../.gitbook/assets/2%20%288%29.png)
 
-![](../../../.gitbook/assets/3%20%287%29.png)
+![](../../../.gitbook/assets/3%20%288%29.png)
 
 
 
@@ -45,7 +45,7 @@ The form creator specifies the number of columns and applies form elements and c
   
 **Example field editor \(People lookup field\)**
 
-![](../../../.gitbook/assets/5%20%284%29.png)
+![](../../../.gitbook/assets/5%20%285%29.png)
 
 **7.**After creating your first column, you can add additional columns by clicking Add column.
 

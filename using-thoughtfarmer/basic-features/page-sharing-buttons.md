@@ -6,7 +6,7 @@ The Page Sharing Buttons contain multiple ways to share information and tell oth
   
 
 
-![](../../.gitbook/assets/3%20%2822%29.jpg)
+![](../../.gitbook/assets/3%20%2829%29.jpg)
 
 ### Like
 
@@ -38,7 +38,7 @@ The number under the Bookmark icon indicates how many people have bookmarked the
 
 The Export options are not available for all pages. Clicking the Share icon \(an arrow coming out of a box\) and selecting "Export to Word" exports the title and main body content of the page \(including images and tables\) to a Microsoft Word file. This allows you to edit the information from the intranet page in Word, and then share it with people that don't have access to the intranet. The Word file also has metadata about the page at the bottom of each page.
 
-![](../../.gitbook/assets/7%20%283%29.jpg)
+![](../../.gitbook/assets/7%20%285%29.jpg)
 
 For more information see [How to export to PDF or Word](../edit-page-contents/export-to-pdf-or-word.md).
 
@@ -58,7 +58,7 @@ For more information see [How to email a page](../edit-page-contents/email-pages
 
 Clicking the Share icon \(an arrow coming out of a box\) and selecting "Share to group" opens the "Share to a group" pop-up window, where you can add a message and select a group to share the page with. The page share will show up in group members' homepage activity, group page activity, and in-app notifications. Use Share to group to bring an intranet page to the attention of a group of people.
 
-![](../../.gitbook/assets/8%20%281%29.jpg)
+![](../../.gitbook/assets/8%20%284%29.jpg)
 
 For more information see [How to share a page with a group](../edit-page-contents/share-pages-to-a-group.md).
 

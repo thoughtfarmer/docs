@@ -32,7 +32,7 @@ The first image that you insert on a page will automatically become the Thumbnai
 
             d.Click on one of the displayed **galleries**, and select an image       from the gallery.
 
-![](../../.gitbook/assets/2%20%2829%29.jpg)
+![](../../.gitbook/assets/2%20%2836%29.jpg)
 
 
 
@@ -48,7 +48,7 @@ When you insert an image on a page, one of the options in the Choose Image pop-u
   
 Your intranet administrator can set certain galleries as **Recommended galleries** that will appear above All galleries in the Choose Image window. Galleries that you have **Bookmarked** will appear with a star beside the title at the top of both the Recommended galleries and the All galleries sections.
 
-![](../../.gitbook/assets/3%20%2838%29.jpg)
+![](../../.gitbook/assets/3%20%2850%29.jpg)
 
 
 
@@ -78,7 +78,7 @@ In addition to inserting images from files on your computer you can insert image
 5.Paste the URL in the **Enter image URL** field in the **Web image** pop-up window.  
 
 
-![](../../.gitbook/assets/5%20%2825%29.png)
+![](../../.gitbook/assets/5%20%2826%29.png)
 
 
 
@@ -119,7 +119,7 @@ You can make an image larger or smaller so it fits just right on the page.
 
 2.Hover over the image and click on the **pencil icon** in the top right. Select **Image properties** from the menu. The **Image properties** pop-up window will open. Type the **Dimensions** that you want in the corresponding fields. \(The checkbox **Maintain aspect ratio** is selected by default. When it is selected, you can change one dimension and the other dimension will automatically update to maintain the same width to height ratio.\) Click **Update**.
 
-![](../../.gitbook/assets/8.jpg)
+![](../../.gitbook/assets/8%20%281%29.jpg)
 
 
 
@@ -127,7 +127,7 @@ You can make an image larger or smaller so it fits just right on the page.
 
 To return an image to it's original image size, hover over the image, click on the pencil icon in the top right, and click **Reset to original size**.
 
-![](../../.gitbook/assets/9%20%284%29.png)
+![](../../.gitbook/assets/9%20%285%29.png)
 
 
 

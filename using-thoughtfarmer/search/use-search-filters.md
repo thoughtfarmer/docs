@@ -12,7 +12,7 @@ Whenever you search your intranet you'll see five different search filters on th
   
 
 
-![](../../.gitbook/assets/1%20%2850%29.png)
+![](../../.gitbook/assets/1%20%2851%29.png)
 
 **Options**:
 
@@ -22,7 +22,7 @@ Use the **Type** filter if you know the format of the content you seek. For inst
 
 **Filter 2: Edited By**
 
-![](../../.gitbook/assets/2%20%2815%29.png)
+![](../../.gitbook/assets/2%20%2816%29.png)
 
 **Options**:
 
@@ -32,7 +32,7 @@ Use the **Edited by** filter if you know the name of a person who edited the con
 
 **Filter 3: Owned By**
 
-![](../../.gitbook/assets/3%20%285%29.png)
+![](../../.gitbook/assets/3%20%286%29.png)
 
 **Options:**
 
@@ -58,7 +58,7 @@ Use the **Posted Date** if you know approximately when someone posted the specif
 
 **Filter 5: Tag**
 
-![](../../.gitbook/assets/5%20%287%29.png)
+![](../../.gitbook/assets/5%20%288%29.png)
 
 **Options**:
 
