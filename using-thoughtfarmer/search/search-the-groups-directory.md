@@ -13,7 +13,7 @@ Use these instructions to search the Groups Directory on your intranet. You can 
 1.From any page on the intranet, click on the **Home** layer of the SuperNav on the left to open its subpage navigation. \(Or, if your intranet has a **Groups** tab in the Main Navigation Bar, just click on that.\)  
 
 
-![](../../.gitbook/assets/2%20%2876%29.png)
+![](../../.gitbook/assets/2%20%2883%29.png)
 
 
 
@@ -31,7 +31,7 @@ You can also start a search of the Groups Directory from any page on the intrane
 
 2.Click on **All** above the **Search** box, and select **Groups** from the menu that opens.
 
-![](../../.gitbook/assets/3%20%2841%29.png)
+![](../../.gitbook/assets/3%20%2847%29.png)
 
 
 

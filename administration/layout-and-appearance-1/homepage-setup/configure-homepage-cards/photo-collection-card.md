@@ -23,7 +23,7 @@ A Photo collection Card adds visual interest to your page by engaging viewers wi
 
 7.Click on the name of the photo gallery in the dropdown menu that appears.
 
-![](../../../../.gitbook/assets/2%20%2852%29.png)
+![](../../../../.gitbook/assets/2%20%2857%29.png)
 
 
 

@@ -16,7 +16,7 @@ You can quickly insert a table and select the number of rows and columns \(up to
 
 2.Set the cursor where you want to insert the table, click the **Insert Table** button ![6.5User7958InsertTable.png](https://community.thoughtfarmer.com/imagethumb/2514070000/15907/1000x1000/False/6.5User7958InsertTable.png) and then in the grid that pops up select the number of columns and rows to start with. Your simple table will appear on the page. \(The **Insert Table** button looks like a tiny table or grid, with a green plus sign on it.\)
 
-![](../../.gitbook/assets/4%20%2825%29.png)
+![](../../.gitbook/assets/4%20%2829%29.png)
 
 
 

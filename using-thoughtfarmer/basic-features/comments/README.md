@@ -12,14 +12,14 @@ When comments are added to content, they also appear in the Activity streams of 
 
 Many intranet pages allow comments. Depending on the various Cards on a page, comments may appear in different places on different pages, but they are often found below the body content of the page. You can also add comments in Activity Streams or as replies to Forum posts. To post a comment, click **Leave a comment?**in any one of these areas. Type in your comment and then click **Post**.
 
-![](../../../.gitbook/assets/1%20%28118%29.jpg)
+![](../../../.gitbook/assets/1%20%28121%29.jpg)
 
 If you want to respond to a specific comment, click **Quote** at the bottom of the comment. The commenter's name and the text of the comment will be copied into the open comment box. You can then add your comment and post it.  
 
 
-![](../../../.gitbook/assets/2%20%2849%29.jpg)
+![](../../../.gitbook/assets/2%20%2851%29.jpg)
 
-![](../../../.gitbook/assets/3%20%2846%29.jpg)
+![](../../../.gitbook/assets/3%20%2847%29.jpg)
 
 
 

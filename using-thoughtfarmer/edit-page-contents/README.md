@@ -5,7 +5,7 @@
 Use these instructions to edit the text and graphics on pages and control page versions. You can easily insert hyperlinks, images, video and other multimedia from the web, delete pages, and view a page's version history.  
 
 
-![](../../.gitbook/assets/1%20%2856%29.png)
+![](../../.gitbook/assets/1%20%2862%29.png)
 
 Editing a ThoughtFarmer page is like editing a Microsoft Word document. You can format text using headings, font sizes, bullets and numbering. It's easy to insert an image in a page or embed a video or other content from another website. You can also create simple tables on a page. Every time someone edits and saves a page, your ThoughtFarmer intranet creates a new version of the page so you can see exactly what changes were made.
 

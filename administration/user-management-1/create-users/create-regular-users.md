@@ -31,7 +31,7 @@ You must also ensure that Regular user creation has been enabled.
 
 2.In the **Account Type** section ensure that "Regular user" is selected.
 
-![](../../../.gitbook/assets/1%20%2849%29.png)
+![](../../../.gitbook/assets/1%20%2855%29.png)
 
 
 
@@ -44,7 +44,7 @@ You must also ensure that Regular user creation has been enabled.
 5.In the **Password** section select "Temporary Password".  
  
 
-![](../../../.gitbook/assets/3%20%2824%29.png)
+![](../../../.gitbook/assets/3%20%2827%29.png)
 
 
 
@@ -62,7 +62,7 @@ This option sends an invitation with a link allowing the user to login and set t
 
 2.In the **Account Type** section ensure that "Regular user" is selected.
 
-![](../../../.gitbook/assets/4%20%2824%29.png)
+![](../../../.gitbook/assets/4%20%2828%29.png)
 
 3.Enter the desired **username** in the provided text field.
 

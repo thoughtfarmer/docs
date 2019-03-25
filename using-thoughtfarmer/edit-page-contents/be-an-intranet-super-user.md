@@ -6,7 +6,7 @@ Want to know a bunch of sneaky ways to get things done fast in ThoughtFarmer? Or
 
 To open the nifty search dropdown at the top of the page, simply type CTRL+/. Search will drop down, with your cursor in the search field ready for you to type in your search term.
 
-![](../../.gitbook/assets/1%20%2841%29.jpg)
+![](../../.gitbook/assets/1%20%2842%29.jpg)
 
 **Navigate File or Image Preview: ← and →**
 

@@ -4,7 +4,7 @@
 
 Use these instructions to show posts from News, Blog, Forum or Calendar pages and external sources on other pages on the intranet. News Cards make it easy to have a constantly updated stream of new information added to relevant pages on the intranet. News Cards on group pages add to the personalized Homepage News of groups members. News Carousel Cards provide a highly visual and attention-grabbing way of providing News. You can also add news feeds to Microsoft Outlook or other feed readers.
 
-![](../../.gitbook/assets/1%20%2877%29.jpg)
+![](../../.gitbook/assets/1%20%2880%29.jpg)
 
 
 

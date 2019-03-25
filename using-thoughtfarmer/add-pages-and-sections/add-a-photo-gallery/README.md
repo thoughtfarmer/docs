@@ -4,7 +4,7 @@
 
 Use these instructions to create a photo gallery and fill it with image files. With just a click transform a basic page on your ThoughtFarmer intranet into a gallery that showcases images. You can click on a photo to see a larger version of it and to scroll from one photo to the next.
 
-![](../../../.gitbook/assets/1%20%2889%29.jpg)
+![](../../../.gitbook/assets/1%20%2892%29.jpg)
 
 
 
@@ -24,7 +24,7 @@ Adding photos to a gallery is similar to attaching files on a page.
 
 1.Click **Add images** on the gallery page.
 
-![](../../../.gitbook/assets/2%20%2870%29.png)
+![](../../../.gitbook/assets/2%20%2877%29.png)
 
 
 
@@ -51,7 +51,7 @@ On a photo gallery page with attached images, you can reorder the images in vari
 2.Click **Reorder images**. The Reorder images pop-up window will appear.  
 
 
-![](../../../.gitbook/assets/3%20%2857%29.jpg)
+![](../../../.gitbook/assets/3%20%2858%29.jpg)
 
 
 
@@ -63,7 +63,7 @@ i.Click on the current sort order beside **Reorder by** at the top of the window
 
 iii.Hover over an image in the list, click on the three dots on the right and select **Move to the top** or **Move to the bottom** for that image.
 
-![](../../../.gitbook/assets/4%20%288%29.png)
+![](../../../.gitbook/assets/4%20%289%29.png)
 
 
 

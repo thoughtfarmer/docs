@@ -4,7 +4,7 @@
 
 Use these instructions to allow or disallow file attachments on a page. To attach files to a page, the page must have a Document Library Card on it. The checkbox **Allow files** needs to be checked in the Update cards window in order for the Document Library Card with the **Add file** option to appear on the page.
 
-![](../../.gitbook/assets/1%20%2880%29.jpg)
+![](../../.gitbook/assets/1%20%2883%29.jpg)
 
 
 

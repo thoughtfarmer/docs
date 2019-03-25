@@ -6,7 +6,7 @@ Just because a form is Archived doesn’t mean you can’t edit or relaunch it. 
 
 1. Locate the archived form in the Forms Overview.
 
-![](../../../.gitbook/assets/1%20%2820%29.png)
+![](../../../.gitbook/assets/1%20%2823%29.png)
 
 2.Click on the ellipses above the form name and select the **Edit** option to open the form builder.  
 
@@ -23,10 +23,10 @@ Just because a form is Archived doesn’t mean you can’t edit or relaunch it. 
 
 6.If you want to relaunch the edited form and open it to new entries, click the **Restore** button in the banner.
 
-![](../../../.gitbook/assets/3%20%2838%29.png)
+![](../../../.gitbook/assets/3%20%2843%29.png)
 
 7.The archived banner will disappear and the fields in the workspace will no longer be greyed out. Click on **Relaunch** to make the form live again.  
 
 
-![](../../../.gitbook/assets/4%20%2817%29.png)
+![](../../../.gitbook/assets/4%20%2820%29.png)
 

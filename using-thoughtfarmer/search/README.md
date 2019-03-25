@@ -4,7 +4,7 @@
 
 Use these instructions to learn all the tricks of searching on your ThoughtFarmer intranet. Your intranet search is actually pretty cool and includes special sections for finding people and groups. You can narrow down the scope of search to within any section of the intranet, search just for people or groups, or browse all site content. You can also search the web using external search engines from within your intranet.
 
-![](../../.gitbook/assets/1%20%2826%29.jpg)
+![](../../.gitbook/assets/1%20%2827%29.jpg)
 
 The left hand SuperNav allows you to browse through the site navigation, or has section search and filters available for pages with subpages.
 

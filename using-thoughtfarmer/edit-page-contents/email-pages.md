@@ -14,7 +14,7 @@ Use these instructions to bring an intranet page to the attention of a coworker 
 3.Click **Email** in the dropdown menu that opens. Your default email program will open a new email with text similar to that below, including a link to the page you are emailing.  
 
 
-![](../../.gitbook/assets/2%20%2874%29.png)
+![](../../.gitbook/assets/2%20%2881%29.png)
 
 
 

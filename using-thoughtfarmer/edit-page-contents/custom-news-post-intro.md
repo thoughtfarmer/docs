@@ -6,11 +6,11 @@ Use these instructions to add a customized introductory paragraph for a news sto
   
 **News: List view**
 
-![](../../.gitbook/assets/1%20%2896%29.jpg)
+![](../../.gitbook/assets/1%20%2899%29.jpg)
 
 **News: Grid view**
 
-![](../../.gitbook/assets/2%20%2841%29.jpg)
+![](../../.gitbook/assets/2%20%2843%29.jpg)
 
 
 

@@ -15,7 +15,7 @@ A Location Card on your group page is where you can add your group's physical ad
   
 
 
-![](../../../.gitbook/assets/2%20%2847%29.jpg)
+![](../../../.gitbook/assets/2%20%2849%29.jpg)
 
 3.In the **Update cards** window, find the **Location** Card section and click **Set up** below it \(or the gear icon on the right of it\).
 

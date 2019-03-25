@@ -30,7 +30,7 @@ You can change your following and notification settings in your Profile Settings
   
 
 
-![](../../../.gitbook/assets/3%20%2852%29.jpg)
+![](../../../.gitbook/assets/3%20%2853%29.jpg)
 
 
 

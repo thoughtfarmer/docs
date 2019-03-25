@@ -12,7 +12,7 @@ The **Main navigation** section of the Theme page allows you to customize font a
 * Background color
 * Letter case of page titles
 
-![](../../../../.gitbook/assets/2%20%2823%29.jpg)
+![](../../../../.gitbook/assets/2%20%2824%29.jpg)
 
 ### Specified background and font color
 

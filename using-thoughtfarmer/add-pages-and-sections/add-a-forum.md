@@ -5,7 +5,7 @@
 Use these instructions to add a Forum page to your intranet. Forums are designed for online discussions - for sharing knowledge on varied topics, developing ideas, and asking and answering questions. By setting the page type to Forum you transform the way subpages appear. Subpages appear as post titles in the center of the page, along with some information about the post - post owner, posting time or date, number of comments and last commenter.  
 
 
-![](../../.gitbook/assets/1%20%2873%29.png)
+![](../../.gitbook/assets/1%20%2880%29.png)
 
 
 
@@ -21,7 +21,7 @@ Use these instructions to add a Forum page to your intranet. Forums are designed
 
 5.\(optional\) Choose a **Forum Type** from the dropdown on the left. \(To learn more, see **Choose forum type** below.\)
 
-![](../../.gitbook/assets/2%20%2838%29.jpg)
+![](../../.gitbook/assets/2%20%2840%29.jpg)
 
 5.\(optional\) Select the **Lock this page** checkbox if desired. \(To learn more, see **Lock this page feature** below.\)
 

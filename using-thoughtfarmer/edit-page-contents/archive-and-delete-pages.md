@@ -10,7 +10,7 @@ When you archive or delete a page you automatically archive or delete any subpag
 
 While archived content is hidden by default, users can choose whether to show or hide archived content from their view on the intranet. When archived content is hidden, it will not show in navigation or recent activity. Archived content is always excluded from search results, but at the top of search results, an option is available to show any archived items found in the search.
 
-![](../../.gitbook/assets/1%20%2841%29.png)
+![](../../.gitbook/assets/1%20%2846%29.png)
 
 
 
@@ -39,7 +39,7 @@ Any time after adding a page, you can set a date for the page to archive. You mi
   
 The auto-archive feature is the only way to archive a link in the navigation. Because links in the navigation do not have a "view" state like a regular page, there is no Archive option for them in the Page Controls. To learn more, see the **Set a date to archive the link** heading on the [Add link in navigation](../add-pages-and-sections/add-link-in-navigation.md) page.
 
-![](../../.gitbook/assets/3%20%2822%29.png)
+![](../../.gitbook/assets/3%20%2825%29.png)
 
 
 

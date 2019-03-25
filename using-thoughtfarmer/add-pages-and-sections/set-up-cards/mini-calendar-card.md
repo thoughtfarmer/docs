@@ -12,7 +12,7 @@ A Mini Calendar Card gives people an easy way of referencing past, present and f
 
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** window will open.
 
-![](../../../.gitbook/assets/2%20%2834%29.jpg)
+![](../../../.gitbook/assets/2%20%2836%29.jpg)
 
 3.In the **Update cards** window, find the **Mini Calendar** Card section and click **Set up** below it \(or the gear icon on the right of it\).
 

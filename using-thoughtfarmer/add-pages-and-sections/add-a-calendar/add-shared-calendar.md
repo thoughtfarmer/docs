@@ -18,7 +18,7 @@ You need edit permission on the primary calendar to be able to make it into a sh
 
 2.On the left of the calendar below the SuperNav, click on **Add calendar**.
 
-![](../../../.gitbook/assets/1%20%2861%29.png)
+![](../../../.gitbook/assets/1%20%2868%29.png)
 
 
 
@@ -32,9 +32,9 @@ You need edit permission on the primary calendar to be able to make it into a sh
 
 While viewing a shared calendar, you can hide specific types of events, or all events from a particular calendar. \(Hidden events don't disappear altogether, but are faded so that they don't stand out on the calendar.\) The left hand column of a shared calendar will display the different calendars and the different event types that are on the shared calendar. Different event types show as different colours, and have their own unique event type icons.
 
-![](../../../.gitbook/assets/2%20%2856%29.png)
+![](../../../.gitbook/assets/2%20%2862%29.png)
 
-![](../../../.gitbook/assets/4%20%285%29.png)
+![](../../../.gitbook/assets/4%20%286%29.png)
 
 
 

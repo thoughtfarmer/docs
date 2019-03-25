@@ -8,7 +8,7 @@ A Poll Card is a way to engage users in your page and let them express their opi
 
 Once a user votes on a poll, the Poll Card displays the poll results.
 
-![](../../../.gitbook/assets/2%20%2835%29.jpg)
+![](../../../.gitbook/assets/2%20%2837%29.jpg)
 
 
 
@@ -17,7 +17,7 @@ Once a user votes on a poll, the Poll Card displays the poll results.
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** pop-up window will open.  
 
 
-![](../../../.gitbook/assets/3%20%2827%29.jpg)
+![](../../../.gitbook/assets/3%20%2828%29.jpg)
 
 3.In the **Update cards** window, find the **Poll Card** section and click **Set up** or **In use** below it \(or the gear icon on the right of it\).  
 

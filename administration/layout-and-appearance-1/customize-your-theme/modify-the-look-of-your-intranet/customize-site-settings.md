@@ -8,7 +8,7 @@ The **Site settings** section is the first tab on the Theme page. These are the 
 
 You can set an icon that displays in the browser's address bar, commonly referred to as a **favicon**. The **favicon**is displayed in the browser tab, or to the left of the site's URL, as depicted in the image below.
 
-![](../../../../.gitbook/assets/1%20%2881%29.png)
+![](../../../../.gitbook/assets/1%20%2890%29.png)
 
 
 
@@ -43,7 +43,7 @@ Depending on the size of your logo, you may also need to adjust the overall heig
 
 This logo appears at the bottom of notifications emails sent from your intranet to alert you to changes to intranet pages.
 
-![](../../../../.gitbook/assets/2%20%2849%29.png)
+![](../../../../.gitbook/assets/2%20%2854%29.png)
 
 ### Desktop notification logo
 
@@ -54,5 +54,5 @@ This logo appears on the left side of desktop notifications that appear to alert
 You can upload the login image here. This image is only used for the Forms authentication login page. If you are using exclusively Windows Authentication then no logo is necessary here.  
  
 
-![](../../../../.gitbook/assets/3%20%2844%29.png)
+![](../../../../.gitbook/assets/3%20%2850%29.png)
 

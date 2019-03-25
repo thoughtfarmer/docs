@@ -4,7 +4,7 @@
 
 A Poll Card is a way to engage users on the homepage and let them express their opinions and give you useful feedback. When you add a Poll Card, you can choose to have it display the most recently created poll on the intranet, or a specific poll that you select.
 
-![](../../../../.gitbook/assets/1%20%28100%29.jpg)
+![](../../../../.gitbook/assets/1%20%28103%29.jpg)
 
 Once a user votes on a poll, the Poll Card displays the poll results.
 
@@ -16,7 +16,7 @@ Once a user votes on a poll, the Poll Card displays the poll results.
 
 3.By default, the radio button **Specify the poll** is selected. You can either choose a specific poll to display, or select the radio button **Latest poll** to always have the most recently created poll on the intranet displayed. The Poll Card will not display on the page until either a specific poll is selected, or the **Latest poll** radio button is selected. If you want a specific poll to appear, select the radio button **Specify the poll**, and follow steps 4 and 5.
 
-![](../../../../.gitbook/assets/3%20%2850%29.jpg)
+![](../../../../.gitbook/assets/3%20%2851%29.jpg)
 
 
 

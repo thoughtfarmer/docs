@@ -8,13 +8,13 @@ On this page, you'll find instructions for how to add a page summary, how to add
 
 The content type and page template you choose determine the purpose, layout and available [Cards](../basic-features/cards.md) for the page. See [Learn about content types](content-types.md) and [Learn about page templates](templates.md).
 
-![](../../.gitbook/assets/1%20%2891%29.jpg)
+![](../../.gitbook/assets/1%20%2894%29.jpg)
 
 ### How to add a Thumbnail image
 
 The Thumbnail image for a page displays with the page title in search results, News posts, News Carousel posts, Grid navigation sections and on the Group Directory. See [How to add a Thumbnail image](../edit-page-contents/add-thumbnail-images/).
 
-![](../../.gitbook/assets/2%20%2871%29.jpg)
+![](../../.gitbook/assets/2%20%2874%29.jpg)
 
 ### Publishing options section
 

@@ -2,7 +2,7 @@
 
 ### What is the Main Navigation Bar?
 
-![](../../../.gitbook/assets/1%20%28113%29.jpg)
+![](../../../.gitbook/assets/1%20%28116%29.jpg)
 
 
 
@@ -53,7 +53,7 @@ To hide a top level page link:
 2. Uncheck the box "Display _\(page name\)_ in the top navigation bar" at the top of the page.
 3. Click **Save**.
 
-![](../../../.gitbook/assets/aaa.png)
+![](../../../.gitbook/assets/aaa%20%281%29.png)
 
 You can also hide the default People, Groups and News pages from the SuperNav instead of the Main Navigation Bar. To learn more see [SuperNav settings](supernav-setting.md).  
 
