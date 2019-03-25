@@ -6,7 +6,7 @@ Want to know a bunch of sneaky ways to get things done fast in ThoughtFarmer? Or
 
 To open the nifty search dropdown at the top of the page, simply type CTRL+/. Search will drop down, with your cursor in the search field ready for you to type in your search term.
 
-![](../../.gitbook/assets/1%20%2839%29.jpg)
+![](../../.gitbook/assets/1%20%2841%29.jpg)
 
 **Navigate File or Image Preview: ← and →**
 
@@ -20,7 +20,7 @@ When you're in Preview mode, whether you are previewing images or files, use you
 Most pop-up windows have buttons at the bottom right that allow you to close the window. If you haven't made changes in the window however, you can often close it just by clicking outside of the window.  
 
 
-![](../../.gitbook/assets/3%20%2815%29.jpg)
+![](../../.gitbook/assets/3%20%2816%29.jpg)
 
 
 

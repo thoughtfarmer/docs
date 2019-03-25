@@ -30,7 +30,7 @@ You can change your following and notification settings in your Profile Settings
   
 
 
-![](../../../.gitbook/assets/3%20%2849%29.jpg)
+![](../../../.gitbook/assets/3%20%2852%29.jpg)
 
 
 
@@ -54,7 +54,7 @@ You can view a list of all of the pages that you follow on the intranet, and cho
 
 2.In the Notifications tab, click on **Following list** at the bottom.
 
-![](../../../.gitbook/assets/5%20%2816%29.png)
+![](../../../.gitbook/assets/5%20%2817%29.png)
 
 
 

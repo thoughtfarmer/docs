@@ -15,7 +15,7 @@ Most pages that have multiple subpages will have Section Search available from t
 3. Enter your search term in the box, and press **Enter**. Your Section Search results will appear.
 4. Click on a page title in the search results to view the page.
 
-![](../../.gitbook/assets/1%20%2854%29.jpg)
+![](../../.gitbook/assets/1%20%2856%29.jpg)
 
 
 
@@ -43,7 +43,7 @@ You can also perform a Section Search using the search dropdown at the top of th
 
 3.Click on **All** above the **Search** box, and select **Section** from the menu that opens.
 
-![](../../.gitbook/assets/2%20%2821%29.png)
+![](../../.gitbook/assets/2%20%2823%29.png)
 
 
 

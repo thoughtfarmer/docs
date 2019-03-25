@@ -5,7 +5,7 @@
 The Poll Card of ThoughtFarmer allows for users to select from a set of pre-defined answers to a survey-style question. The Poll Card can be added to the homepage and other intranet pages. \(See [How to set up a Poll Card](../../../using-thoughtfarmer/add-pages-and-sections/set-up-cards/poll-card.md) for end user instructions.\) A Poll Card is a way to engage users in your page and let them express their opinions and give you useful feedback. To set up a Poll Card, you must select whether it will display the most recently created poll, or a specific poll that you choose.  
 
 
-![](../../../.gitbook/assets/1%20%2815%29.png)
+![](../../../.gitbook/assets/1%20%2816%29.png)
 
 
 
@@ -43,7 +43,7 @@ A new poll can be added at any time, and multiple active polls can exist on the 
 7. \(optional\) Click on **Security permissions** under **Security** on the right. Change the security permissions as desired. If you do not alter the security settings, the poll will have the same permissions as the parent Polls page.
 8. Click **Publish**.
 
-![](../../../.gitbook/assets/2%20%2856%29.png)
+![](../../../.gitbook/assets/2%20%2862%29.png)
 
 To learn more about setting up Poll Cards, see [Poll Cards](../../../using-thoughtfarmer/add-pages-and-sections/set-up-cards/poll-card.md).  
 

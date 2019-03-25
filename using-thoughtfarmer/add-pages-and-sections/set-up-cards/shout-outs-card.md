@@ -4,7 +4,7 @@
 
 Shouts-outs are a great way of empowering employees to recognize one another for their outstanding contributions. In a few simple steps, users can send positive reinforcement to one colleague or several colleagues for a great presentation, a successful product launch, positive qualities, or anything else that deserves a Shout-out.
 
-![](../../../.gitbook/assets/1%20%28116%29.jpg)
+![](../../../.gitbook/assets/1%20%28121%29.jpg)
 
 
 
@@ -15,7 +15,7 @@ By adding a Shout-outs Card to a page, you add one more place where employees ca
 
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** pop-up window will open.
 
-![](../../../.gitbook/assets/2%20%2844%29.jpg)
+![](../../../.gitbook/assets/2%20%2845%29.jpg)
 
 
 
@@ -23,7 +23,7 @@ By adding a Shout-outs Card to a page, you add one more place where employees ca
 
 4.Click **Set up** on the Shout-outs card \(or the gear icon on the right of it\).
 
-![](../../../.gitbook/assets/3%20%2848%29.jpg)
+![](../../../.gitbook/assets/3%20%2851%29.jpg)
 
 5.In the **Shout-outs** pop-up window, choose the radio button for what type of Shout-outs you want to display in the Card. If you select the **Group** option, then click in the box below, start typing the name of the group you want, and click on it when it appears in the menu.
 

@@ -14,7 +14,7 @@ The form creator specifies the number of columns and applies form elements and c
 
 ![](../../../.gitbook/assets/2%20%288%29.png)
 
-![](../../../.gitbook/assets/3%20%2810%29.png)
+![](../../../.gitbook/assets/3%20%2812%29.png)
 
 
 
@@ -55,7 +55,7 @@ The form creator specifies the number of columns and applies form elements and c
 
 9.Preview your form to test if your table is displaying the way you need it to. You can also test out the user experience by adding rows and interacting with the information.
 
-![](../../../.gitbook/assets/6%20%283%29.png)
+![](../../../.gitbook/assets/6%20%285%29.png)
 
 
 

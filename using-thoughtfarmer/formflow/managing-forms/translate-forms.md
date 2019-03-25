@@ -20,13 +20,13 @@ Translating these areas is a simple change you can make within the form builder.
 
 2.Locate the language selector drop down in the editor. By default the selector is set to your preferred language.
 
-![](../../../.gitbook/assets/1%20%2823%29.png)
+![](../../../.gitbook/assets/1%20%2826%29.png)
 
-![](../../../.gitbook/assets/2%20%2833%29.png)
+![](../../../.gitbook/assets/2%20%2837%29.png)
 
 3.Select the language you want the form to use in the selector.
 
-![](../../../.gitbook/assets/3%20%2837%29.png)
+![](../../../.gitbook/assets/3%20%2840%29.png)
 
 
 

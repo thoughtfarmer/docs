@@ -16,7 +16,7 @@ In the Thumbnail settings pop-up window, there are four different tabs that allo
 Note that when cropping for a video thumbnail, there are only two tabs. To learn more, see [How to add a video thumbnail image](add-a-video-thumbnail-image.md).  
 
 
-![](../../../.gitbook/assets/1%20%2820%29.jpg)
+![](../../../.gitbook/assets/1%20%2821%29.jpg)
 
 
 
@@ -55,7 +55,7 @@ Adjusting the crop will not change the way the Thumbnail image looks in the Thum
   
 The **News Grid** Thumbnail image may vary in size depending on the Card or screen width, so that tab has a checkbox option to indicate the safe area of the image that will always display in the Thumbnail regardless of the other factors.
 
-![](../../../.gitbook/assets/2%20%2825%29.jpg)
+![](../../../.gitbook/assets/2%20%2826%29.jpg)
 
 
 

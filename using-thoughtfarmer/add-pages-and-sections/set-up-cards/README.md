@@ -17,7 +17,7 @@ In order to set up any Card, you must first do these two steps:
 1. Click **Edit** in the page header to go into edit mode on the page.
 2. Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** pop-up window will open.
 
-![](../../../.gitbook/assets/1%20%2884%29.jpg)
+![](../../../.gitbook/assets/1%20%2886%29.jpg)
 
 
 

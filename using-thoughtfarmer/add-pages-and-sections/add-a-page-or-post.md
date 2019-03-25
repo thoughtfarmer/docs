@@ -12,7 +12,7 @@ Use these instructions to add a simple page to your ThoughtFarmer intranet. You 
   
 
 
-![](../../.gitbook/assets/1%20%2850%29.jpg)
+![](../../.gitbook/assets/1%20%2852%29.jpg)
 
 
 
@@ -20,7 +20,7 @@ Use these instructions to add a simple page to your ThoughtFarmer intranet. You 
 
 3.Click **Publish** when you are done. The new page will appear on the screen and you'll see the title of your page in the [SuperNav](../search/use-the-supernav.md) on the left.
 
-![](../../.gitbook/assets/2%20%2843%29.jpg)
+![](../../.gitbook/assets/2%20%2844%29.jpg)
 
 Following the above instructions, the default content type Page and a default page template are selected. To learn more, see [Learn about content types ](content-types.md)and [Learn about page templates](templates.md).
 
@@ -38,7 +38,7 @@ Adding a post to a blog, forum or news section or to a calendar is almost exactl
 
 When you follow the above instructions to add a post to a blog, forum or news section you will see three options that do not appear when you add other types of intranet pages.
 
-![](../../.gitbook/assets/3%20%2836%29.png)
+![](../../.gitbook/assets/3%20%2839%29.png)
 
 
 

@@ -10,18 +10,18 @@ Archiving a form will disable it and archive all of the existing form entries. T
 
 1.On the Forms Overview page, find the form you want to archive and click on the ellipses above the form title. Select **Archive** from the drop down menu to immediately archive the form.
 
-![](../../../.gitbook/assets/1%20%2853%29.png)
+![](../../../.gitbook/assets/1%20%2860%29.png)
 
 2.In the Form Builder, click on the arrow in the top menu to bring up the form details. Click on the **Archive**button to immediately archive the form.
 
-![](../../../.gitbook/assets/2%20%2828%29.png)
+![](../../../.gitbook/assets/2%20%2831%29.png)
 
 3.To restore any archived form, just click the **Restore** button in the blue banner, or in the top menu. This will remove the form from the archive, allowing you to relaunch and collect more entrie.
 
   
 
 
-![](../../../.gitbook/assets/3%20%284%29.png)
+![](../../../.gitbook/assets/3%20%285%29.png)
 
 
 
@@ -43,7 +43,7 @@ Deleting a form removes it, and the existing form entries, from the intranet. An
 
 2.In the Form Builder, click on the arrow in the top menu to bring up the form details. Click on the **Delete**button.
 
-![](../../../.gitbook/assets/5%20%2823%29.png)
+![](../../../.gitbook/assets/5%20%2825%29.png)
 
 
 

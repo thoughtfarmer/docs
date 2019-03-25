@@ -27,7 +27,7 @@ Editing the homepage is a lot like editing any other content type on the intrane
 4.Click on one of the **three layout options** in the dropdown menu that opens. \(To learn more, see Page layout options.\)  
 
 
-![](../../../.gitbook/assets/1%20%2818%29.jpg)
+![](../../../.gitbook/assets/1%20%2819%29.jpg)
 
 
 

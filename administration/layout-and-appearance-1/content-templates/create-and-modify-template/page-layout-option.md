@@ -7,7 +7,7 @@ There are three page layout options available when editing templates. The page l
 The three page layout options are:   
 
 
-![](../../../../.gitbook/assets/1%20%28110%29.jpg)
+![](../../../../.gitbook/assets/1%20%28115%29.jpg)
 
 The page layout names indicate the number of columns, and the width of each column as a percentage of the whole.
 

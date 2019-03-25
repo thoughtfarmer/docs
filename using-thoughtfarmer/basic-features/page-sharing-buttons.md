@@ -6,7 +6,7 @@ The Page Sharing Buttons contain multiple ways to share information and tell oth
   
 
 
-![](../../.gitbook/assets/3%20%2837%29.jpg)
+![](../../.gitbook/assets/3%20%2840%29.jpg)
 
 ### Like
 
@@ -30,7 +30,7 @@ The number under the notification flag indicates how many people are following t
 Clicking the Bookmark icon \(a star\) means that the page will be added to your Bookmarks menu in the Application Toolbar, and to your Bookmarks Card, if one is configured on your intranet. You can access your bookmarked pages easily from any page on the intranet using the Bookmarks menu. When you click the Bookmark icon, the icon is filled in to show that you have bookmarked the page. To delete a Bookmark, click the bookmark icon on the page again, or go to the Bookmarks menu and click the garbage can icon beside the bookmark you want to delete.  
 
 
-![](../../.gitbook/assets/6%20%284%29.png)
+![](../../.gitbook/assets/6%20%286%29.png)
 
 The number under the Bookmark icon indicates how many people have bookmarked the page. Hover over the number to see a pop-up list of people who have bookmarked the page. Click on the number to see a list of the people who have bookmarked that page, with their profile photos.
 

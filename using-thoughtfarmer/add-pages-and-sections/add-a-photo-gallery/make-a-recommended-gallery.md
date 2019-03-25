@@ -13,7 +13,7 @@ When a user clicks on a Recommended Gallery when choosing an image, they are pre
 
 2.Select the checkbox **Set as a recommended gallery**, found below the page title. \(This checkbox will only display for administrators.\)
 
-![](../../../.gitbook/assets/1%20%2873%29.jpg)
+![](../../../.gitbook/assets/1%20%2875%29.jpg)
 
 3.**Save** the page. The gallery will now display as a Recommended gallery in the Choose Image window.
 

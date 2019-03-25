@@ -9,18 +9,18 @@ Navigate to the area you want to add the form page and click on the Add icon \(+
 Enter the title of your page.  
 
 
-![](../../../.gitbook/assets/1%20%2873%29.png)
+![](../../../.gitbook/assets/1%20%2885%29.png)
 
 In the body area, enter any instructions or introductory information you would like to appear above the form on your new page. 
 
 Under Content type, select Form from the drop down.  
 
 
-![](../../../.gitbook/assets/2%20%2837%29.png)
+![](../../../.gitbook/assets/2%20%2841%29.png)
 
 To import an existing form, just search for the form title under Find a form and select the correct one from the results. It is strongly recommended that you build the form first and import it into a Form Page.
 
-![](../../../.gitbook/assets/3%20%2813%29.png)
+![](../../../.gitbook/assets/3%20%2815%29.png)
 
 The page will import the form data from the original form. The form is now associated with the page
 
@@ -32,7 +32,7 @@ If you must build a new form within a new Form Page, click on the “+ Or build 
 
 1.A pop up will appear to let you know that the Form page will be saved as a private page until your new form is built and launched.
 
-![](../../../.gitbook/assets/6%20%2817%29.png)
+![](../../../.gitbook/assets/6%20%2819%29.png)
 
 
 
@@ -47,7 +47,7 @@ Click on Build to accept and launch the form builder
 To make the form submittable on the page, select the Form option under Layout.  
 
 
-![](../../../.gitbook/assets/7%20%2811%29.png)
+![](../../../.gitbook/assets/7%20%2813%29.png)
 
 #### Entries
 
@@ -56,11 +56,11 @@ The other two layout options, Entries in list and Entries in grid, will display 
 List layout will display a table with the form entries in each row, that can be sorted by columns.  
 
 
-![](../../../.gitbook/assets/8%20%288%29.png)
+![](../../../.gitbook/assets/8%20%289%29.png)
 
 Grid layout uses cards, displaying one card per piece of form entry.
 
-![](../../../.gitbook/assets/9%20%284%29.png)
+![](../../../.gitbook/assets/9%20%286%29.png)
 
 
 
@@ -70,7 +70,7 @@ There are several defaults you can adjust:
 
 1.The number of displayed entries is defaulted to 20, but you can increase or decrease the number to suit your data presentation needs.
 
-![](../../../.gitbook/assets/10%20%286%29.png)
+![](../../../.gitbook/assets/10%20%287%29.png)
 
 
 
@@ -88,7 +88,7 @@ There are also content defaults. In both List and Grid views, the default form f
 These fields can be adjusted by selecting other available options \(including other form fields used on the form\) from the drop downs.  
 
 
-![](../../../.gitbook/assets/11%20%284%29.png)
+![](../../../.gitbook/assets/11%20%285%29.png)
 
 
 
@@ -132,11 +132,11 @@ Adjust your page settings just as you would adding any other new page:
 
 2.Set your publishing options.
 
-![](../../../.gitbook/assets/13%20%282%29.png)
+![](../../../.gitbook/assets/13%20%283%29.png)
 
 3.Adjust your Security settings if desired. Keep in mind that anyone with permissions to the form will also need to be added to the page permissions in order to access the page. If someone that has access to the page but does not have access to view or submit the form, they will not see it on the page.
 
-![](../../../.gitbook/assets/14%20%281%29.png)
+![](../../../.gitbook/assets/14%20%282%29.png)
 
 4.List your tags.
 

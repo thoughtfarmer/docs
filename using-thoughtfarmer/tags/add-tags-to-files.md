@@ -9,7 +9,7 @@ You can add tags to files that you have edit permission on to help other people 
 
 1.Click the **down arrow** on the far right of the file name to expand the **File Controls**.
 
-![](../../.gitbook/assets/1%20%2842%29.jpg)
+![](../../.gitbook/assets/1%20%2844%29.jpg)
 
 
 

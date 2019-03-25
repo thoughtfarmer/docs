@@ -15,7 +15,7 @@ Use these instructions to set or change the person listed as your manager on you
 3.Start typing your manager's name in the **Manager** box; click once on your manager's name when it appears in the dropdown menu.  
 
 
-![](../../.gitbook/assets/1%20%2845%29.jpg)
+![](../../.gitbook/assets/1%20%2847%29.jpg)
 
 
 

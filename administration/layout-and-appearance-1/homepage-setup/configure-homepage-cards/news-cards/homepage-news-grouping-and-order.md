@@ -23,7 +23,7 @@ In a News Carousel, multiple sources are always merged to show newest items firs
 
 4.Choose the \# of items to display from the dropdown menu \(For each source, or in total, depending on the option you chose above.\)
 
-![](../../../../../.gitbook/assets/1%20%28115%29.jpg)
+![](../../../../../.gitbook/assets/1%20%28120%29.jpg)
 
 
 

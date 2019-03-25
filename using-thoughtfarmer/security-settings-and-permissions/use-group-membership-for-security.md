@@ -16,7 +16,7 @@ You can use the membership of a group page to create a security group, which can
 
 3.Select the **radio button** for **Managed** membership. \(See [Create group pages](../add-pages-and-sections/add-a-group-page/create-group-pages.md) for an explanation of Open, Managed and Closed membership.\)
 
-![](../../.gitbook/assets/1%20%2840%29.jpg)
+![](../../.gitbook/assets/1%20%2842%29.jpg)
 
 
 
@@ -38,7 +38,7 @@ Closed group membership can also be used to create a TF security group, but only
   
 To create a security group using Closed membership, start by following the steps above. For Step 3, select the **Closed** radio button, then add one or more AD groups from the dropdown menu to sync with the membership. Skip Step 4 and continue with Step 5.
 
-![](../../.gitbook/assets/2%20%2824%29.jpg)
+![](../../.gitbook/assets/2%20%2825%29.jpg)
 
 
 

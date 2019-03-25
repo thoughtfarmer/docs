@@ -16,7 +16,7 @@ It is possible for the Duplicate action to be available to administrators only. 
 
 2.Click the **down arrow** on the right side of the page header to expand the **Page Controls**.
 
-![](../../.gitbook/assets/1%20%2891%29.jpg)
+![](../../.gitbook/assets/1%20%2893%29.jpg)
 
 3.Click **Duplicate**.
 

@@ -10,12 +10,12 @@ Need to manage a large number of files? Use folders to create a document library
 
 1.Click **New folder** above the files in the document library. The **Create folder** pop-up window will appear.
 
-![](../../.gitbook/assets/1%20%2828%29.jpg)
+![](../../.gitbook/assets/1%20%2829%29.jpg)
 
 2.Type the folder name in the **New folder** field.  
 
 
-![](../../.gitbook/assets/2%20%2874%29.jpg)
+![](../../.gitbook/assets/2%20%2878%29.jpg)
 
 
 
@@ -29,7 +29,7 @@ Add files from your computer directly into a folder on the intranet.
 
 1.Navigate to the page with the folder on it and click on the folder name to select/open it.
 
-![](../../.gitbook/assets/3%20%2828%29.jpg)
+![](../../.gitbook/assets/3%20%2831%29.jpg)
 
 
 

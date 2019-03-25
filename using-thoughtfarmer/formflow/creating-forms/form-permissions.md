@@ -9,7 +9,7 @@ Any form created with FormFlow has 4 different levels of permissions, based on f
 
 Each of these permission classifications has its own set of options that you can change at any time, from the Permissions tab located in the top menu.
 
-![](../../../.gitbook/assets/1%20%2827%29.png)
+![](../../../.gitbook/assets/1%20%2830%29.png)
 
 
 
@@ -21,7 +21,7 @@ Submitters are any users that can submit entries to the form. Submitters can onl
 
 1. The Submitter field indicates who can create entries for the form. By default, this box is set to All Registered Users, but you can change this to include other groups or individuals. 
 
-![](../../../.gitbook/assets/2%20%2826%29.png)
+![](../../../.gitbook/assets/2%20%2829%29.png)
 
 
 
@@ -30,7 +30,7 @@ Submitters are any users that can submit entries to the form. Submitters can onl
 
 2.By default, Submitters are allowed to view, but not edit, their form entries. To allow editing, click on the box "Allow submitters to edit their form entries after they've been submitted".
 
-![](../../../.gitbook/assets/3%20%2828%29.png)
+![](../../../.gitbook/assets/3%20%2831%29.png)
 
 * Submitters will be able to edit any of their entries
 * Submitters cannot edit the form status, or who the form is assigned to
@@ -38,7 +38,7 @@ Submitters are any users that can submit entries to the form. Submitters can onl
 
 3.To limit the number of times a user can submit a form entry, click on the box "Limit the number of times a person can submit the form" and enter a number.
 
-![](../../../.gitbook/assets/4%20%2835%29.png)
+![](../../../.gitbook/assets/4%20%2837%29.png)
 
 
 
@@ -47,7 +47,7 @@ Submitters are any users that can submit entries to the form. Submitters can onl
 
 4. If you want to limit the total number of form entries you receive, click on the box "Limit the maximum number of submissions for this form" and enter the cutoff number you want in the text box.
 
-![](../../../.gitbook/assets/5%20%2824%29.png)
+![](../../../.gitbook/assets/5%20%2826%29.png)
 
 
 
@@ -62,11 +62,11 @@ Reviewers are the people who can view and process received entries. They will al
 
 1.The Initial Reviewer is the first person to be notified and assigned to review an entry. By default the form creator is automatically listed as the Initial Reviewer, but you can change this to be any user.
 
-![](../../../.gitbook/assets/6.png)
+![](../../../.gitbook/assets/6%20%281%29.png)
 
 2.Additional Reviewers have the same permissions as the Initial Reviewer. By default this text box is blank, but you can add whatever users or security groups you like. If you add a security group, each user in the group will become an Additional Reviewer, and will be visible in the Assigned To drop down on the form processing page. If the checkbox "Notify additional reviewers when entries are submitted" is checked, then additional reviewers will be notified of the entry at the same time the initial reviewer is notified.
 
-![](../../../.gitbook/assets/7%20%284%29.png)
+![](../../../.gitbook/assets/7%20%286%29.png)
 
 
 
@@ -79,7 +79,7 @@ Reviewers are the people who can view and process received entries. They will al
 4.To delete a reviewer, simply click the X next to their name.  
 
 
-![](../../../.gitbook/assets/8%20%2813%29.png)
+![](../../../.gitbook/assets/8%20%2814%29.png)
 
 
 
@@ -96,11 +96,11 @@ Viewers can see ALL submitted form entries, but they cannot approve them or subm
 1. By default, there are no users listed as Viewers.
 2. Add individual users or security groups to be Viewers by typing their names in the text box. 
 
-![](../../../.gitbook/assets/9%20%281%29.png)
+![](../../../.gitbook/assets/9%20%283%29.png)
 
 3.Delete Viewers by clicking on the X next to the individual user’s name or the security group name. ​​​​​​​
 
-![](../../../.gitbook/assets/10%20%285%29.png)
+![](../../../.gitbook/assets/10%20%286%29.png)
 
 
 
@@ -114,11 +114,11 @@ Form Managers are users or security groups that can edit or manage the form. The
 
 2.Add new users or security groups to be Form Managers by typing their names in the text.
 
-![](../../../.gitbook/assets/12%20%283%29.png)
+![](../../../.gitbook/assets/12%20%284%29.png)
 
 3.Delete Form Managers by clicking the X next to the user or group name.​​​​​​​
 
-![](../../../.gitbook/assets/13%20%281%29.png)
+![](../../../.gitbook/assets/13%20%282%29.png)
 
 
 
@@ -129,7 +129,7 @@ Form Managers are users or security groups that can edit or manage the form. The
 2.Activate this setting by clicking on the checkbox.  
 ​​​​​​​
 
-![](../../../.gitbook/assets/14%20%282%29.png)
+![](../../../.gitbook/assets/14%20%283%29.png)
 
 
 

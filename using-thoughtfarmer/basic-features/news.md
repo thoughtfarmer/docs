@@ -18,7 +18,7 @@ To add a new post to a group Blog, Forum or News section that feeds into your ho
 2. Click on the title of the News section you want to post to. This will open a screen for editing a new post in the section you chose.
 3. Type a title for your new post, write your story in the content box and then click **Publish.** This will add your new post to the section you chose. The post will show up on the group page it feeds into and on the homepage of all members of that group.
 
-![](../../.gitbook/assets/1%20%2839%29.png)
+![](../../.gitbook/assets/1%20%2845%29.png)
 
 You may not see the Add post option if the News Card creator has chosen not to display that option.
 
@@ -33,13 +33,13 @@ To manage what groups you see News from on your homepage:
 
 
 
-![](../../.gitbook/assets/2%20%2820%29.png)
+![](../../.gitbook/assets/2%20%2822%29.png)
 
 2.Click on the Newspaper icon at the top right of the News Card. The **Manage News Feed** pop-up window will open.
 
 3.Uncheck the boxes for the groups whose News you do not want to see. Leave boxes checked for groups whose News you want to see.
 
-![](../../.gitbook/assets/4%20%2828%29.png)
+![](../../.gitbook/assets/4%20%2829%29.png)
 
 
 
@@ -53,5 +53,5 @@ You may not see the Add post option if the News Card creator has chosen not to d
 Click **Like** under the news post excerpt on the homepage to show that you like that post. The number of people who have liked the page will show beside the Like icon  
 
 
-![](../../.gitbook/assets/5%20%2820%29.png)
+![](../../.gitbook/assets/5%20%2821%29.png)
 
