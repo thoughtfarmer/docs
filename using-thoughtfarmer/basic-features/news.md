@@ -33,13 +33,13 @@ To manage what groups you see News from on your homepage:
 
 
 
-![](../../.gitbook/assets/2%20%2823%29.png)
+![](../../.gitbook/assets/2%20%2824%29.png)
 
 2.Click on the Newspaper icon at the top right of the News Card. The **Manage News Feed** pop-up window will open.
 
 3.Uncheck the boxes for the groups whose News you do not want to see. Leave boxes checked for groups whose News you want to see.
 
-![](../../.gitbook/assets/4%20%2834%29.png)
+![](../../.gitbook/assets/4%20%2835%29.png)
 
 
 

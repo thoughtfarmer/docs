@@ -8,7 +8,7 @@ Use these instructions to add a Blog or News page to your intranet. They are eas
 
 By selecting the Blog/News content type you transform the way subpages appear. Instead of showing up only in the SuperNav on the left, or in a directory navigation on the page, subpages appear chronologically in the main column of the page.
 
-![](../../.gitbook/assets/1%20%2889%29.png)
+![](../../.gitbook/assets/1%20%2891%29.png)
 
 
 
@@ -18,11 +18,11 @@ On the left-hand side of blog and news pages you see a list of recent post title
 
 * **Blogs show whole posts**: For each post, the title and full post show on the blog section main page. This makes it easy to read a full post, but can result in a lot of scrolling.
 
-![](../../.gitbook/assets/2%20%2848%29.png)
+![](../../.gitbook/assets/2%20%2849%29.png)
 
 **•News shows excerpts of posts**: For each news item an image, the title, and an excerpt or summary of the post show on the News main page. This is more concise than a blog and the excerpts give the scent of the full post.
 
-![](../../.gitbook/assets/3%20%2848%29.png)
+![](../../.gitbook/assets/3%20%2850%29.png)
 
 
 

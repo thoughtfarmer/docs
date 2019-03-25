@@ -52,7 +52,7 @@ In order to complete this step you need to already have created the page with a 
 1. Navigate to the page you want multiple language versions of and click the **Edit button** \(pencil icon\) to go into edit mode.
 2. To the right of the language icon menu click **Translate** and select your initial and target languages from the list. The page will switch to that language version and the title and content will automatically fill in using that language. 
 
-![](../../.gitbook/assets/2%20%2838%29.jpg)
+![](../../.gitbook/assets/2%20%2840%29.jpg)
 
 
 

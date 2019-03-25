@@ -4,7 +4,7 @@
 
 News Carousels draw a lot of attention by rotating through a series of News posts, images and videos. You can select the number of posts that will appear in a carousel rotation. Viewers can hover over the carousel to pause the rotation, and can navigate from post to post using the arrows that appear on hover, or the circles below the carousel that represent each post. If a news post contains a video, users can view the video right from the carousel.
 
-![](../../../../.gitbook/assets/1%20%2879%29.jpg)
+![](../../../../.gitbook/assets/1%20%2883%29.jpg)
 
 
 
@@ -18,7 +18,7 @@ News Carousels draw a lot of attention by rotating through a series of News post
 6. Click **Done** in the **Card setup window**.
 7. Click **Save** on the top right.
 
-![](../../../../.gitbook/assets/2%20%2854%29.jpg)
+![](../../../../.gitbook/assets/2%20%2856%29.jpg)
 
 You can adjust the speed of the carousel rotation, and choose to rotate the carousel continuously using configuration settings. See [change carousel rotation options](../../../advanced-configuration/configuration-settings/change-carousel-rotation-options.md) to learn about these configuration settings.
 

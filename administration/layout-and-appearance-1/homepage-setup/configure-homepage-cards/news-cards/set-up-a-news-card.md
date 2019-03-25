@@ -45,7 +45,7 @@ b.If you selected **Merge Sources to show newest item on top**, next select from
 
 10.Click **Save** on the top right.
 
-![](../../../../../.gitbook/assets/2%20%2878%29.jpg)
+![](../../../../../.gitbook/assets/2%20%2880%29.jpg)
 
 
 
@@ -62,5 +62,5 @@ If you no longer want news items from a particular source to show in a News Card
 5. Click **Done** in the **Card setup window**.
 6. Click **Save** on the top right.
 
-![](../../../../../.gitbook/assets/3%20%2810%29.png)
+![](../../../../../.gitbook/assets/3%20%2811%29.png)
 

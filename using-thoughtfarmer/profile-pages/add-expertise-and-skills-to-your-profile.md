@@ -4,7 +4,7 @@
 
 Use these instructions to add information about your skills, qualities, qualifications and other useful information about you to your profile. Adding this information to your profile lets your coworkers know about what abilities you have, and it can help coworkers that haven't even met you to find you when they need your expertise.
 
-![](../../.gitbook/assets/1%20%2885%29.jpg)
+![](../../.gitbook/assets/1%20%2889%29.jpg)
 
 
 

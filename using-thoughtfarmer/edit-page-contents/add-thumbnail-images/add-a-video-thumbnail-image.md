@@ -6,7 +6,7 @@ If you don't add a thumbnail image, by default the frame five seconds into the v
   
 **Video thumbnail displaying in a News Carousel Card**
 
-![](../../../.gitbook/assets/1%20%28112%29.jpg)
+![](../../../.gitbook/assets/1%20%28116%29.jpg)
 
 
 
@@ -16,7 +16,7 @@ If you don't add a thumbnail image, by default the frame five seconds into the v
 
 2.Go into edit mode, and under the **Thumbnail** section on the right, click **Add image**. The **Choose Image** pop-up window will appear.
 
-![](../../../.gitbook/assets/2%20%2865%29.jpg)
+![](../../../.gitbook/assets/2%20%2867%29.jpg)
 
 
 
@@ -30,7 +30,7 @@ If you don't add a thumbnail image, by default the frame five seconds into the v
 4.If you did b. or c. in step 3, browse to the image you want, click once on the **photo file** and then click **Open** in your file browsing window.  
 
 
-![](../../../.gitbook/assets/3%20%2820%29.jpg)
+![](../../../.gitbook/assets/3%20%2821%29.jpg)
 
 
 

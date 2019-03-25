@@ -25,7 +25,7 @@ You can have certain actions result in your automatically following a page, such
 
 To view your new notifications, click on the **Alerts** menu in the Application Toolbar. Each notification tells you which page changed, what kind of change was made, when, and by whom. You can click on the notification to visit that page.
 
-![](../../../.gitbook/assets/2%20%2822%29.png)
+![](../../../.gitbook/assets/2%20%2823%29.png)
 
 
 
@@ -55,7 +55,7 @@ You can unfollow a file by performing the above steps on the individual file pag
 2.At the bottom of the Notifications tab, click **Following list**.  
 
 
-![](../../../.gitbook/assets/3%20%2841%29.png)
+![](../../../.gitbook/assets/3%20%2843%29.png)
 
 
 
@@ -68,7 +68,7 @@ b.Choose to sort the results by **Date followed** or page **Title**, **OR**
 c.Click on filters on the left to filter the results by page type, or by when you followed the page.  
 
 
-![](../../../.gitbook/assets/4%20%2833%29.png)
+![](../../../.gitbook/assets/4%20%2834%29.png)
 
 
 

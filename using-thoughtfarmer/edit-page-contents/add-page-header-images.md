@@ -11,7 +11,7 @@ If you don't want to add a photo in your page header, you can pick a gradient co
   
 **Expanded page header:**
 
-![](../../.gitbook/assets/2%20%2815%29.jpg)
+![](../../.gitbook/assets/2%20%2816%29.jpg)
 
 
 
@@ -27,7 +27,7 @@ The recommended image size for a page header image is 1200 x 700 pixels. When th
 
 1**.**In edit mode, click on the **edit icon** \(a pencil\) in the top right of the page header image \(which shows behind the title box\). The **Choose Image** pop-up window will appear.
 
-![](../../.gitbook/assets/3%20%2814%29.jpg)
+![](../../.gitbook/assets/3%20%2815%29.jpg)
 
 
 

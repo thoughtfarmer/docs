@@ -43,7 +43,7 @@ A new poll can be added at any time, and multiple active polls can exist on the 
 7. \(optional\) Click on **Security permissions** under **Security** on the right. Change the security permissions as desired. If you do not alter the security settings, the poll will have the same permissions as the parent Polls page.
 8. Click **Publish**.
 
-![](../../../.gitbook/assets/2%20%2868%29.png)
+![](../../../.gitbook/assets/2%20%2869%29.png)
 
 To learn more about setting up Poll Cards, see [Poll Cards](../../../using-thoughtfarmer/add-pages-and-sections/set-up-cards/poll-card.md).  
 

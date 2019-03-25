@@ -27,7 +27,7 @@ You can further customize your intranet by adding additional web fonts. See [add
 
 Colors can be specified by entering the HEX value for the desired color \(please see [HTML Colors](http://www.w3schools.com/Html/html_colors.asp) for more info\). You can also create your own custom colors by clicking on the currently chosen one associated with a particular field. This will bring up the color customizer.
 
-![](../../../../.gitbook/assets/1%20%2876%29.png)
+![](../../../../.gitbook/assets/1%20%2878%29.png)
 
 
 

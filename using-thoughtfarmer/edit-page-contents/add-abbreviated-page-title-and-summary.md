@@ -17,7 +17,7 @@ Use these instructions to create an alternate abbreviated title for a page. This
 
 1. **Example**: For a page titled "_How to insert links_" type in "_Insert links_" as the short title.
 
-![](../../.gitbook/assets/2%20%2837%29.png)
+![](../../.gitbook/assets/2%20%2838%29.png)
 
   
 
@@ -33,7 +33,7 @@ A page summary appears below the page title in search results and in some sectio
 1. Go into edit mode on the page you want to add a summary to.
 2. Click **Add a summary** under **Publishing options** on the right. The **Summary** pop-up window will appear.
 
-![](../../.gitbook/assets/3%20%2853%29.png)
+![](../../.gitbook/assets/3%20%2855%29.png)
 
 3.Type the summary in the **Summary** window.  
 

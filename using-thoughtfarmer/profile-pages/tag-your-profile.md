@@ -16,7 +16,7 @@ Adding & deleting tags on your profile page works just like it does on all other
 
 2.In the **Tags** section, click **Add tags** or click the Edit icon \(a pencil\).
 
-![](../../.gitbook/assets/2%20%2859%29.jpg)
+![](../../.gitbook/assets/2%20%2861%29.jpg)
 
 
 

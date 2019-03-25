@@ -29,7 +29,7 @@ Before modifying a template, choose a [Content type](content-types.md) and [Temp
   
 3.At the top left beside the selected template name, click **Modify template.** You will now see plus signs at the bottom of the template columns, indicating that you can add new cards.
 
-![](../../.gitbook/assets/2%20%2814%29.jpg)
+![](../../.gitbook/assets/2%20%2815%29.jpg)
 
 
 
@@ -39,11 +39,11 @@ Before modifying a template, choose a [Content type](content-types.md) and [Temp
 
 1. Hover over the plus sign in the column where you want to add a Card. Click on the **Add card** box that appears. Available Cards appear in a pop-out from the right.
 
-![](../../.gitbook/assets/1%20%28115%29.jpg)
+![](../../.gitbook/assets/1%20%28119%29.jpg)
 
 2.Scroll through the listed Cards or use the search box at the top to narrow down the list and find the Card you want to add. When you find the Card you want, click on it to add it. A placeholder for the Card will appear at the bottom of the column where you have added it.
 
-![](../../.gitbook/assets/2%20%2846%29.png)
+![](../../.gitbook/assets/2%20%2847%29.png)
 
 
 
@@ -63,7 +63,7 @@ Certain Cards cannot be deleted from templates, such as the Left Navigation Card
 
 4.Locate the Card you want to delete, and click the **trashcan icon** on the right of the Card.
 
-![](../../.gitbook/assets/3%20%2855%29.jpg)
+![](../../.gitbook/assets/3%20%2857%29.jpg)
 
 
 

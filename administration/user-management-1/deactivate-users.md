@@ -35,7 +35,7 @@ If AD automatic user creation is enabled then users can be deactivated automatic
 3. Click the **Synchronization Settings** tab.
 4. Select the **Bulk deactivate users** checkbox in the **On-demand Synchronization** section. 
 
-![](../../.gitbook/assets/2%20%2820%29.jpg)
+![](../../.gitbook/assets/2%20%2821%29.jpg)
 
 5.Click **Synchronize now**.
 

@@ -15,7 +15,7 @@ If your intranet is connected to SharePoint Online, see [Search cloud drives](..
 
 ![](../../.gitbook/assets/1%20%287%29.png)
 
-![](../../.gitbook/assets/2%20%2861%29.png)
+![](../../.gitbook/assets/2%20%2862%29.png)
 
 
 
@@ -29,7 +29,7 @@ To switch back to viewing intranet search results, click on SharePoint above the
 
 1.Click Search in the Application Toolbar at the top of the page.
 
-![](../../.gitbook/assets/3%20%2830%29.jpg)
+![](../../.gitbook/assets/3%20%2832%29.jpg)
 
 2.In the Search dropdown, click on **All** on the top left, and in the menu that opens, click on **SharePoint**. 
 

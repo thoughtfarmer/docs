@@ -40,7 +40,7 @@ This guide will cover both methods.
 
 5.If you are creating a new template, locate the category that applies to the new template and click Add New to open the Template Editor.
 
-![](../../../.gitbook/assets/2%20%2855%29.png)
+![](../../../.gitbook/assets/2%20%2856%29.png)
 
 6.The Template Editor has three major sections: Page layout options; template name and language, and template content.
 
@@ -54,7 +54,7 @@ This guide will cover both methods.
 
 1. Page layout - select how many columns you want for your new template \(typically you’ll have a selection of two or three columns to choose from\).
 
-![](../../../.gitbook/assets/4%20%2823%29.png)
+![](../../../.gitbook/assets/4%20%2824%29.png)
 
 2.Enter the name of your new template in the content box, and select the template language from the drop down \(it is defaulted to English\).
 

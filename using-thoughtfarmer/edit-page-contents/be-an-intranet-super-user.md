@@ -13,14 +13,14 @@ To open the nifty search dropdown at the top of the page, simply type CTRL+/. Se
 When you're in Preview mode, whether you are previewing images or files, use your left and right arrow keys to navigate through a bunch of photos and files.  
 
 
-![](../../.gitbook/assets/2%20%2816%29.jpg)
+![](../../.gitbook/assets/2%20%2817%29.jpg)
 
 **Click outside a pop-up window to close it**
 
 Most pop-up windows have buttons at the bottom right that allow you to close the window. If you haven't made changes in the window however, you can often close it just by clicking outside of the window.  
 
 
-![](../../.gitbook/assets/3%20%2816%29.jpg)
+![](../../.gitbook/assets/3%20%2817%29.jpg)
 
 
 

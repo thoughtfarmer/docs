@@ -43,7 +43,7 @@ You can also perform a Section Search using the search dropdown at the top of th
 
 3.Click on **All** above the **Search** box, and select **Section** from the menu that opens.
 
-![](../../.gitbook/assets/2%20%2824%29.png)
+![](../../.gitbook/assets/2%20%2825%29.png)
 
 
 

@@ -26,11 +26,11 @@ When you duplicate a file, the file content, file summary, tags, settings, and m
 
 5.Edit the **file page title**. \(The duplicate will have the title **DUPLICATE OF \(title of file you duplicated\)**.
 
-![](../../.gitbook/assets/3%20%287%29.jpg)
+![](../../.gitbook/assets/3%20%288%29.jpg)
 
 6.Edit the **file name** as desired. \(The file name is used when you download the file or have it open for editing on your computer. You may wish to change the file name so as not to get it confused with the original.\)
 
-![](../../.gitbook/assets/4%20%2844%29.jpg)
+![](../../.gitbook/assets/4%20%2845%29.jpg)
 
 
 

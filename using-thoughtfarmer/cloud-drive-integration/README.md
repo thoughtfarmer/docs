@@ -6,7 +6,7 @@ Cloud drive integration allows users to access files and folders stored in cloud
   
 **Files in a cloud drive**
 
-![](../../.gitbook/assets/1%20%2887%29.png)
+![](../../.gitbook/assets/1%20%2889%29.png)
 
 **Cloud drive files linked and embedded on the intranet**
 
@@ -17,7 +17,7 @@ Cloud drive integration allows users to access files and folders stored in cloud
 Users have to be logged in to the appropriate cloud drive account in order to access cloud drive files and folders. If you aren't logged in when you go to access a cloud drive integration feature, a message will let you know you're not logged in, and will prompt you to log in.  
 
 
-![](../../.gitbook/assets/3%20%2838%29.png)
+![](../../.gitbook/assets/3%20%2840%29.png)
 
 
 

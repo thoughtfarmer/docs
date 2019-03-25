@@ -6,11 +6,11 @@ Use these instructions to add a customized introductory paragraph for a news sto
   
 **News: List view**
 
-![](../../.gitbook/assets/1%20%2899%29.jpg)
+![](../../.gitbook/assets/1%20%28103%29.jpg)
 
 **News: Grid view**
 
-![](../../.gitbook/assets/2%20%2843%29.jpg)
+![](../../.gitbook/assets/2%20%2845%29.jpg)
 
 
 
@@ -20,7 +20,7 @@ When you add a new **News item** \(post\) to a News page, the intranet automatic
 
 1.Navigate to the specific news post and click the **Edit button** \(pencil icon\) to go into edit mode.
 
-![](../../.gitbook/assets/3%20%281%29.jpg)
+![](../../.gitbook/assets/3%20%282%29.jpg)
 
 2.Click **Add summary** under **Publishing options** on the right. The **Summary** pop-up window will appear.
 

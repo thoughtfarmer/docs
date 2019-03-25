@@ -38,7 +38,7 @@ Closed group membership can also be used to create a TF security group, but only
   
 To create a security group using Closed membership, start by following the steps above. For Step 3, select the **Closed** radio button, then add one or more AD groups from the dropdown menu to sync with the membership. Skip Step 4 and continue with Step 5.
 
-![](../../.gitbook/assets/2%20%2827%29.jpg)
+![](../../.gitbook/assets/2%20%2828%29.jpg)
 
 
 

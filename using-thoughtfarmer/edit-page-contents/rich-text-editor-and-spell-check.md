@@ -25,7 +25,7 @@ You can switch the Rich Text Editor to full screen mode by clicking the **Maximi
 
 ### Spell check
 
-![](../../.gitbook/assets/3%20%2828%29.png)
+![](../../.gitbook/assets/3%20%2830%29.png)
 
 There are two ways to check your spelling in the Rich Text Editor, depending on the settings your intranet administrator has chosen. How you spell check depends on whether you see the spell check icon or not.  
   

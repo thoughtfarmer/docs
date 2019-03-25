@@ -22,7 +22,7 @@ External users' login credentials are determined by a third-party application, n
 
 4.Enter a new password in the **Reset Password** text field.
 
-![](../../.gitbook/assets/2%20%2851%29.png)
+![](../../.gitbook/assets/2%20%2852%29.png)
 
 5.Click **Save.**
 

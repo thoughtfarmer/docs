@@ -13,7 +13,7 @@ Shout-outs are a great way of empowering employees to recognize one another for 
 When you send a Shout-out, you can choose to either send it to Everyone, or to one of the groups that you belong to, depending on the settings your intranet administrator has chosen.  
 
 
-![](../../.gitbook/assets/2%20%2857%29.jpg)
+![](../../.gitbook/assets/2%20%2859%29.jpg)
 
 
 
@@ -27,7 +27,7 @@ If you choose to send a Shout-out **to a specific group** that you belong to, th
 
 2.Select the **Shout-outs** tab in the Activity card.
 
-![](../../.gitbook/assets/3%20%289%29.jpg)
+![](../../.gitbook/assets/3%20%2810%29.jpg)
 
 ### 
 

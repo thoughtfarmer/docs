@@ -12,7 +12,7 @@ As a default, all draft forms are initially set up with one section but you can 
 
 3.If you so desire, you can name each section. These names are for your reference only and will not be viewable on the completed form. Naming a section also makes it easier when you are setting up any associate form logic.
 
-![](../../../.gitbook/assets/2%20%2825%29.png)
+![](../../../.gitbook/assets/2%20%2826%29.png)
 
 
 
@@ -21,7 +21,7 @@ As a default, all draft forms are initially set up with one section but you can 
 5.Form elements can be added to any section you have built. They can also be re-ordered into different sections by using the navigation arrows within the field.  
 
 
-![](../../../.gitbook/assets/3%20%2826%29.png)
+![](../../../.gitbook/assets/3%20%2828%29.png)
 
 6.In each Section header, there is a set of ellipses. Click on these ellipses to open the Section menu.
 

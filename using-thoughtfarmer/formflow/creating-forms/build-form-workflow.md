@@ -10,7 +10,7 @@ As a user, it can be challenging when you submit a form and you don’t get any 
 
 2.There must be at least one status for the form, the Initial status. By default this status is set to Submitted, but you can change this by replacing the text with whatever you want.
 
-![](../../../.gitbook/assets/2%20%2847%29.png)
+![](../../../.gitbook/assets/2%20%2848%29.png)
 
 
 
@@ -18,7 +18,7 @@ As a user, it can be challenging when you submit a form and you don’t get any 
 
 4.To add In Progress updates, click on the + **Add** button.
 
-![](../../../.gitbook/assets/4%20%2839%29.png)
+![](../../../.gitbook/assets/4%20%2840%29.png)
 
 5.Add whatever text you want the user to see in the content box. You can add as many In Progress status updates as you need, you are not limited to just one. For example, you could create In Progress updates for when the form is Received, Under review, and Sent for management approval.
 

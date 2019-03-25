@@ -16,11 +16,11 @@ To view a form’s activity:
 
 3.Click on the **View Activity** button.
 
-![](../../../.gitbook/assets/2%20%2886%29.png)
+![](../../../.gitbook/assets/2%20%2887%29.png)
 
 4.Activity is organized by day and shows the actions performed on the site in reverse chronological order \(that is, most recent first\). For each action, you will see who performed the action and when they performed it.
 
-![](../../../.gitbook/assets/3%20%2849%29.png)
+![](../../../.gitbook/assets/3%20%2851%29.png)
 
 Here’s a list of all the activities your form will keep track of:
 

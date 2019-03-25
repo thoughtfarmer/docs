@@ -17,7 +17,7 @@ The relationships displayed in the Organization Chart are based on managers and 
   
 
 
-![](../../.gitbook/assets/1%20%2881%29.jpg)
+![](../../.gitbook/assets/1%20%2885%29.jpg)
 
 
 
@@ -29,5 +29,5 @@ If you choose to **Save** changes, your name will override the current manager o
 
 While editing your profile, click the X beside the name of a direct report to remove them. Follow the steps above to add new direct reports.
 
-![](../../.gitbook/assets/1%20%2888%29.jpg)
+![](../../.gitbook/assets/1%20%2892%29.jpg)
 

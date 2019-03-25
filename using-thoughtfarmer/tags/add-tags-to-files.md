@@ -21,7 +21,7 @@ You can add tags to files that you have edit permission on to help other people 
 
 4.Click once on a tag from the matching list to select it; or type your new tag and click on **create new tag** in the list. Alternatively, select from the **Recommended tags** displayed by clicking on the tag you want. The tag will appear on the list in the pop-up window.
 
-![](../../.gitbook/assets/3%20%282%29.jpg)
+![](../../.gitbook/assets/3%20%283%29.jpg)
 
 
 

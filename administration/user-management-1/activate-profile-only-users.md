@@ -16,7 +16,7 @@ Users must have an email address specified on their account before you can activ
 
 2.Use the filter, sort, and query tools to find the user or set of users you wish to activate \(see [Find Users](find-users.md) for more info\).
 
-![](../../.gitbook/assets/1%20%2884%29.png)
+![](../../.gitbook/assets/1%20%2886%29.png)
 
 
 
@@ -36,7 +36,7 @@ Users must have an email address specified on their account before you can activ
 
 4.In the **Password** section select **Temporary password**.
 
-![](../../.gitbook/assets/2%20%2833%29.png)
+![](../../.gitbook/assets/2%20%2834%29.png)
 
 5.Fill in a temporary password for the user.
 

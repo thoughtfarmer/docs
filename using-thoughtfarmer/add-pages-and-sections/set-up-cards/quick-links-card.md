@@ -5,7 +5,7 @@
 Add useful links for your team to your group page, or add links to material that is closely related to a page's content. You can link to intranet pages, external webpages \(perhaps often used applications\) and email addresses.  
 
 
-![](../../../.gitbook/assets/1%20%2874%29.jpg)
+![](../../../.gitbook/assets/1%20%2876%29.jpg)
 
 
 
@@ -13,11 +13,11 @@ Add useful links for your team to your group page, or add links to material that
 
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** pop-up window will open.
 
-![](../../../.gitbook/assets/2%20%2830%29.jpg)
+![](../../../.gitbook/assets/2%20%2832%29.jpg)
 
 3.In the **Update cards** window, find the **Quick links** Card section and click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../../.gitbook/assets/3%20%2849%29.jpg)
+![](../../../.gitbook/assets/3%20%2851%29.jpg)
 
 **4.\(optional\)** If you wish to edit the heading that appears on the **Quick links Card**, click the **edit icon** \(a pencil\) beside Quick links. Type a new heading in the text box that appears and click **Save** on the right.
 
@@ -45,7 +45,7 @@ Add useful links for your team to your group page, or add links to material that
 2. Type the **URL** of the website you want to link to,
 3. Type the **email address** you want to link to.
 
-![](../../../.gitbook/assets/3%20%288%29.jpg)
+![](../../../.gitbook/assets/3%20%289%29.jpg)
 
 
 

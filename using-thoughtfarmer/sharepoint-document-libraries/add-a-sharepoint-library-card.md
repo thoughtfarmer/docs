@@ -19,11 +19,11 @@ If your intranet administrator has connected the intranet to SharePoint sites yo
 
 3.In the **Card setup window**, find the **SharePoint Card** section and click **Set up** below it \(or **add a SharePoint Card** by clicking **Modify template**, clicking the **plus sign** where you want the card, and then picking SharePoint from the cards menu on the right. Then click **Set up** on the Card\).
 
-![](../../.gitbook/assets/2%20%2829%29.jpg)
+![](../../.gitbook/assets/2%20%2831%29.jpg)
 
 4.elect a **SharePoint site** from the **Site** dropdown list.
 
-![](../../.gitbook/assets/3%20%2827%29.jpg)
+![](../../.gitbook/assets/3%20%2829%29.jpg)
 
 
 

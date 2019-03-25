@@ -16,7 +16,7 @@ Use these instructions to browse through all the content on your ThoughtFarmer i
 
 3.Use Filters on the left to filter the search results:
 
-![](../../.gitbook/assets/2%20%2850%29.png)
+![](../../.gitbook/assets/2%20%2851%29.png)
 
 
 

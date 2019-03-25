@@ -15,21 +15,21 @@ Each time a page is edited and saved, the intranet creates a new version of the 
 1. Click the down arrow on the right of the page header to open the Page Controls.
 2. Under **Last updated**, click **Version history**. This opens the **Version History** pop-up window, displaying the changes made to create the most recent version. \(If there is only one version of the page, **Version history** will not display.\)
 
-![](../../.gitbook/assets/1%20%2886%29.jpg)
+![](../../.gitbook/assets/1%20%2890%29.jpg)
 
 3.New text in this version is shown highlighted in yellow. Removed text is highlighted in purple. If you want to see the version without the new and removed text highlighted, uncheck the **Show changes** checkbox at the top left.   
 
 
-![](../../.gitbook/assets/2%20%2853%29.png)
+![](../../.gitbook/assets/2%20%2854%29.png)
 
 4.On the right side of the page, version numbers are listed along with the date and time they were made and the name of the user who made the edits. Click on any version to view it.
 
-![](../../.gitbook/assets/3%20%2842%29.png)
+![](../../.gitbook/assets/3%20%2844%29.png)
 
 5.If you want to revert a page back to a previous version, make sure you are viewing the version you want to revert to, and click **Restore** under the page version on the right. The page will reload as the version you have restored.  
 
 
-![](../../.gitbook/assets/4%20%2841%29.png)
+![](../../.gitbook/assets/4%20%2842%29.png)
 
 
 

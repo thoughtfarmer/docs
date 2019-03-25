@@ -9,11 +9,11 @@ A Mini Calendar Card gives people an easy way of referencing past, present and f
 1. In homepage edit page, click **Set up cards** under **Content type & template** on the right.
 2. Find the **Mini Calendar Card** and click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../../../.gitbook/assets/1%20%2869%29.png)
+![](../../../../.gitbook/assets/1%20%2870%29.png)
 
 3.In the **Mini Calendar** pop-up window, start typing the name of the calendar you want to add in the **Add calendar** box.
 
-![](../../../../.gitbook/assets/2%20%2874%29.png)
+![](../../../../.gitbook/assets/2%20%2875%29.png)
 
 
 
@@ -28,7 +28,7 @@ A Mini Calendar Card gives people an easy way of referencing past, present and f
   
 The size and layout of your Mini Calendar Card will depend on the layout of your page and the size of the device it is viewed on.
 
-![](../../../../.gitbook/assets/3%20%2829%29.png)
+![](../../../../.gitbook/assets/3%20%2831%29.png)
 
 
 

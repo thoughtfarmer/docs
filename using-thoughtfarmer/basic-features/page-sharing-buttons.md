@@ -6,7 +6,7 @@ The Page Sharing Buttons contain multiple ways to share information and tell oth
   
 
 
-![](../../.gitbook/assets/3%20%2841%29.jpg)
+![](../../.gitbook/assets/3%20%2843%29.jpg)
 
 ### Like
 

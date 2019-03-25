@@ -29,7 +29,7 @@ You can also activate a single user from the **User management** page by clickin
   
 Uncheck the checkbox "Account is inactive" and click **Save**. The **Edit user account** link is also available to administrators in "Admin mode" when editing a user's profile.
 
-![](../../.gitbook/assets/2%20%2829%29.png)
+![](../../.gitbook/assets/2%20%2830%29.png)
 
 For AD users; if Automatic User Creation is enabled, then the user's AD account must be active and a member of the synced-to AD group configured on the Employee Directory Connector page. Otherwise, the account will be deactivated if the sync task Bulk inactivate users is run.
 
@@ -37,7 +37,7 @@ For AD users; if Automatic User Creation is enabled, then the user's AD account 
 
 If AD automatic user creation is enabled then users can be activated automatically using daily AD synchronization tasks. This will activate existing inactive ThoughtFarmer accounts that are active in AD and a member of the synced-to AD group configured on the Employee Directory Connector page. To learn more, see [Active Directory synchronization tasks](../activity-directory-integration/active-directory-synchronization-tasks.md).
 
-![](../../.gitbook/assets/3%20%2813%29.jpg)
+![](../../.gitbook/assets/3%20%2814%29.jpg)
 
 
 

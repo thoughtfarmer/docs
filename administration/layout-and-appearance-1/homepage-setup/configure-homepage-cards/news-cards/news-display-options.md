@@ -21,7 +21,7 @@ To get to the News Card setup window:
 
 ![](../../../../../.gitbook/assets/1%20%2818%29.jpg)
 
-![](../../../../../.gitbook/assets/2%20%2848%29.jpg)
+![](../../../../../.gitbook/assets/2%20%2850%29.jpg)
 
 **Change the News Card title:**
 
@@ -51,7 +51,7 @@ Three layouts are available for the News Card. The News Carousel Card provides a
 In Grid View, News items display in a Grid of cards, with each News post on its own card. The News post image displays in the top portion of the card with the News post title in it. The lower portion of the card contains the News item excerpt or summary, posted date and author. Buttons to Like and Comment are at the bottom of the post.  
 
 
-![](../../../../../.gitbook/assets/3%20%2854%29.png)
+![](../../../../../.gitbook/assets/3%20%2856%29.png)
 
 See change grid layout title length and [change grid layout summary ](../../../../advanced-configuration/configuration-settings/change-grid-layout-summary-length.md)length to learn about configuration settings that affect the amount of text that shows in the grid news layout.
 
@@ -60,7 +60,7 @@ See change grid layout title length and [change grid layout summary ](../../../.
 In List View, News items display in a vertical list. On larger screens, images display on the left of News post titles and their excerpts/summaries. On smaller screens, images display above News post titles and excerpts/summaries. News post date and author show below the post, along with options to Like and Comment on the post.  
 
 
-![](../../../../../.gitbook/assets/4%20%2832%29.png)
+![](../../../../../.gitbook/assets/4%20%2833%29.png)
 
 ### News: List View—No Images
 

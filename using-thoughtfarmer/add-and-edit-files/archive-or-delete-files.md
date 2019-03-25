@@ -39,7 +39,7 @@ The dropdown menu **Bulk actions** appears above the list of files, and becomes 
 2. Click **Bulk actions** at the top of the list of files/folders. This opens a dropdown menu.
 3. Select the action that you want to apply to the selected files/folders. Follow the prompts to complete the desired action.
 
-![](../../.gitbook/assets/3%20%2821%29.png)
+![](../../.gitbook/assets/3%20%2823%29.png)
 
 ### Hot intranet tip!
 

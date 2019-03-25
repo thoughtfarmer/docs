@@ -28,11 +28,11 @@ After following the four steps above, all content for the current owner will dis
 
 2.To change ownership of the user's pages to multiple owners, follow the steps below for one new owner at a time, then repeat for the other new owners. First, uncheck the box at the top left.
 
-![](../../.gitbook/assets/2%20%2855%29.jpg)
+![](../../.gitbook/assets/2%20%2857%29.jpg)
 
 3.Navigate through the directory of pages by clicking on the rotating triangles on the left. Select only the pages or sections of pages whose ownership you wish to change. Hover over sections to see a pop-up telling you how many subpages the user owns in that section. The list on the right will automatically refresh showing only the pages that are selected.
 
-![](../../.gitbook/assets/3%20%2826%29.jpg)
+![](../../.gitbook/assets/3%20%2828%29.jpg)
 
 1. When you have selected the desired pages, start typing the name of the new owner in the **New owner**box at the bottom.
 2. Click once on the new owner from the list that drops down.

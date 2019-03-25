@@ -277,6 +277,8 @@
     * [Active Directory field mappings](administration/activity-directory-integration/active-directory-field-mappings/README.md)
       * [Make profile fields non-editable](administration/activity-directory-integration/active-directory-field-mappings/make-profile-fields-non-editable.md)
     * [Active Directory Synchronization tasks](administration/activity-directory-integration/active-directory-synchronization-tasks.md)
+    * [Group page synchronization](administration/activity-directory-integration/group-page-synchronization.md)
+    * [Group sync status](administration/activity-directory-integration/untitled.md)
   * [Finding people and Content](administration/finding-people-and-content/README.md)
     * [Learn more about ThoughtFarmer search+](administration/finding-people-and-content/untitled-11.md)
     * [Search setting](administration/finding-people-and-content/untitled-10.md)

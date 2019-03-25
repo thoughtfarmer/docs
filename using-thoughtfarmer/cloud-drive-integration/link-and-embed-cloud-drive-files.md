@@ -16,12 +16,12 @@ For administrator instructions on enabling cloud drive integration, see [Google 
 
 1. Click **Cloud drive**.
 
-![](../../.gitbook/assets/2%20%2835%29.png)
+![](../../.gitbook/assets/2%20%2836%29.png)
 
 2.Select the **desired cloud drive** from the dropdown menu that opens. eg. Google Drive, OneDrive, SharePoint Online. The **Add files and folders** window will appear.  
 
 
-![](../../.gitbook/assets/3%20%2851%29.png)
+![](../../.gitbook/assets/3%20%2853%29.png)
 
 
 
@@ -38,7 +38,7 @@ For administrator instructions on enabling cloud drive integration, see [Google 
 
 Once a cloud drive has already been added, more files and folders can be added simply by clicking **Add** beside the Cloud Drive name. The **Add files and folders** window will appear and the instructions above \(How to create a cloud drive document library\) can be followed from Step 3 on.
 
-![](../../.gitbook/assets/4%20%2818%29.png)
+![](../../.gitbook/assets/4%20%2819%29.png)
 
 ### Unshared files
 

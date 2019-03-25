@@ -42,17 +42,17 @@ To add a Translate Card:
 
 2.Click **Set up cards** on the right.
 
-![](../../.gitbook/assets/1%20%28109%29.jpg)
+![](../../.gitbook/assets/1%20%28113%29.jpg)
 
 3.In the Card setup window, click **Modify template**.
 
-![](../../.gitbook/assets/2%20%2872%29.jpg)
+![](../../.gitbook/assets/2%20%2874%29.jpg)
 
 4.Click the **plus sign** in the column you want to add the Translate Card to.
 
 5.Click on the **Translate Card** in the menu that appears on the right.
 
-![](../../.gitbook/assets/3%20%2862%29.jpg)
+![](../../.gitbook/assets/3%20%2864%29.jpg)
 
 
 

@@ -12,11 +12,11 @@ A Photo collection Card adds visual interest to your page by engaging viewers wi
 
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** window will open.
 
-![](../../../.gitbook/assets/2%20%2864%29.png)
+![](../../../.gitbook/assets/2%20%2865%29.png)
 
 3.In the **Update cards** window, find the **Photo collection** **Card** section and click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../../.gitbook/assets/3%20%2831%29.png)
+![](../../../.gitbook/assets/3%20%2833%29.png)
 
 4.In the **Photo collection** pop-up window, start typing the name of the photo gallery you want to add in the **Find a photo gallery** box.
 

@@ -39,12 +39,12 @@ To reorder pages you must be on the page above the set of pages you want to reor
 
 2.Click the down arrow on the right of the page header to open the Page Controls.
 
-![](../../.gitbook/assets/2%20%2845%29.jpg)
+![](../../.gitbook/assets/2%20%2847%29.jpg)
 
 3.Click **Move**. This brings up the **Move** pop-up window.  
 
 
-![](../../.gitbook/assets/3%20%2839%29.jpg)
+![](../../.gitbook/assets/3%20%2841%29.jpg)
 
 
 

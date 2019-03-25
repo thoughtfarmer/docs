@@ -8,7 +8,7 @@ The actual file name shows when you download a file, have a file open for editin
   
 Add a file summary to help other people quickly comprehend the contents of a file when they find it. File summaries show up in search results, in some navigation sections, and on the file page. They can be accessed by going into file preview, or visiting the individual file page.
 
-![](../../.gitbook/assets/1%20%2898%29.jpg)
+![](../../.gitbook/assets/1%20%28102%29.jpg)
 
 
 
@@ -33,7 +33,7 @@ Add a file summary to help other people quickly comprehend the contents of a fil
 
 5.**Actual file name**: In the **File Name** box change the actual file title. Make sure to include the file extension.
 
-![](../../.gitbook/assets/2%20%2876%29.jpg)
+![](../../.gitbook/assets/2%20%2878%29.jpg)
 
 
 

@@ -28,7 +28,7 @@ See the explanation of Open and Managed membership on [How to create group pages
 
 ![](../../../.gitbook/assets/1%20%2847%29.jpg)
 
-![](../../../.gitbook/assets/2%20%2819%29.png)
+![](../../../.gitbook/assets/2%20%2820%29.png)
 
 
 
@@ -51,7 +51,7 @@ See the explanation of Open and Managed membership on [How to create group pages
 3. Scroll through the list of group members to find the person you want to remove. \(Names are in alphabetical order by first name.\)
 4. Click the X to the right of the person's name to remove them.
 
-![](../../../.gitbook/assets/3%20%2852%29.png)
+![](../../../.gitbook/assets/3%20%2854%29.png)
 
 
 

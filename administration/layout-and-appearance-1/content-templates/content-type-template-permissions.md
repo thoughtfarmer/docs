@@ -29,7 +29,7 @@ To control who has permission to customize templates for individual pages:
 Administrators can view which pages have had their templates modified. To do this, go to the page **Administration panel: User interface** section &gt; **Content type templates** page, and click on **In use** below a template to see a list of pages that use that template.  
 
 
-![](../../../.gitbook/assets/3%20%2817%29.jpg)
+![](../../../.gitbook/assets/3%20%2818%29.jpg)
 
 There are two tabs at the top of the list - Default and Modified. The Default tab shows pages that use the template as is. The Modified tab shows pages that have had the template modified on the individual page level.
 

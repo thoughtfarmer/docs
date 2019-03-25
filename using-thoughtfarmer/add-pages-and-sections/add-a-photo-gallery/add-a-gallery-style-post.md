@@ -5,7 +5,7 @@
 You may want to have a Blog or News post that showcases images the same way that a Gallery page type does. Your intranet administrator may have created a Post template that includes a Photo gallery details card. If that is the case, select the appropriate template when creating the post, and you are good to go. If not, follow the steps below to create a gallery-style post. You need to have permission to modify individual templates to follow these instructions.  
 
 
-![](../../../.gitbook/assets/1%20%2892%29.png)
+![](../../../.gitbook/assets/1%20%2894%29.png)
 
 
 

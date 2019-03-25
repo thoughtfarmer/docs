@@ -17,7 +17,7 @@ Need to collaborate with coworkers on a project in ThoughtFarmer and then send t
 3.Click on **Export to Word** or **Export to PDF** in the menu that opens.  
 
 
-![](../../.gitbook/assets/2%20%2842%29.png)
+![](../../.gitbook/assets/2%20%2843%29.png)
 
 
 

@@ -22,11 +22,11 @@ If you encounter problems in following the steps below, please contact your intr
 
 3.Read the **Desktop Connector Tips!** pop-up window.
 
-![](../../.gitbook/assets/2%20%2871%29.jpg)
+![](../../.gitbook/assets/2%20%2873%29.jpg)
 
 4.Click **Install now** under the **Having trouble connecting?** heading. It may take a few moments for the Desktop Connector to download.
 
-![](../../.gitbook/assets/3%20%2850%29.jpg)
+![](../../.gitbook/assets/3%20%2852%29.jpg)
 
 
 

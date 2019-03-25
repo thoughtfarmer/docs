@@ -16,7 +16,7 @@ Intranet administrators have several options for the navigation links that they 
 
 **Main Navigation Bar**
 
-![](../../../.gitbook/assets/asd.jpg)
+![](../../../.gitbook/assets/asd%20%281%29.jpg)
 
 **SuperNav**
 

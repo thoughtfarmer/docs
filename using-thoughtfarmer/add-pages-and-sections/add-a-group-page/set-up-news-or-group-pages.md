@@ -101,7 +101,7 @@ Once you've added News to the group page you can create new posts directly from 
 2.Click the **Add post** button beside **Recent News** in the News Card.  
 
 
-![](../../../.gitbook/assets/3%20%2835%29.png)
+![](../../../.gitbook/assets/3%20%2837%29.png)
 
 
 
