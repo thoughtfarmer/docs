@@ -16,7 +16,7 @@ You can quickly insert a table and select the number of rows and columns \(up to
 
 2.Set the cursor where you want to insert the table, click the **Insert Table** button ![6.5User7958InsertTable.png](https://community.thoughtfarmer.com/imagethumb/2514070000/15907/1000x1000/False/6.5User7958InsertTable.png) and then in the grid that pops up select the number of columns and rows to start with. Your simple table will appear on the page. \(The **Insert Table** button looks like a tiny table or grid, with a green plus sign on it.\)
 
-![](../../.gitbook/assets/4%20%2823%29.png)
+![](../../.gitbook/assets/4%20%2824%29.png)
 
 
 
@@ -28,7 +28,7 @@ You can quickly insert a table and select the number of rows and columns \(up to
 
 When you first insert a table, the cells are sized so that the table fills the entire width of the rich text editor window. When you start typing in the table, the column widths will adjust based on the amount of text entered into each cell. You can adjust the column width manually by hovering over the right edge of a cell in the column you want to adjust. When your cursor turns into a double arrow \(adjust width symbol\), click and drag the cell edge to adjust the width.
 
-![](../../.gitbook/assets/5%20%2822%29.jpg)
+![](../../.gitbook/assets/5%20%2824%29.jpg)
 
 
 

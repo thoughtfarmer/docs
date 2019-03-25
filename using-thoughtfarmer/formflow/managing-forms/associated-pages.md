@@ -8,7 +8,7 @@ When an existing form is added to a form page or form card, the form or any data
 
 2.You’ll see that an extra option has been added called Associated Pages.
 
-![](../../../.gitbook/assets/1%20%2860%29.png)
+![](../../../.gitbook/assets/1%20%2864%29.png)
 
 3.Under the Associated Pages heading you’ll see a number, which represents how many pages the form is on. Click on the number to bring up a list of pages that show the form.
 

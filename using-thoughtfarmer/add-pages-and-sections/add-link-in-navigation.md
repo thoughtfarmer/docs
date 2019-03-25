@@ -14,7 +14,7 @@ When you add a link using these instructions the link shows up in the navigation
 
 2.Click on the **Content type** dropdown on the right and select the **Link** content type. \(The Template Link will automatically be selected.\)
 
-![](../../.gitbook/assets/1%20%2810%29.png)
+![](../../.gitbook/assets/1%20%2811%29.png)
 
 
 
@@ -49,7 +49,7 @@ ii.**Change link address**: Click **Edit link** under the current link path or a
 
 iii.**To delete link**: Click **Delete link** underneath the **Save** button. Then click **Delete** in the pop-up window to confirm the deletion.
 
-![](../../.gitbook/assets/4%20%2812%29.png)
+![](../../.gitbook/assets/4%20%2813%29.png)
 
 
 
@@ -93,7 +93,7 @@ To **add** an archive date:
 
 1.In Edit mode on the link, click **Set archive date** in the **Publishing options** section on the right.
 
-![](../../.gitbook/assets/6%20%2812%29.jpg)
+![](../../.gitbook/assets/6%20%2813%29.jpg)
 
 
 

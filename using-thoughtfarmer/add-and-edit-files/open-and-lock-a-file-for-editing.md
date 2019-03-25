@@ -16,17 +16,17 @@ If you encounter problems in following the steps below, please contact your intr
 
 1.Navigate to the file that you want to open, and click on the **file title** to open the **File Editing Menu**.
 
-![](../../.gitbook/assets/1%20%2843%29.jpg)
+![](../../.gitbook/assets/1%20%2847%29.jpg)
 
 2.Click **Open for editing** in the menu that opens.
 
 3.Read the **Desktop Connector Tips!** pop-up window.
 
-![](../../.gitbook/assets/2%20%2858%29.jpg)
+![](../../.gitbook/assets/2%20%2865%29.jpg)
 
 4.Click **Install now** under the **Having trouble connecting?** heading. It may take a few moments for the Desktop Connector to download.
 
-![](../../.gitbook/assets/3%20%2842%29.jpg)
+![](../../.gitbook/assets/3%20%2846%29.jpg)
 
 
 
@@ -48,11 +48,11 @@ Once the Desktop Connector is installed on your computer, there are two ways to 
 
 1.Navigate to the **Document Library** where the file is, click on the **file title** to open the **File Editing Menu**. Click **Open for editing** in the menu that opens. **OR**
 
-![](../../.gitbook/assets/4.jpg)
+![](../../.gitbook/assets/4%20%281%29.jpg)
 
 2.Navigate to the **individual file page** and click the button **Open for editing** below the file title.
 
-![](../../.gitbook/assets/5%20%2816%29.jpg)
+![](../../.gitbook/assets/5%20%2817%29.jpg)
 
 
 
@@ -78,7 +78,7 @@ The final step in checking a file back in is to click **Done editing**, but firs
 
 3.Click on the **Locked files** menu in the Application Toolbar at the top of the page, and select **Done editing** beside the file name. **OR**
 
-![](../../.gitbook/assets/6%20%285%29.jpg)
+![](../../.gitbook/assets/6%20%286%29.jpg)
 
 4.Go to the Document Library where the file sits, click on the **file title** to open the **File Editing Menu**, and click **Done editing** in the menu that opens. **OR**
 

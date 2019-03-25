@@ -12,7 +12,7 @@ Use these instructions to add a simple page to your ThoughtFarmer intranet. You 
   
 
 
-![](../../.gitbook/assets/1%20%2846%29.jpg)
+![](../../.gitbook/assets/1%20%2850%29.jpg)
 
 
 
@@ -20,7 +20,7 @@ Use these instructions to add a simple page to your ThoughtFarmer intranet. You 
 
 3.Click **Publish** when you are done. The new page will appear on the screen and you'll see the title of your page in the [SuperNav](../search/use-the-supernav.md) on the left.
 
-![](../../.gitbook/assets/2%20%2838%29.jpg)
+![](../../.gitbook/assets/2%20%2843%29.jpg)
 
 Following the above instructions, the default content type Page and a default page template are selected. To learn more, see [Learn about content types ](content-types.md)and [Learn about page templates](templates.md).
 
@@ -38,14 +38,14 @@ Adding a post to a blog, forum or news section or to a calendar is almost exactl
 
 When you follow the above instructions to add a post to a blog, forum or news section you will see three options that do not appear when you add other types of intranet pages.
 
-![](../../.gitbook/assets/3%20%2833%29.png)
+![](../../.gitbook/assets/3%20%2836%29.png)
 
 
 
 * **Publish now**: Click this to set the official publish time and date as the moment you click **Publish** on the post.
 * **Publish on**: Use this to set a future date, time and timezone for the post to publish and show at the top of the section. Or set a past date for a retroactive post. If you set a future date for the post to publish, the post will only be visible to the page owner and administrators until the time it is set to publish, when it will become visible to everyone with View permission on the post.
 
-![](../../.gitbook/assets/4%20%2821%29.png)
+![](../../.gitbook/assets/4%20%2822%29.png)
 
 
 
@@ -57,7 +57,7 @@ To add photos to a "Gallery" page you attach image files instead of adding a pag
 
 1. Click **Add images** above any images already on the page. 
 
-![](../../.gitbook/assets/5%20%289%29.jpg)
+![](../../.gitbook/assets/5%20%2810%29.jpg)
 
 
 

@@ -9,7 +9,7 @@ In this section, you'll learn how to set up your homepage and how to customize t
 ### How do I?
 
 * [Create and edit templates](content-templates/)
-* [Change who can modify templates]()
+* [Change who can modify templates](content-templates/content-type-template-permissions.md)
 * [Learn about Cards](overview-of-cards/)
 * [Choose what displays on the homepage](homepage-setup/)
 * [Set up News Cards on the homepage](../../using-thoughtfarmer/add-content-with-news-cards/add-new-cards.md)

@@ -24,7 +24,7 @@ For administrator information about Wufoo forms, see [Wufoo forms integration](h
 
 4.Select the form that you want to insert from the list of forms in the pop-up window, and click **Insert**. A placeholder will appear where you have added the form.
 
-![](../../../.gitbook/assets/3%20%2810%29.png)
+![](../../../.gitbook/assets/3%20%2811%29.png)
 
 
 

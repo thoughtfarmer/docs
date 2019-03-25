@@ -17,7 +17,7 @@ If your intranet is only enabled for one language then you cannot change your de
 2.Under **Preferred language** click the dropdown menu and select the language you want.  
 
 
-![](../../.gitbook/assets/1%20%2827%29.jpg)
+![](../../.gitbook/assets/1%20%2831%29.jpg)
 
 
 
@@ -27,5 +27,5 @@ If your intranet is only enabled for one language then you cannot change your de
 
 You can also change your default site language when you switch from one version of a multilingual page to another. For instance, if your language is set to Spanish while you are viewing the Spanish version of a page and then you switch to the English language version of the page, the intranet will ask if you wish to change your default language.
 
-![](../../.gitbook/assets/2%20%2810%29.jpg)
+![](../../.gitbook/assets/2%20%2812%29.jpg)
 

@@ -9,7 +9,7 @@ Any form created with FormFlow has 4 different levels of permissions, based on f
 
 Each of these permission classifications has its own set of options that you can change at any time, from the Permissions tab located in the top menu.
 
-![](../../../.gitbook/assets/1%20%2825%29.png)
+![](../../../.gitbook/assets/1%20%2827%29.png)
 
 
 
@@ -21,7 +21,7 @@ Submitters are any users that can submit entries to the form. Submitters can onl
 
 1. The Submitter field indicates who can create entries for the form. By default, this box is set to All Registered Users, but you can change this to include other groups or individuals. 
 
-![](../../../.gitbook/assets/2%20%2825%29.png)
+![](../../../.gitbook/assets/2%20%2826%29.png)
 
 
 
@@ -30,7 +30,7 @@ Submitters are any users that can submit entries to the form. Submitters can onl
 
 2.By default, Submitters are allowed to view, but not edit, their form entries. To allow editing, click on the box "Allow submitters to edit their form entries after they've been submitted".
 
-![](../../../.gitbook/assets/3%20%2825%29.png)
+![](../../../.gitbook/assets/3%20%2828%29.png)
 
 * Submitters will be able to edit any of their entries
 * Submitters cannot edit the form status, or who the form is assigned to
@@ -38,7 +38,7 @@ Submitters are any users that can submit entries to the form. Submitters can onl
 
 3.To limit the number of times a user can submit a form entry, click on the box "Limit the number of times a person can submit the form" and enter a number.
 
-![](../../../.gitbook/assets/4%20%2833%29.png)
+![](../../../.gitbook/assets/4%20%2835%29.png)
 
 
 

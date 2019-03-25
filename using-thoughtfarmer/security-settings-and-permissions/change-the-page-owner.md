@@ -14,11 +14,11 @@ Use these instructions to change the person listed as the owner of a specific pa
 
 3.In the **Info** tab of the Page Controls, click the **edit icon** \(a pencil\) beside the **Owner** heading. The **Change owner** pop-up window will appear
 
-![](../../.gitbook/assets/1%20%2896%29.jpg)
+![](../../.gitbook/assets/1%20%28107%29.jpg)
 
 4.The current owner's name is selected. Start typing the new page owner's name, and click on the name in the dropdown menu that appears.
 
-![](../../.gitbook/assets/2%20%2824%29.jpg)
+![](../../.gitbook/assets/2%20%2828%29.jpg)
 
 
 
@@ -30,7 +30,7 @@ Use these instructions to change the person listed as the owner of a specific pa
 
 2.Click the name of the current page owner under the **Security** section on the right. The **Change owner** pop-up window will appear.
 
-![](../../.gitbook/assets/3%20%2851%29.jpg)
+![](../../.gitbook/assets/3%20%2857%29.jpg)
 
 3.The current owner's name is selected. Start typing the new page owner's name, and click on the name in the dropdown menu that appears.
 

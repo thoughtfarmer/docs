@@ -16,7 +16,7 @@ It's easy to share an update from the homepage to communicate something to all o
 4. Below your update it indicates who it will be visible to. Click on **Select a group** and click on **Everyone** to send the update to everyone.
 5. Click on the **Share** button to send your update. 
 
-![](../../.gitbook/assets/1%20%2887%29.jpg)
+![](../../.gitbook/assets/1%20%2896%29.jpg)
 
 
 
@@ -31,7 +31,7 @@ You can also share an update from your profile page.
 5. Below your update it indicates who it will be visible to. Click on **Select a group** and click on **Everyone** to send the update to everyone.
 6. Click on the **Share** button to send your update. 
 
-![](../../.gitbook/assets/2%20%2851%29.jpg)
+![](../../.gitbook/assets/2%20%2858%29.jpg)
 
 
 
@@ -56,7 +56,7 @@ Updates shared on a group page only go to the group.
 3. Type your update in the text box. Below your update it indicates that it will be visible to the group whose page you are on.
 4. Click on the **Share** button.
 
-![](../../.gitbook/assets/3%20%2811%29.jpg)
+![](../../.gitbook/assets/3%20%2812%29.jpg)
 
 
 
@@ -71,7 +71,7 @@ When you share an update with a group from the homepage or your profile page, yo
 5. In the menu that opens, click on the group that you want to send the update to. The **Select a group** text will change to indicate that the update is going to your group.
 6. Click on the **Share** button.
 
-![](../../.gitbook/assets/4%20%285%29.jpg)
+![](../../.gitbook/assets/4%20%286%29.jpg)
 
 
 
@@ -85,13 +85,13 @@ You can leave a message for a coworker on their profile page, and they will see 
 4. Type your message in the text box.
 5. Click on the **Share** button to send your message
 
-![](../../.gitbook/assets/5%20%2813%29.jpg)
+![](../../.gitbook/assets/5%20%2814%29.jpg)
 
 ### Edit an update or message
 
 When you share an update or message, you can edit it for two minutes \(or whatever time limit your intranet admin chooses\) after you hit **Share**. If you need to edit your update, click the three dots on the top right of the update, and click **Edit for 2 mins** in the menu that opens.
 
-![](../../.gitbook/assets/6%20%2810%29.jpg)
+![](../../.gitbook/assets/6%20%2811%29.jpg)
 
 ### View, Bookmark or Follow an update or message
 

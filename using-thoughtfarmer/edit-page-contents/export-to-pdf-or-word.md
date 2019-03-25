@@ -12,12 +12,12 @@ Need to collaborate with coworkers on a project in ThoughtFarmer and then send t
 
 2.Click on the **Export/Share** button in the Page Sharing Buttons in the page header.
 
-![](../../.gitbook/assets/1%20%2831%29.png)
+![](../../.gitbook/assets/1%20%2833%29.png)
 
 3.Click on **Export to Word** or **Export to PDF** in the menu that opens.  
 
 
-![](../../.gitbook/assets/2%20%2834%29.png)
+![](../../.gitbook/assets/2%20%2835%29.png)
 
 
 

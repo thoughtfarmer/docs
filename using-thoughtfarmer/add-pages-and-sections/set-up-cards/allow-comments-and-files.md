@@ -12,7 +12,7 @@ When you allow comments, the **Leave a comment?** box will appear on the page wi
   
 
 
-![](../../../.gitbook/assets/1%20%2866%29.png)
+![](../../../.gitbook/assets/1%20%2871%29.png)
 
 
 
@@ -21,7 +21,7 @@ When you allow comments, the **Leave a comment?** box will appear on the page wi
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** pop-up window will open.  
 
 
-![](../../../.gitbook/assets/2%20%2850%29.png)
+![](../../../.gitbook/assets/2%20%2854%29.png)
 
 
 
@@ -33,7 +33,7 @@ a.Check the box to allow comments,
 
 b.Uncheck the box to disallow comment.
 
-![](../../../.gitbook/assets/1%20%2829%29.jpg)
+![](../../../.gitbook/assets/1%20%2833%29.jpg)
 
 5.Click **Done** at the bottom of the **Update cards** window.
 
@@ -46,7 +46,7 @@ The Document Library Card will be a part of some page templates by default, but 
 When you allow files, the **Add file icon** will appear on the page  
 
 
-![](../../../.gitbook/assets/1%20%2821%29.jpg)
+![](../../../.gitbook/assets/1%20%2824%29.jpg)
 
 
 
@@ -54,7 +54,7 @@ When you allow files, the **Add file icon** will appear on the page
 
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** pop-up window will open.
 
-![](../../../.gitbook/assets/2%20%2815%29.png)
+![](../../../.gitbook/assets/2%20%2816%29.png)
 
 
 
@@ -65,7 +65,7 @@ When you allow files, the **Add file icon** will appear on the page
 1. Check the box to allow files,
 2. Uncheck the box to disallow files.
 
-![](../../../.gitbook/assets/3%20%2819%29.jpg)
+![](../../../.gitbook/assets/3%20%2821%29.jpg)
 
 
 

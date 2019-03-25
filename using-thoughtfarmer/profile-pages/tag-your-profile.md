@@ -12,11 +12,11 @@ Adding & deleting tags on your profile page works just like it does on all other
 
 1.Navigate to your profile page, and click the down arrow on the right of the page header to open the Page Controls.
 
-![](../../.gitbook/assets/1%20%2844%29.jpg)
+![](../../.gitbook/assets/1%20%2848%29.jpg)
 
 2.In the **Tags** section, click **Add tags** or click the Edit icon \(a pencil\).
 
-![](../../.gitbook/assets/2%20%2847%29.jpg)
+![](../../.gitbook/assets/2%20%2854%29.jpg)
 
 
 

@@ -20,7 +20,7 @@ There are three different, equally cool and easy ways of linking to another intr
 
    a.In the **Search** box start typing the name of the page or file you want to link to. Just below the search box you'll see a list of pages and files with titles that match what you're typing. The list automatically narrows down as you continue typing. Click on the listing for the page you want to link to.
 
-![](../../../.gitbook/assets/1%20%2841%29.png)
+![](../../../.gitbook/assets/1%20%2843%29.png)
 
 
 
@@ -28,7 +28,7 @@ There are three different, equally cool and easy ways of linking to another intr
 
 b.You'll see a list of the top level pages of the site in the link dialog. Click on the small triangle next to one of the pages to expand the list of subpages. Continue clicking through subpages until you find the page you want to link to and click on it.
 
-![](../../../.gitbook/assets/2%20%2853%29.png)
+![](../../../.gitbook/assets/2%20%2858%29.png)
 
 
 
@@ -36,12 +36,12 @@ b.You'll see a list of the top level pages of the site in the link dialog. Click
 
 c.Click the **Recently viewed pages** tab in the link window. Click on one of the pages you recently visited to link to it.
 
-![](../../../.gitbook/assets/3%20%2823%29.png)
+![](../../../.gitbook/assets/3%20%2826%29.png)
 
 5.The **Link Label** box at the bottom of the link window contains the text that will display as the link. Click in the **Link Label** box and type new text to add or change the link label.  
 
 
-![](../../../.gitbook/assets/4%20%2834%29.png)
+![](../../../.gitbook/assets/4%20%2836%29.png)
 
 6.Click **Insert** in the bottom right of the link dialog. The pop-up window will close and you'll see your text has changed color.
 

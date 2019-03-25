@@ -4,7 +4,7 @@
 
 You can move, delete, archive, download or add tags to one photo in a gallery, or to many photos at a time using the gallery toolbar. To make changes to photos, you first open the gallery toolbar, then select the photos you want to change.
 
-![](../../.gitbook/assets/1%20%2872%29.jpg)
+![](../../.gitbook/assets/1%20%2879%29.jpg)
 
 
 

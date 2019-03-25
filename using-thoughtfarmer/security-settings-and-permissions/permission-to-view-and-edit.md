@@ -18,7 +18,7 @@ By default, subpages inherit security settings from their parent pages. When cha
   
 **Checkbox option indicates that security settings will be inherited from the parent page in the navigation**
 
-![](../../.gitbook/assets/1%20%2845%29.jpg)
+![](../../.gitbook/assets/1%20%2849%29.jpg)
 
 
 
@@ -46,7 +46,7 @@ You need to have View & edit permission on a page in order to change the securit
 
 6.Click on the name of the person or security group you want to add. \(Or use the arrow keys to navigate to the person's name and then hit the Enter key.\) It will appear in the text box.
 
-![](../../.gitbook/assets/3%20%2849%29.jpg)
+![](../../.gitbook/assets/3%20%2855%29.jpg)
 
 
 
@@ -55,7 +55,7 @@ You need to have View & edit permission on a page in order to change the securit
 8.Choose the permission level using the **can edit** toggle below the list of names. \(Can edit toggle ON \(colored\) = View and edit permission, Can edit toggle OFF \(grey\) = View only permission\)  
 
 
-![](../../.gitbook/assets/4%20%2829%29.jpg)
+![](../../.gitbook/assets/4%20%2832%29.jpg)
 
 
 
@@ -73,7 +73,7 @@ You can also access the security settings while you are creating or editing a pa
 
 2.In the **Security** section on the right, click **Security permissions**. This will open the **Security** pop-up window, and you can then follow the above instructions starting at Step 4.
 
-![](../../.gitbook/assets/5%20%2811%29.jpg)
+![](../../.gitbook/assets/5%20%2812%29.jpg)
 
 
 
@@ -86,7 +86,7 @@ Once a person or group has been given permissions, it is easy to change the perm
    1. To remove all permissions, click the **X** at the right of the person or group name. The name will disappear from the list.
    2. To change between **View only** and **View & edit** permissions, click on the toggle in the **Can Edit** column beside the name of the person or group. If the toggle is off \(grey\), that indicates **View only** permission. If the toggle is on \(colored\), that indicates **View & edit permission**. When you change the toggle, the current permissions appear beside the person or group name.
 
-![](../../.gitbook/assets/6%20%281%29.jpg)
+![](../../.gitbook/assets/6%20%282%29.jpg)
 
 
 

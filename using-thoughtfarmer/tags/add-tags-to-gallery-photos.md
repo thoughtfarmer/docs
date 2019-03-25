@@ -12,11 +12,11 @@ To add tags to gallery photos:
   
 
 
-![](../../.gitbook/assets/1%20%2855%29.jpg)
+![](../../.gitbook/assets/1%20%2859%29.jpg)
 
 2.Click **Gallery tools** at the top right of the gallery. The gallery toolbar will appear at the top of the gallery.
 
-![](../../.gitbook/assets/2%20%2867%29.jpg)
+![](../../.gitbook/assets/2%20%2876%29.jpg)
 
 
 
@@ -26,7 +26,7 @@ To add tags to gallery photos:
 
 5.In the blank text box, start typing a tag. A list of matching tags will automatically appear.
 
-![](../../.gitbook/assets/3%20%2830%29.jpg)
+![](../../.gitbook/assets/3%20%2833%29.jpg)
 
 
 

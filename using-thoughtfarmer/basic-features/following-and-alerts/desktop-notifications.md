@@ -8,7 +8,7 @@ At some point your browser will have asked you whether you want to receive notif
 
 ### **In FireFox**
 
-![](../../../.gitbook/assets/6%20%284%29.jpg)
+![](../../../.gitbook/assets/6%20%285%29.jpg)
 
 
 

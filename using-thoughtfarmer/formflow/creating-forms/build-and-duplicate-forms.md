@@ -11,7 +11,7 @@ Building and duplicating forms is easy! You can start a new form from scratch or
 1.There are many different feature options you can use to build your form including:  
 
 
-![](../../../.gitbook/assets/1%20%2862%29.png)
+![](../../../.gitbook/assets/1%20%2867%29.png)
 
 
 
@@ -23,11 +23,11 @@ Each one of these features has sections you can edit and add content to.
 
 4.Your new element will appear as a field with the label “untitled”.
 
-![](../../../.gitbook/assets/3%20%2829%29.png)
+![](../../../.gitbook/assets/3%20%2832%29.png)
 
 5.To edit the field, just click on the field to open the editor.
 
-![](../../../.gitbook/assets/4%20%2815%29.png)
+![](../../../.gitbook/assets/4%20%2816%29.png)
 
 
 
