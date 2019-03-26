@@ -18,7 +18,7 @@ To get to the People Directory follow these steps. \(Or, if your intranet has a 
 
 2.Click on **All** above the **Search** box, and select **People** from the the dropdown menu that opens.
 
-![](../../.gitbook/assets/1%20%2827%29.png)
+![](../../.gitbook/assets/1%20%2832%29.png)
 
 
 
@@ -34,21 +34,21 @@ You can choose to view the People Directory in one of two ways: Grid view or Lis
   
 **Grid View**
 
-![](../../.gitbook/assets/2%20%288%29.jpg)
+![](../../.gitbook/assets/2%20%289%29.jpg)
 
 **List View**
 
-![](../../.gitbook/assets/3%20%2866%29.jpg)
+![](../../.gitbook/assets/3%20%2871%29.jpg)
 
 Grid view is the default view of the People Directory, but the way you view the People Directory is controlled by you and specific to you. To change your view, click the Grid or List icons on the top left of the People Directory, just under the number of people. The intranet will remember your last selected view preference, and will display the People Directory that way next time you visit it.
 
-![](../../.gitbook/assets/4%20%2832%29.jpg)
+![](../../.gitbook/assets/4%20%2835%29.jpg)
 
 ### Search filters in People Directory
 
 **Filter 1: Last name**
 
-![](../../.gitbook/assets/5%20%284%29.png)
+![](../../.gitbook/assets/5%20%287%29.png)
 
 **Options**:
 
@@ -58,7 +58,7 @@ Use the **Last name** filter if you're not sure how to spell the full last name 
 
 **Filter 2: Expertise & Skills**
 
-![](../../.gitbook/assets/6%20%2810%29.png)
+![](../../.gitbook/assets/6%20%2814%29.png)
 
 **Options**:
 
@@ -110,7 +110,7 @@ Each time you click on a search filter the results page will refresh and the fil
 If a filter you chose turns out not to be helpful, remove it by clicking the grey **X** to the right of that filter's name at the top of the page. If you want to start your search from scratch click **Clear filters** to the right of the current filters.  
 
 
-![](../../.gitbook/assets/9%20%283%29.jpg)
+![](../../.gitbook/assets/9%20%286%29.jpg)
 
 ### Hot intranet tip!
 

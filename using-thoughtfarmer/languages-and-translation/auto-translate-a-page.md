@@ -16,13 +16,13 @@ If the Translate Card is set to **Automatic** on the intranet, when you visit a 
   
 **The Translate Card is pretty low-key - it's just an icon with the word "Translate"**
 
-![](../../.gitbook/assets/1%20%2810%29.jpg)
+![](../../.gitbook/assets/1%20%2812%29.jpg)
 
 If the Translate Card is set to **Manual** on the intranet, when you visit a page that is not in your preferred language you will need to click "Translate" in the Translate Card to get an auto-translation into your preferred language.  
   
 Once the page is translated, you can hover over sentences to see the original language text appear in a pop-up box.
 
-![](../../.gitbook/assets/1%20%2855%29.jpg)
+![](../../.gitbook/assets/1%20%2859%29.jpg)
 
 
 
@@ -42,17 +42,17 @@ To add a Translate Card:
 
 2.Click **Set up cards** on the right.
 
-![](../../.gitbook/assets/1%20%28113%29.jpg)
+![](../../.gitbook/assets/1%20%28119%29.jpg)
 
 3.In the Card setup window, click **Modify template**.
 
-![](../../.gitbook/assets/2%20%2874%29.jpg)
+![](../../.gitbook/assets/2%20%2879%29.jpg)
 
 4.Click the **plus sign** in the column you want to add the Translate Card to.
 
 5.Click on the **Translate Card** in the menu that appears on the right.
 
-![](../../.gitbook/assets/3%20%2864%29.jpg)
+![](../../.gitbook/assets/3%20%2869%29.jpg)
 
 
 

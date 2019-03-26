@@ -6,7 +6,7 @@ Find the form on the Forms Overview page.In the form description box, you’ll n
 
 ![](../../../.gitbook/assets/1%20%284%29.png)
 
-![](../../../.gitbook/assets/2%20%2864%29.png)
+![](../../../.gitbook/assets/2%20%2872%29.png)
 
 
 

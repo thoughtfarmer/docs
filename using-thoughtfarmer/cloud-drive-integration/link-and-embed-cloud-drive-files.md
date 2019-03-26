@@ -4,7 +4,7 @@
 
 When cloud drive integration is enabled, files and folders from cloud drives like Google Drive, OneDrive and SharePoint Online can be linked to and embedded on intranet pages.
 
-![](../../.gitbook/assets/1%20%2859%29.png)
+![](../../.gitbook/assets/1%20%2868%29.png)
 
 
 
@@ -16,12 +16,12 @@ For administrator instructions on enabling cloud drive integration, see [Google 
 
 1. Click **Cloud drive**.
 
-![](../../.gitbook/assets/2%20%2836%29.png)
+![](../../.gitbook/assets/2%20%2841%29.png)
 
 2.Select the **desired cloud drive** from the dropdown menu that opens. eg. Google Drive, OneDrive, SharePoint Online. The **Add files and folders** window will appear.  
 
 
-![](../../.gitbook/assets/3%20%2853%29.png)
+![](../../.gitbook/assets/3%20%2858%29.png)
 
 
 
@@ -38,19 +38,19 @@ For administrator instructions on enabling cloud drive integration, see [Google 
 
 Once a cloud drive has already been added, more files and folders can be added simply by clicking **Add** beside the Cloud Drive name. The **Add files and folders** window will appear and the instructions above \(How to create a cloud drive document library\) can be followed from Step 3 on.
 
-![](../../.gitbook/assets/4%20%2819%29.png)
+![](../../.gitbook/assets/4%20%2824%29.png)
 
 ### Unshared files
 
 If a file has been linked or embedded on a page, but has not been shared with a particular user, the user will see the message “File or folder unavailable. Learn more” where the file name would otherwise display. When the user clicks “Learn more”, they will be taken to the external cloud drive site to be provided with more information. The user may be able to request permission to have the file shared with them.
 
-![](../../.gitbook/assets/5%20%2815%29.png)
+![](../../.gitbook/assets/5%20%2819%29.png)
 
 ### Private files
 
 If you link or embed a file or folder that has not been shared with anyone else, it will display with a lock icon beside the file name. If you hover over the lock icon, it says “Private – only you can access”. Other users will not be able to access that file, and will see the message “File or folder unavailable. Learn more” where the file name would otherwise display.
 
-![](../../.gitbook/assets/6%20%289%29.png)
+![](../../.gitbook/assets/6%20%2811%29.png)
 
 
 
@@ -63,7 +63,7 @@ All Google file types can be embedded on intranet pages. Office365 file types th
 1. Navigate to the page with the linked or embedded file.
 2. **Linked file**: Hover over the linked file, click on the **three dots icon ...** that appears on the right, click **Remove** in the menu that appears. 
 
-![](../../.gitbook/assets/7%20%2811%29.png)
+![](../../.gitbook/assets/7%20%2812%29.png)
 
 3.**Embedded file**: Click **Remove** in the top right of the embedded file.
 

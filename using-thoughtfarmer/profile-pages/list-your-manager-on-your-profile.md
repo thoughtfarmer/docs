@@ -15,7 +15,7 @@ Use these instructions to set or change the person listed as your manager on you
 3.Start typing your manager's name in the **Manager** box; click once on your manager's name when it appears in the dropdown menu.  
 
 
-![](../../.gitbook/assets/1%20%2848%29.jpg)
+![](../../.gitbook/assets/1%20%2852%29.jpg)
 
 
 
@@ -35,5 +35,5 @@ If you have a dotted line \(or a solid one\) to another manager you can list tha
 While editing your profile, click the **X** beside the name of a Manager or Also reports to remove them. Follow the steps above to add new managers.  
  
 
-![](../../.gitbook/assets/1%20%282%29.jpg)
+![](../../.gitbook/assets/1%20%283%29.jpg)
 

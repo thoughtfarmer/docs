@@ -18,7 +18,7 @@ Use these instructions to set up a group page where team members can share infor
 8. \(optional\) Set up other cards that are available on the template you choose. \(To learn more, see [How to set up cards on a page](../set-up-cards/)\).
 9. Continue editing or click **Publish** at the top of the page.  
 
-![](../../../.gitbook/assets/1%20%28108%29.jpg)
+![](../../../.gitbook/assets/1%20%28114%29.jpg)
 
 ### Difference between "Open" & "Managed" membership
 
@@ -36,7 +36,7 @@ Group membership does not control or extend security settings by default, but gr
 
 Group types are categories of groups, the most common being Group, Location, Department, Team, Project, Business Unit. These six group types are included in your ThoughtFarmer intranet by default, but your intranet administrator may have changed them or added others.
 
-![](../../../.gitbook/assets/1%20%2820%29.jpg)
+![](../../../.gitbook/assets/1%20%2823%29.jpg)
 
 The People Directory & Groups Directory use Group Types as search filters. By selecting the right type for your group you ensure it will show up under that category in relevant search results. Profile pages show a list of groups that a user belongs to, divided into sections by group type.
 
@@ -44,7 +44,7 @@ The People Directory & Groups Directory use Group Types as search filters. By se
 
 A Location Card on your group page is where you can add your group's physical address and contact info. You can even add a map showing your location in a few simple steps. Colleagues visiting from out of town can find their way to your office by viewing the map on the office group page.
 
-![](../../../.gitbook/assets/2%20%2852%29.jpg)
+![](../../../.gitbook/assets/2%20%2855%29.jpg)
 
 
 
@@ -54,7 +54,7 @@ A Location Card on your group page is where you can add your group's physical ad
 
 3.Find the **Location** Card section and click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../../.gitbook/assets/3%20%2857%29.png)
+![](../../../.gitbook/assets/3%20%2863%29.png)
 
 
 

@@ -13,7 +13,7 @@ When you open the Organization Chart from a specific person on the People Direct
   
 Navigate around the Org Chart using your mouse to click and drag or the plus and minus buttons on the left to zoom in and out. More information will appear as you zoom in. Direct reports below a certain level are minimized and show as the number of reports until you zoom in or click on them. Clicking the circle button on the left takes you back to the center of the Org Chart, or back to the person your admin has set the Org Chart to focus on.
 
-![](../../.gitbook/assets/2%20%2869%29.jpg)
+![](../../.gitbook/assets/2%20%2874%29.jpg)
 
 ### Relationships selected on profile page feed Organization Chart
 

@@ -20,7 +20,7 @@ The Homepage activity Card has four tabs - **Highlights**, **Updates**, **Shout 
   
 The Homepage activity, like the Homepage news, is unique to each user based on what content they can access, and what groups they belong to.
 
-![](../../.gitbook/assets/aaa.jpg)
+![](../../.gitbook/assets/aaa%20%281%29.jpg)
 
 
 

@@ -12,14 +12,14 @@ When comments are added to content, they also appear in the Activity streams of 
 
 Many intranet pages allow comments. Depending on the various Cards on a page, comments may appear in different places on different pages, but they are often found below the body content of the page. You can also add comments in Activity Streams or as replies to Forum posts. To post a comment, click **Leave a comment?**in any one of these areas. Type in your comment and then click **Post**.
 
-![](../../../.gitbook/assets/1%20%28125%29.jpg)
+![](../../../.gitbook/assets/1%20%28132%29.jpg)
 
 If you want to respond to a specific comment, click **Quote** at the bottom of the comment. The commenter's name and the text of the comment will be copied into the open comment box. You can then add your comment and post it.  
 
 
-![](../../../.gitbook/assets/2%20%2853%29.jpg)
+![](../../../.gitbook/assets/2%20%2856%29.jpg)
 
-![](../../../.gitbook/assets/3%20%2849%29.jpg)
+![](../../../.gitbook/assets/3%20%2854%29.jpg)
 
 
 
@@ -33,7 +33,7 @@ If you mention a colleague's name in a special way in a comment, they will recei
 2. A dropdown menu will appear with names that match what you have typed. Click on the name of the colleague you want in the menu.
 3. Your colleague's full name will be inserted after the @ sign, and will become a hyperlink, indicating that the name is now a Mention. eg. @Carolien Dekeersmaeker
 
-![](../../../.gitbook/assets/4%20%2836%29.jpg)
+![](../../../.gitbook/assets/4%20%2839%29.jpg)
 
 **Result**: The colleague you mentioned will receive an alert about the comment in the **Mentions** tab of the **Alerts** menu on the Application Toolbar. Your colleague's name in the comment becomes a link that takes you to their profile page when clicked.
 
@@ -42,7 +42,7 @@ If you mention a colleague's name in a special way in a comment, they will recei
 Click **Like** below a comment to show that you like it or agree with it. Once you Like a comment, the thumbs up icon shows. A number beside the thumbs up shows the number of people that have liked the comment. Hover over the thumbs up icon to see a pop-up showing which users like the comment.  
 
 
-![](../../../.gitbook/assets/5%20%282%29.png)
+![](../../../.gitbook/assets/5%20%284%29.png)
 
 To unlike a comment, click **Unlike**.
 

@@ -14,7 +14,7 @@ When you add a link using these instructions the link shows up in the navigation
 
 2.Click on the **Content type** dropdown on the right and select the **Link** content type. \(The Template Link will automatically be selected.\)
 
-![](../../.gitbook/assets/1%20%2814%29.png)
+![](../../.gitbook/assets/1%20%2816%29.png)
 
 
 
@@ -22,7 +22,7 @@ When you add a link using these instructions the link shows up in the navigation
 
 4.Click the **Link setup** button on the left.
 
-![](../../.gitbook/assets/2%20%287%29.png)
+![](../../.gitbook/assets/2%20%288%29.png)
 
 
 
@@ -39,7 +39,7 @@ Follow the instructions below if you need to change the title or address of a li
 1. Navigate to the parent page on which the link shows.
 2. Hover over the icon next to the link in the navigation; it will turn into an Edit icon \(a pencil\). Click on the Edit icon. 
 
-![](../../.gitbook/assets/3%20%289%29.png)
+![](../../.gitbook/assets/3%20%2810%29.png)
 
 
 
@@ -49,7 +49,7 @@ ii.**Change link address**: Click **Edit link** under the current link path or a
 
 iii.**To delete link**: Click **Delete link** underneath the **Save** button. Then click **Delete** in the pop-up window to confirm the deletion.
 
-![](../../.gitbook/assets/4%20%2815%29.png)
+![](../../.gitbook/assets/4%20%2819%29.png)
 
 
 
@@ -65,7 +65,7 @@ Follow the instructions below if you need to move a link to a different page or 
 
 3.Click **Move** beside the link path above the page title. The **Move** pop-up window will open.
 
-![](../../.gitbook/assets/5%20%2816%29.png)
+![](../../.gitbook/assets/5%20%2820%29.png)
 
 
 

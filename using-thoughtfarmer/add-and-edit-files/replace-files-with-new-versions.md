@@ -12,7 +12,7 @@ Use these instructions to replace a file with a newer version. Don't delete that
 
 2.Click **Replace**. The **Replace file** pop-up window will appear.
 
-![](../../.gitbook/assets/1%20%2837%29.jpg)
+![](../../.gitbook/assets/1%20%2841%29.jpg)
 
 
 
@@ -24,13 +24,13 @@ Use these instructions to replace a file with a newer version. Don't delete that
 
 When you open the File Controls \(by clicking on the down arrow on the right of the file name\), you can see the file version number listed with the other file information. You can also see the current file version on the individual file page below the file name. From there you can also revert to a previous file version.
 
-![](../../.gitbook/assets/2%20%2840%29.png)
+![](../../.gitbook/assets/2%20%2845%29.png)
 
 ### Comments show file version
 
 Once multiple versions of a file exist, comments on the file will show what version of the file the comment relates to. This version indicator appears below the comment in file preview and on the file page.
 
-![](../../.gitbook/assets/3%20%2838%29.jpg)
+![](../../.gitbook/assets/3%20%2841%29.jpg)
 
 ### Hot intranet tip!
 

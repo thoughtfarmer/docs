@@ -26,7 +26,7 @@ If the sync health of an AD group is not good, refresh group page membership or 
 
 4.Under **On-Demand synchronization**, select the checkbox for either "Update group page memberships from external store groups" or "Update security group membership from external store groups", depending on what type of sync needs refreshing.
 
-![](../../.gitbook/assets/2%20%2829%29.jpg)
+![](../../.gitbook/assets/2%20%2830%29.jpg)
 
 5.Click **Synchronize now**.
 

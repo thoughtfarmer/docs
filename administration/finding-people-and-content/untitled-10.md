@@ -36,7 +36,7 @@ To change a page size setting, click in the corresponding box, type in the new v
 **Example:**  
 **A search for "pacific" yielded 107 results. Because the Main search page size is set to ten, only ten results display on the page at once.**
 
-![](../../.gitbook/assets/1%20%2880%29.jpg)
+![](../../.gitbook/assets/1%20%2884%29.jpg)
 
   
 **Page numbers at the bottom allow users to navigate between the 107 search results.**  
@@ -48,7 +48,7 @@ These settings control the number of search facets that appear for each filter t
   
 **In this example, the Edited by and Owned by filter types are set to five facets each.**
 
-![](../../.gitbook/assets/3%20%2824%29.jpg)
+![](../../.gitbook/assets/3%20%2826%29.jpg)
 
 To learn more, see [Configure tag display on search](untitled-5/configure-tag-display-on-search.md).
 
@@ -62,7 +62,7 @@ This setting determines the maximum number of Best Bets that will display on a s
   
 **A search for "cell phone" has been set up to return a Best Bets result about mobile banking**
 
-![](../../.gitbook/assets/4%20%2841%29.jpg)
+![](../../.gitbook/assets/4%20%2844%29.jpg)
 
 ### **Functions**
 
@@ -81,7 +81,7 @@ Certain page types have their scores adjusted by these values - think of it as a
 
 This setting has to do with the **Did you mean?** feature of search which suggests other words if it thinks a user has misspelled their search term.
 
-![](../../.gitbook/assets/5%20%2824%29.jpg)
+![](../../.gitbook/assets/5%20%2828%29.jpg)
 
 **Number to show** determines the number of suggestions that will display when Search+ thinks that a user has misspelled the search term. **Max score** means suggestions will only be shown when the max score of the search results returned is below this value. If you want suggestions to show more frequently, make the value higher; if you want suggestions less frequently, make the number lower.  
 

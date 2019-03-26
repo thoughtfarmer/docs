@@ -8,25 +8,25 @@ On this page, you'll find instructions for how to add a page summary, how to add
 
 The content type and page template you choose determine the purpose, layout and available [Cards](../basic-features/cards.md) for the page. See [Learn about content types](content-types.md) and [Learn about page templates](templates.md).
 
-![](../../.gitbook/assets/1%20%2898%29.jpg)
+![](../../.gitbook/assets/1%20%28103%29.jpg)
 
 ### How to add a Thumbnail image
 
 The Thumbnail image for a page displays with the page title in search results, News posts, News Carousel posts, Grid navigation sections and on the Group Directory. See [How to add a Thumbnail image](../edit-page-contents/add-thumbnail-images/).
 
-![](../../.gitbook/assets/2%20%2876%29.jpg)
+![](../../.gitbook/assets/2%20%2882%29.jpg)
 
 ### Publishing options section
 
 The Publishing options section of the Page settings has three parts - page Summary, Short title and Archive date.
 
-![](../../.gitbook/assets/3%20%2820%29.jpg)
+![](../../.gitbook/assets/3%20%2822%29.jpg)
 
 ### How to add a page summary
 
 A page summary appears below the page title in search results and in some section page layouts, and also appears as a summary description of News, Blog or Forum posts that appear in your homepage News or other News sections. Writing a page summary will give your readers a quick idea of the contents of your page.
 
-![](../../.gitbook/assets/4%20%2838%29.jpg)
+![](../../.gitbook/assets/4%20%2841%29.jpg)
 
 
 
@@ -91,5 +91,5 @@ To learn how to change the page owner without being in edit mode, see [How to ch
 Tags are like search keywords you can add to a page that help make your page easier for you and others to find. To learn more, see [How to use tags](../tags/).  
 
 
-![](../../.gitbook/assets/7%20%284%29.jpg)
+![](../../.gitbook/assets/7%20%285%29.jpg)
 

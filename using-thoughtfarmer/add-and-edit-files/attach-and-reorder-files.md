@@ -12,7 +12,7 @@ File listings show a file type icon, file title and down arrow on the right. Dep
 
 1. Click **Add file**. This brings up the **Add file** pop-up window.
 
-![](../../.gitbook/assets/1%20%2833%29.jpg)
+![](../../.gitbook/assets/1%20%2837%29.jpg)
 
 
 
@@ -20,7 +20,7 @@ a.By default, document libraries appear in the center column of a page, but you 
 
 b.If you want to add a file to a folder, first click on the folder to select it, then click **Add file**.
 
-![](../../.gitbook/assets/2%20%2870%29.png)
+![](../../.gitbook/assets/2%20%2878%29.png)
 
 
 
@@ -62,7 +62,7 @@ Page editors and administrators can curate files or folders on a page into a par
 
 2.Click **...** beside the **Sort by** menu.
 
-![](../../.gitbook/assets/4%20%2841%29.png)
+![](../../.gitbook/assets/4%20%2848%29.png)
 
 
 
@@ -73,7 +73,7 @@ Page editors and administrators can curate files or folders on a page into a par
 1. You can click on the **...** menu that appears when you hover over a file or folder and select **Move to the top** or **Move to the bottom** to bounce a file or folder to that place in the order.
 2. You can also click on \(Sort by\) **Curated** at the top of the window, and then choose to set the Curated sort by **Title** or **Date**.
 
-![](../../.gitbook/assets/5%20%281%29.png)
+![](../../.gitbook/assets/5%20%282%29.png)
 
 
 
@@ -111,7 +111,7 @@ Use these instructions to move a file to a different page, or into a folder. The
 3.Click **Move** under the file title. The **Move** pop-up window will open.  
 
 
-![](../../.gitbook/assets/7%20%288%29.jpg)
+![](../../.gitbook/assets/7%20%2811%29.jpg)
 
 
 

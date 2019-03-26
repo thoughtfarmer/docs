@@ -4,7 +4,7 @@
 
 Cards are like the building blocks of a page. When you look at a page on your intranet, each of its different components is a Card. They come in different shapes and sizes, depending on their content, their location on the page, and the device you are viewing the page on - but each Card contains a different page feature. Examples of some features found in Cards are Body \(content\), News, Activity stream, Document library, Comments, Navigation, Mini calendar, Current poll, and Quick links. Even the left hand SuperNav and the Page Header are technically their own Cards, although they live in specific locations on the page.
 
-![](../../../.gitbook/assets/1%20%288%29.jpg)
+![](../../../.gitbook/assets/1%20%2810%29.jpg)
 
 You can see how all of these building blocks stacked together makes up a page. Because page creators can choose which Cards to use on a page, each page can be different and uniquely suited to its purpose. The intranet administrator can also create a unique and useful homepage with their selection and set up of Cards.  
   

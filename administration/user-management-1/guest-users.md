@@ -18,7 +18,7 @@ Guest access must be enabled for each login provider individually.
 
 3.In the **Form/Windows/Custom SAML configuration** section, under **Guest access**, select the radio button for the desired level of Guest access.
 
-![](../../.gitbook/assets/1%20%2864%29.jpg)
+![](../../.gitbook/assets/1%20%2868%29.jpg)
 
 4.Click **Save**.
 

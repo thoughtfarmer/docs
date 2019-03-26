@@ -8,11 +8,11 @@ As a default, all draft forms are initially set up with one section but you can 
 
 2.To create multiple sections, simply drag the Section break button from the Form elements menu, and drop it into your workspace. That will immediately create another section.
 
-![](../../../.gitbook/assets/1%20%2818%29.png)
+![](../../../.gitbook/assets/1%20%2821%29.png)
 
 3.If you so desire, you can name each section. These names are for your reference only and will not be viewable on the completed form. Naming a section also makes it easier when you are setting up any associate form logic.
 
-![](../../../.gitbook/assets/2%20%2826%29.png)
+![](../../../.gitbook/assets/2%20%2830%29.png)
 
 
 
@@ -21,7 +21,7 @@ As a default, all draft forms are initially set up with one section but you can 
 5.Form elements can be added to any section you have built. They can also be re-ordered into different sections by using the navigation arrows within the field.  
 
 
-![](../../../.gitbook/assets/3%20%2828%29.png)
+![](../../../.gitbook/assets/3%20%2830%29.png)
 
 6.In each Section header, there is a set of ellipses. Click on these ellipses to open the Section menu.
 
@@ -38,7 +38,7 @@ As a default, all draft forms are initially set up with one section but you can 
 8.Selecting the security settings option will open the options pop-up. In the pop-up you can specify who can view and/or edit the specific Section. Just click the slider to turn different options on or off.  
 
 
-![](../../../.gitbook/assets/5%20%2822%29.png)
+![](../../../.gitbook/assets/5%20%2828%29.png)
 
 
 

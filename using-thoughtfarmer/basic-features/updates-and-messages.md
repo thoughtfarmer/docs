@@ -16,7 +16,7 @@ It's easy to share an update from the homepage to communicate something to all o
 4. Below your update it indicates who it will be visible to. Click on **Select a group** and click on **Everyone** to send the update to everyone.
 5. Click on the **Share** button to send your update. 
 
-![](../../.gitbook/assets/1%20%28105%29.jpg)
+![](../../.gitbook/assets/1%20%28111%29.jpg)
 
 
 
@@ -31,7 +31,7 @@ You can also share an update from your profile page.
 5. Below your update it indicates who it will be visible to. Click on **Select a group** and click on **Everyone** to send the update to everyone.
 6. Click on the **Share** button to send your update. 
 
-![](../../.gitbook/assets/2%20%2866%29.jpg)
+![](../../.gitbook/assets/2%20%2871%29.jpg)
 
 
 
@@ -56,7 +56,7 @@ Updates shared on a group page only go to the group.
 3. Type your update in the text box. Below your update it indicates that it will be visible to the group whose page you are on.
 4. Click on the **Share** button.
 
-![](../../.gitbook/assets/3%20%2813%29.jpg)
+![](../../.gitbook/assets/3%20%2814%29.jpg)
 
 
 
@@ -85,7 +85,7 @@ You can leave a message for a coworker on their profile page, and they will see 
 4. Type your message in the text box.
 5. Click on the **Share** button to send your message
 
-![](../../.gitbook/assets/5%20%2814%29.jpg)
+![](../../.gitbook/assets/5%20%2817%29.jpg)
 
 ### Edit an update or message
 
@@ -97,5 +97,5 @@ When you share an update or message, you can edit it for two minutes \(or whatev
 
 Because other users can comment on, like and follow your updates, they can become their own conversation that you'll want to check on and perhaps note for future reference. Click the three dots in the top right of an update or message to open a menu where you can access these actions.
 
-![](../../.gitbook/assets/7%20%287%29.jpg)
+![](../../.gitbook/assets/7%20%2810%29.jpg)
 

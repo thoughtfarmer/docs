@@ -12,7 +12,7 @@ Whenever you search your intranet you'll see five different search filters on th
   
 
 
-![](../../.gitbook/assets/1%20%2873%29.png)
+![](../../.gitbook/assets/1%20%2883%29.png)
 
 **Options**:
 
@@ -22,7 +22,7 @@ Use the **Type** filter if you know the format of the content you seek. For inst
 
 **Filter 2: Edited By**
 
-![](../../.gitbook/assets/2%20%2822%29.png)
+![](../../.gitbook/assets/2%20%2826%29.png)
 
 **Options**:
 
@@ -42,7 +42,7 @@ Use the **Owned by** filter if you know the name of the person who owns the cont
 
 **Filter 4: Posted Date**
 
-![](../../.gitbook/assets/4%20%2823%29.png)
+![](../../.gitbook/assets/4%20%2829%29.png)
 
 **Options**:
 
@@ -58,7 +58,7 @@ Use the **Posted Date** if you know approximately when someone posted the specif
 
 **Filter 5: Tag**
 
-![](../../.gitbook/assets/5%20%288%29.png)
+![](../../.gitbook/assets/5%20%2812%29.png)
 
 **Options**:
 
@@ -79,7 +79,7 @@ For the **Edited by**, **Owned by** and **Tag** filters you can type in a specif
   
 At the bottom of the list of names in the **Edited by** or **Owned by** filter look for a small search box. Start typing in a name and a list of matching names will automatically appear; click on the one you want and then click on the search button \(the mini magnifying glass\). You can do the same for tags at the bottom of the **Tags** filter.
 
-![](../../.gitbook/assets/6%20%2811%29.png)
+![](../../.gitbook/assets/6%20%2815%29.png)
 
 ### Undo search filters at top of page
 
@@ -87,13 +87,13 @@ Each time you click on a search filter the results page will refresh and the fil
   
 If a filter you chose turns out not to be helpful, remove it by clicking the **X** to the right of that filter's name at the top of the page. If you want to start your search from scratch click **Clear filters** to the right of the current filters.
 
-![](../../.gitbook/assets/7%20%2816%29.png)
+![](../../.gitbook/assets/7%20%2820%29.png)
 
 ### View archived content in search
 
 When you perform a search, if any archived content matches your search, an option will appear at the **top** of your search results to **Show \# archived content items**. Clicking this option will include the archived items in the search results, whether or not you have chosen to show archived items in your personal settings.
 
-![](../../.gitbook/assets/8%20%286%29.png)
+![](../../.gitbook/assets/8%20%287%29.png)
 
 For more information about archiving, see how to archive and delete a page.
 
@@ -102,7 +102,7 @@ For more information about archiving, see how to archive and delete a page.
 **Preview, download or open files from search results**  
 When you perform a search, you can preview files right from the search results to see if that is the file you are looking for. Click the down arrow to the right of the file title to open the File Editing Menu, and click Preview. The File Preview window will open, allowing you to navigate through the first few pages of the file, and view any comments that have been made on the file.
 
-![](../../.gitbook/assets/9%20%282%29.jpg)
+![](../../.gitbook/assets/9%20%285%29.jpg)
 
 You can also click the down arrow on the right of the file title, and then select from the File Editing Menu to download the file or open it for editing.
 

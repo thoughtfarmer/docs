@@ -4,7 +4,7 @@
 
 Groups are pages with special features for adding a list of members, sharing news and working together with colleagues. Your ThoughtFarmer intranet may include a group for each department and team within your company. A group could also be called a "team workspace" or a "community."
 
-![](../../../.gitbook/assets/1%20%2814%29.jpg)
+![](../../../.gitbook/assets/1%20%2817%29.jpg)
 
 
 

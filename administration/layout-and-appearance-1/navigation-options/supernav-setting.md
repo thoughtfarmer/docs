@@ -10,7 +10,7 @@ You may want to hide the default People, Groups or News pages that show by defau
   
 **Default pages showing in the SuperNav**
 
-![](../../../.gitbook/assets/1%20%28106%29.jpg)
+![](../../../.gitbook/assets/1%20%28112%29.jpg)
 
 
 
@@ -30,7 +30,7 @@ Some administrators may wish to hide the SuperNav \(Left Navigation Card\) from 
 
 1.Click on the **gear icon** on the right of the Main Navigation Bar.
 
-![](../../../.gitbook/assets/2%20%2881%29.jpg)
+![](../../../.gitbook/assets/2%20%2887%29.jpg)
 
 
 
@@ -40,7 +40,7 @@ Some administrators may wish to hide the SuperNav \(Left Navigation Card\) from 
 
 4.In the **Card setup window** that appears, find the **Left Navigation** **Card**.
 
-![](../../../.gitbook/assets/3%20%2822%29.jpg)
+![](../../../.gitbook/assets/3%20%2824%29.jpg)
 
 
 

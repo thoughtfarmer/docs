@@ -8,12 +8,12 @@ Common Cards that you might find on a profile page are News, Location, Bookmark 
   
 To configure the Cards on your profile page, **edit your profile** and click **Configure profile cards** in the top right.
 
-![](../../.gitbook/assets/1%20%281%29.jpg)
+![](../../.gitbook/assets/1%20%282%29.jpg)
 
 The **Update cards** pop-up window will appear.  
 
 
-![](../../.gitbook/assets/2%20%2860%29.jpg)
+![](../../.gitbook/assets/2%20%2863%29.jpg)
 
 
 
@@ -36,7 +36,7 @@ If your intranet administrator has added the Bookmark manager to the profile pag
 1. Select the checkbox to let other users see your Bookmarks.
 2. Deselect the checkbox to hide your Bookmarks from other users.
 
-![](../../.gitbook/assets/3%20%2831%29.jpg)
+![](../../.gitbook/assets/3%20%2834%29.jpg)
 
 
 

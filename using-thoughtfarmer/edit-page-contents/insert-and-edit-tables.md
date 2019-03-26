@@ -16,7 +16,7 @@ You can quickly insert a table and select the number of rows and columns \(up to
 
 2.Set the cursor where you want to insert the table, click the **Insert Table** button ![6.5User7958InsertTable.png](https://community.thoughtfarmer.com/imagethumb/2514070000/15907/1000x1000/False/6.5User7958InsertTable.png) and then in the grid that pops up select the number of columns and rows to start with. Your simple table will appear on the page. \(The **Insert Table** button looks like a tiny table or grid, with a green plus sign on it.\)
 
-![](../../.gitbook/assets/4%20%2830%29.png)
+![](../../.gitbook/assets/4%20%2837%29.png)
 
 
 
@@ -28,7 +28,7 @@ You can quickly insert a table and select the number of rows and columns \(up to
 
 When you first insert a table, the cells are sized so that the table fills the entire width of the rich text editor window. When you start typing in the table, the column widths will adjust based on the amount of text entered into each cell. You can adjust the column width manually by hovering over the right edge of a cell in the column you want to adjust. When your cursor turns into a double arrow \(adjust width symbol\), click and drag the cell edge to adjust the width.
 
-![](../../.gitbook/assets/5%20%2825%29.jpg)
+![](../../.gitbook/assets/5%20%2829%29.jpg)
 
 
 
@@ -100,7 +100,7 @@ You can enable sorting on a table to allow users to select which column to sort 
 
 If a table is the first thing you create when adding a new page, there is a special trick for adding text \(or images/links\) before or after a table. After creating the table, hover above or below the table, and a red dotted line will appear with an **enter key** icon \(or bent arrow\) on the right. Click on the **enter key** icon on the right to create a new paragraph above or below the table.
 
-![](../../.gitbook/assets/8%20%2810%29.png)
+![](../../.gitbook/assets/8%20%2815%29.png)
 
 **Strip formatting when pasting tables from outside sources**
 

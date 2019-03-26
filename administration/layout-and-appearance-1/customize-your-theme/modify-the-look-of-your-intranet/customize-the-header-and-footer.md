@@ -19,7 +19,7 @@ The footer is the informational area below all page content.
 * **Extend footer to edges of browser**: Selecting this checkbox will extend the footer to the edges of the browser regardless of the site width chosen under the Basics tab.
 * **Additional Options Available**: Background Color, Footer text color, Footer link color, Border width, Border Color
 
-![](../../../../.gitbook/assets/1%20%2843%29.png)
+![](../../../../.gitbook/assets/1%20%2850%29.png)
 
 
 

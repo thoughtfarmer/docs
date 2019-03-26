@@ -23,7 +23,7 @@ In a News Carousel, multiple sources are always merged to show newest items firs
 
 4.Choose the \# of items to display from the dropdown menu \(For each source, or in total, depending on the option you chose above.\)
 
-![](../../../../../.gitbook/assets/1%20%28127%29.jpg)
+![](../../../../../.gitbook/assets/1%20%28134%29.jpg)
 
 
 
@@ -43,7 +43,7 @@ This only applies if the option **Items grouped by source** is selected for the 
 
 3.Hover over a news source in the list. Drag and drop the news sources into the order you want them to display.
 
-![](../../../../../.gitbook/assets/2%20%2812%29.png)
+![](../../../../../.gitbook/assets/2%20%2815%29.png)
 
 
 

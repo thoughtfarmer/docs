@@ -5,7 +5,7 @@
 You can add a Location Card to make contact information and a map available on your homepage. If you have colleagues in disparate locations, a Location Card with HQ's information may be useful. Colleagues visiting from out of town can find their way to the main office by viewing the map on the homepage.  
 
 
-![](../../../../.gitbook/assets/1%20%2828%29.jpg)
+![](../../../../.gitbook/assets/1%20%2831%29.jpg)
 
 
 
@@ -13,11 +13,11 @@ You can add a Location Card to make contact information and a map available on y
 
 2.Find the **Location Card** and click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../../../.gitbook/assets/2%20%2850%29.png)
+![](../../../../.gitbook/assets/2%20%2855%29.png)
 
 3.In the **Location** pop-up window, enter the address and contact info you wish to display in the Location Card.
 
-![](../../../../.gitbook/assets/5%20%289%29.jpg)
+![](../../../../.gitbook/assets/5%20%2810%29.jpg)
 
 
 

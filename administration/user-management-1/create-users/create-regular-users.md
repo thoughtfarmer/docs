@@ -31,7 +31,7 @@ You must also ensure that Regular user creation has been enabled.
 
 2.In the **Account Type** section ensure that "Regular user" is selected.
 
-![](../../../.gitbook/assets/1%20%2855%29.png)
+![](../../../.gitbook/assets/1%20%2864%29.png)
 
 
 
@@ -39,12 +39,12 @@ You must also ensure that Regular user creation has been enabled.
 
 4.Enter the user's account information in the provided text fields \(First and last name are required at a minimum\).
 
-![](../../../.gitbook/assets/2%20%2814%29.png)
+![](../../../.gitbook/assets/2%20%2817%29.png)
 
 5.In the **Password** section select "Temporary Password".  
  
 
-![](../../../.gitbook/assets/3%20%2829%29.png)
+![](../../../.gitbook/assets/3%20%2831%29.png)
 
 
 
@@ -62,14 +62,14 @@ This option sends an invitation with a link allowing the user to login and set t
 
 2.In the **Account Type** section ensure that "Regular user" is selected.
 
-![](../../../.gitbook/assets/4%20%2829%29.png)
+![](../../../.gitbook/assets/4%20%2836%29.png)
 
 3.Enter the desired **username** in the provided text field.
 
 4.Enter the user's account information in the provided text fields \(First name, last name and email address are required\).  
  
 
-![](../../../.gitbook/assets/5%20%2813%29.png)
+![](../../../.gitbook/assets/5%20%2817%29.png)
 
 5.In the **Password** section select "Invite user".
 
@@ -101,7 +101,7 @@ You can also create Profile only users to make contact information available in 
 
 4.Enter the user's account information in the provided text fields \(First and last name are required at a minimum\).
 
-![](../../../.gitbook/assets/8%20%2815%29.png)
+![](../../../.gitbook/assets/8%20%2820%29.png)
 
 5.In the **Password** section select "No Password".
 

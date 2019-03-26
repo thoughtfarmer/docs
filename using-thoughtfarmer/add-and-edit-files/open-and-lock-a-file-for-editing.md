@@ -16,17 +16,17 @@ If you encounter problems in following the steps below, please contact your intr
 
 1.Navigate to the file that you want to open, and click on the **file title** to open the **File Editing Menu**.
 
-![](../../.gitbook/assets/1%20%2851%29.jpg)
+![](../../.gitbook/assets/1%20%2855%29.jpg)
 
 2.Click **Open for editing** in the menu that opens.
 
 3.Read the **Desktop Connector Tips!** pop-up window.
 
-![](../../.gitbook/assets/2%20%2873%29.jpg)
+![](../../.gitbook/assets/2%20%2878%29.jpg)
 
 4.Click **Install now** under the **Having trouble connecting?** heading. It may take a few moments for the Desktop Connector to download.
 
-![](../../.gitbook/assets/3%20%2852%29.jpg)
+![](../../.gitbook/assets/3%20%2857%29.jpg)
 
 
 
@@ -52,7 +52,7 @@ Once the Desktop Connector is installed on your computer, there are two ways to 
 
 2.Navigate to the **individual file page** and click the button **Open for editing** below the file title.
 
-![](../../.gitbook/assets/5%20%2817%29.jpg)
+![](../../.gitbook/assets/5%20%2821%29.jpg)
 
 
 
@@ -82,11 +82,11 @@ The final step in checking a file back in is to click **Done editing**, but firs
 
 4.Go to the Document Library where the file sits, click on the **file title** to open the **File Editing Menu**, and click **Done editing** in the menu that opens. **OR**
 
-![](../../.gitbook/assets/7%20%283%29.jpg)
+![](../../.gitbook/assets/7%20%284%29.jpg)
 
 5.Go to the individual file page and click once on **Done editing**.
 
-![](../../.gitbook/assets/aaa%20%281%29.jpg)
+![](../../.gitbook/assets/aaa%20%282%29.jpg)
 
   
 When you click **Done editing**, a notification will appear briefly that tells you that a new version of the file has been saved back to the intranet. It will show in the File Controls and on the individual file page that there is a new file version containing your edits.
@@ -96,7 +96,7 @@ When you click **Done editing**, a notification will appear briefly that tells y
 **Preview, download or open files from search results**  
 When you perform a search, you can preview files right from the search results to see if that is the file you are looking for. Click the down arrow to the right of the file title to open the File Editing Menu, and click Preview. The File Preview window will open, allowing you to navigate through the first few pages of the file, and view any comments that have been made on the file.
 
-![](../../.gitbook/assets/9%20%284%29.jpg)
+![](../../.gitbook/assets/9%20%287%29.jpg)
 
 You can also click the down arrow on the right of the file title, and then select from the File Editing Menu to download the file or open it for editing.
 

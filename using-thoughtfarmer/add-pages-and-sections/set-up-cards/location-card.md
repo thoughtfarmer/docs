@@ -4,7 +4,7 @@
 
 A Location Card on your group page is where you can add your group's physical address and contact info. You can even add a map showing your location in a few simple steps. Colleagues visiting from out of town can find their way to your office by viewing the map on the office group page.
 
-![](../../../.gitbook/assets/1%20%283%29.jpg)
+![](../../../.gitbook/assets/1%20%284%29.jpg)
 
 
 
@@ -15,11 +15,11 @@ A Location Card on your group page is where you can add your group's physical ad
   
 
 
-![](../../../.gitbook/assets/2%20%2851%29.jpg)
+![](../../../.gitbook/assets/2%20%2854%29.jpg)
 
 3.In the **Update cards** window, find the **Location** Card section and click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../../.gitbook/assets/3%20%2827%29.jpg)
+![](../../../.gitbook/assets/3%20%2830%29.jpg)
 
 4.In the **Location** pop-up window, enter the address and contact info you wish to display in the Location Card.
 
@@ -34,7 +34,7 @@ A Location Card on your group page is where you can add your group's physical ad
 3. Click and drag to move to the correct area on the map.
 4. Zoom in and out using a scroll wheel or the plus and minus buttons on the map.
 
-![](../../../.gitbook/assets/5%20%2815%29.jpg)
+![](../../../.gitbook/assets/5%20%2818%29.jpg)
 
 6.Click **Done** at the bottom of the **Location** pop-up window.
 

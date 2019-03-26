@@ -10,12 +10,12 @@ Need to manage a large number of files? Use folders to create a document library
 
 1.Click **New folder** above the files in the document library. The **Create folder** pop-up window will appear.
 
-![](../../.gitbook/assets/1%20%2830%29.jpg)
+![](../../.gitbook/assets/1%20%2834%29.jpg)
 
 2.Type the folder name in the **New folder** field.  
 
 
-![](../../.gitbook/assets/2%20%2883%29.jpg)
+![](../../.gitbook/assets/2%20%2889%29.jpg)
 
 
 
@@ -29,7 +29,7 @@ Add files from your computer directly into a folder on the intranet.
 
 1.Navigate to the page with the folder on it and click on the folder name to select/open it.
 
-![](../../.gitbook/assets/3%20%2834%29.jpg)
+![](../../.gitbook/assets/3%20%2837%29.jpg)
 
 
 
@@ -62,7 +62,7 @@ You can change the security settings for the page the folder lives on to control
 
 3.In the **Security** section on the right, click on **Security permissions**.
 
-![](../../.gitbook/assets/5%20%2816%29.jpg)
+![](../../.gitbook/assets/5%20%2820%29.jpg)
 
 
 
@@ -80,7 +80,7 @@ You can change the security settings for the page the folder lives on to control
 
 2.Click the **down arrow** on the far right of the file name to open the **File Controls**.
 
-![](../../.gitbook/assets/7%20%281%29.jpg)
+![](../../.gitbook/assets/7%20%282%29.jpg)
 
 3.Click **Rename folder**. \(Depending on the column width, the Rename folder action may be found be clicking the **...** menu.\) The **Rename folder** pop-up window will open.  
 
@@ -97,7 +97,7 @@ You can change the security settings for the page the folder lives on to control
 
 2.Click the **down arrow** on the far right of the file name to open the **File Controls**.
 
-![](../../.gitbook/assets/9%20%286%29.jpg)
+![](../../.gitbook/assets/9%20%289%29.jpg)
 
 3.Click **Delete**.
 

@@ -7,7 +7,7 @@ Administrators can make changes to templates on the **Administration panel: User
 Only users who have been granted special content type template permissions by the administrator are able to modify templates on individual pages. When a user has permission to do this, they will see a **Modify template** option at the top left of the template in the Update Cards window in Edit mode. Clicking **Modify template** allows the user to add and remove Cards from the page, and to reorder or change the column placement of Cards. To learn more, see[ How to modify templates](../../../using-thoughtfarmer/add-pages-and-sections/modify-templates.md).  
 
 
-![](../../../.gitbook/assets/2%20%286%29.jpg)
+![](../../../.gitbook/assets/2%20%287%29.jpg)
 
 ### Change template editing permissions
 
@@ -29,11 +29,11 @@ To control who has permission to customize templates for individual pages:
 Administrators can view which pages have had their templates modified. To do this, go to the page **Administration panel: User interface** section &gt; **Content type templates** page, and click on **In use** below a template to see a list of pages that use that template.  
 
 
-![](../../../.gitbook/assets/3%20%2818%29.jpg)
+![](../../../.gitbook/assets/3%20%2820%29.jpg)
 
 There are two tabs at the top of the list - Default and Modified. The Default tab shows pages that use the template as is. The Modified tab shows pages that have had the template modified on the individual page level.
 
-![](../../../.gitbook/assets/4%20%2835%29.jpg)
+![](../../../.gitbook/assets/4%20%2838%29.jpg)
 
 
 

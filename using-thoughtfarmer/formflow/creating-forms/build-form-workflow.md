@@ -6,11 +6,11 @@ As a user, it can be challenging when you submit a form and you don’t get any 
 
 1. In the form builder, click on the **Workflow** tab.  
 
-![](../../../.gitbook/assets/1%20%2848%29.png)
+![](../../../.gitbook/assets/1%20%2856%29.png)
 
 2.There must be at least one status for the form, the Initial status. By default this status is set to Submitted, but you can change this by replacing the text with whatever you want.
 
-![](../../../.gitbook/assets/2%20%2848%29.png)
+![](../../../.gitbook/assets/2%20%2853%29.png)
 
 
 
@@ -18,11 +18,11 @@ As a user, it can be challenging when you submit a form and you don’t get any 
 
 4.To add In Progress updates, click on the + **Add** button.
 
-![](../../../.gitbook/assets/4%20%2840%29.png)
+![](../../../.gitbook/assets/4%20%2847%29.png)
 
 5.Add whatever text you want the user to see in the content box. You can add as many In Progress status updates as you need, you are not limited to just one. For example, you could create In Progress updates for when the form is Received, Under review, and Sent for management approval.
 
-![](../../../.gitbook/assets/5%20%287%29.png)
+![](../../../.gitbook/assets/5%20%2811%29.png)
 
 
 
@@ -30,7 +30,7 @@ As a user, it can be challenging when you submit a form and you don’t get any 
 
 7.Add Final statuses by clicking the +**Add** button.
 
-![](../../../.gitbook/assets/6%20%2817%29.png)
+![](../../../.gitbook/assets/6%20%2821%29.png)
 
 8.Just like the In Progress states, you can add multiple statuses if you want to. For example, you could have statuses to indicate: Approved, Denied, , etc.
 

@@ -12,7 +12,7 @@ In order to make an in-page link, a user must first create a link target - in ot
 
 2.Click the **Create a link target ID** button ![8.5User17615LinkTargetIcon.jpg](https://community.thoughtfarmer.com/imagethumb/132126130000/16363/43x38/False/8.5User17615LinkTargetIcon.jpg) \(it looks like a crosshairs icon\) to the right of the Insert Link/Unlink icons. The **Create a link target ID** pop-up window will appear.
 
-![](../../../.gitbook/assets/1%20%286%29.jpg)
+![](../../../.gitbook/assets/1%20%288%29.jpg)
 
 
 
@@ -21,7 +21,7 @@ In order to make an in-page link, a user must first create a link target - in ot
 4.A target symbol will appear on the left of the line where you created the target.  
 
 
-![](../../../.gitbook/assets/2%20%2858%29.jpg)
+![](../../../.gitbook/assets/2%20%2861%29.jpg)
 
 
 
@@ -37,7 +37,7 @@ i.Example: "If you have questions, please email ThoughtFarmer."
 
 3.In the pop-up window, click on the **In-page content link** tab. Click in the **Target ID** box and select your link target from the dropdown menu.
 
-![](../../../.gitbook/assets/3%20%2865%29.jpg)
+![](../../../.gitbook/assets/3%20%2870%29.jpg)
 
 
 

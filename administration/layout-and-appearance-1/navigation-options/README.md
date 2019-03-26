@@ -12,7 +12,7 @@ Intranet administrators have several options for the navigation links that they 
 
 **Application Toolbar**
 
-![](../../../.gitbook/assets/1%20%2849%29.png)
+![](../../../.gitbook/assets/1%20%2857%29.png)
 
 **Main Navigation Bar**
 
@@ -20,7 +20,7 @@ Intranet administrators have several options for the navigation links that they 
 
 **SuperNav**
 
-![](../../../.gitbook/assets/aaa%20%282%29.jpg)
+![](../../../.gitbook/assets/aaa%20%283%29.jpg)
 
 
 

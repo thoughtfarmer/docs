@@ -6,7 +6,7 @@ The Rich Text Editor \(RTE\) is the content box you use to edit the contents of 
   
 The rich text editor is also known as a **WYSIWYG** editor \(what you see is what you get\). WYSIWYG editors were created and named early in the life of the internet, when the only way to create a web page was to write HTML code directly. The introduction of WYSIWYG editors allowed you to write the content of web pages in a normal way without needing to be a web nerd.
 
-![](../../.gitbook/assets/1%20%2839%29.png)
+![](../../.gitbook/assets/1%20%2846%29.png)
 
 ### "Rich text" means it's formatted with bold, etc.
 
@@ -25,7 +25,7 @@ You can switch the Rich Text Editor to full screen mode by clicking the **Maximi
 
 ### Spell check
 
-![](../../.gitbook/assets/3%20%2830%29.png)
+![](../../.gitbook/assets/3%20%2832%29.png)
 
 There are two ways to check your spelling in the Rich Text Editor, depending on the settings your intranet administrator has chosen. How you spell check depends on whether you see the spell check icon or not.  
   

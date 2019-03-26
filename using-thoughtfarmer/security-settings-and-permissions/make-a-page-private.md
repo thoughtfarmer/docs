@@ -6,7 +6,7 @@ Use these instructions to make a page completely private. You must have View & e
   
 Do be aware that your intranet administrator has special powers, and so is able to view private pages. So don't put anything on a private page that you wouldn't want your intranet administrator to see!
 
-![](../../.gitbook/assets/1%20%285%29.jpg)
+![](../../.gitbook/assets/1%20%287%29.jpg)
 
 
 
@@ -20,7 +20,7 @@ When you view one of your private pages, a **Private** label appears across the 
 
 3.Select the **Private** checkbox just below the Publish button. \(The Publish button will become a Save button when you select the Private checkbox.\)
 
-![](../../.gitbook/assets/2%20%287%29.jpg)
+![](../../.gitbook/assets/2%20%288%29.jpg)
 
 4.Continue editing or click **Save**.
 
@@ -34,7 +34,7 @@ If you have already made a page private, follow these instructions to make it pu
 
 2.Uncheck the **Private** checkbox just below the **Save** button. \(The Save button becomes the Publish button when you uncheck the Private box.\)
 
-![](../../.gitbook/assets/3%20%2816%29.jpg)
+![](../../.gitbook/assets/3%20%2818%29.jpg)
 
 
 
@@ -46,7 +46,7 @@ If you add a subpage to a private page, it will automatically be private because
   
 If a page is private because it inherited the private status of it's parent page, it will automatically become public if moved under a public parent page. In edit mode, it is indicated when a page is private because it is inheriting its private status from its parent page. You will see a note indicating this under the Save button.
 
-![](../../.gitbook/assets/4%20%2848%29.jpg)
+![](../../.gitbook/assets/4%20%2852%29.jpg)
 
 If a page is private because it was specifically set to private, then it will remain private even if moved under a public parent page. A page specifically set to private will not have the note in the image above.
 
