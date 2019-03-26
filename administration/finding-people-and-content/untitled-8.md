@@ -13,12 +13,12 @@ To refine the report, click on the **start or end date** and select the date you
 You can sort the results by Count, or Alphabetical \(A-Z or Z-A\). Click on the sort type beside **Sort by** at the top right of the results and click on the **sort type** you want to sort the results.  
 
 
-![](../../.gitbook/assets/3%20%2842%29.jpg)
+![](../../.gitbook/assets/3%20%2843%29.jpg)
 
 ### Count definition
 
 Click the information bubble beside **Count** to refresh your memory on the meaning of **Search term count** versus **Page count**, as explained in the window that will appear:  
 
 
-![](../../.gitbook/assets/4%20%2813%29.jpg)
+![](../../.gitbook/assets/4%20%2814%29.jpg)
 

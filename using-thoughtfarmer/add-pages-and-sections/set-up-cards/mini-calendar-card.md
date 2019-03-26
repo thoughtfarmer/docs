@@ -20,7 +20,7 @@ A Mini Calendar Card gives people an easy way of referencing past, present and f
 
 4.In the **Mini Calendar** pop-up window, start typing the name of the calendar you want to add in the **Add calendar** box.
 
-![](../../../.gitbook/assets/4%20%2837%29.jpg)
+![](../../../.gitbook/assets/4%20%2838%29.jpg)
 
 
 

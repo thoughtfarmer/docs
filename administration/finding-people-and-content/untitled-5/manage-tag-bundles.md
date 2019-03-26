@@ -4,7 +4,7 @@
 
 Tag bundles provide logical groupings for your tags. They allow users to quickly find and apply tags to content, which improves overall searchability. On this page you will learn how to add, localize and delete tag bundles.
 
-![](../../../.gitbook/assets/1%20%2898%29.png)
+![](../../../.gitbook/assets/1%20%28102%29.png)
 
 
 
@@ -23,7 +23,7 @@ All tag bundles can be localized to show the user's preferred language. You can 
 
 4.In the **Add Bundle** pop-up window, click in the text box, and type the name of the new bundle.
 
-![](../../../.gitbook/assets/3%20%2838%29.png)
+![](../../../.gitbook/assets/3%20%2839%29.png)
 
 
 

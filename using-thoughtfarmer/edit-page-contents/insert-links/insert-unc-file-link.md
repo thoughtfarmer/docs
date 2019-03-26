@@ -18,7 +18,7 @@ The link must be in the following format: [file://servername/foldername/file.txt
 
 2.Click on the **Insert link** button in the Rich Text Editor.
 
-![](../../../.gitbook/assets/1%20%28130%29.jpg)
+![](../../../.gitbook/assets/1%20%28131%29.jpg)
 
 3.The **Insert link** pop-up window will open. Click on the **External location** tab on the left.
 

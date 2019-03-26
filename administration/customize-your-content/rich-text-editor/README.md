@@ -4,7 +4,7 @@
 
 ThoughtFarmer uses the [CKEditor](http://ckeditor.com/) Rich Text Editor. Content can be added in the regular WYSIWYG design portion or as HTML. This section discusses the ThoughtFarmer supported features of the CKEditor and its custom extensions.
 
-![](../../../.gitbook/assets/1%20%28112%29.png)
+![](../../../.gitbook/assets/1%20%28116%29.png)
 
 
 

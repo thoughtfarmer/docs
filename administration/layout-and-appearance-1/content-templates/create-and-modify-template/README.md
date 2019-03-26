@@ -72,13 +72,13 @@ On the **Content type templates** admin page, you can view which pages are using
   
 On the **Content type templates** page, click on **In use** below a template to view which pages are using that template. A search results type page will appear displaying all the titles of the pages using that template.
 
-![](../../../../.gitbook/assets/2%20%2890%29.jpg)
+![](../../../../.gitbook/assets/2%20%2891%29.jpg)
 
   
   
 Tabs at the top split the list into pages that are using the Default template and pages that have Modified that template. Click on the tabs to view the corresponding list.
 
-![](../../../../.gitbook/assets/3%20%2861%29.jpg)
+![](../../../../.gitbook/assets/3%20%2862%29.jpg)
 
   
 You can use the search box or filters on the left to narrow down the results by search term, page editor, page owner, posted date, tag or page status. You can also sort the list of pages by Title or Date. Click on a page title to view that page.

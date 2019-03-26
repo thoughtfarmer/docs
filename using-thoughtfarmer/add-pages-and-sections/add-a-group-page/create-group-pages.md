@@ -18,7 +18,7 @@ Use these instructions to set up a group page where team members can share infor
 8. \(optional\) Set up other cards that are available on the template you choose. \(To learn more, see [How to set up cards on a page](../set-up-cards/)\).
 9. Continue editing or click **Publish** at the top of the page.  
 
-![](../../../.gitbook/assets/1%20%28114%29.jpg)
+![](../../../.gitbook/assets/1%20%28115%29.jpg)
 
 ### Difference between "Open" & "Managed" membership
 
@@ -54,7 +54,7 @@ A Location Card on your group page is where you can add your group's physical ad
 
 3.Find the **Location** Card section and click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../../.gitbook/assets/3%20%2863%29.png)
+![](../../../.gitbook/assets/3%20%2866%29.png)
 
 
 
@@ -67,7 +67,7 @@ A Location Card on your group page is where you can add your group's physical ad
 3. **Click and drag** to move to the correct area on the map,
 4. **Zoom in and out** using a scroll wheel or the plus and minus buttons on the map.​
 
-![](../../../.gitbook/assets/4%20%285%29.jpg)
+![](../../../.gitbook/assets/4%20%286%29.jpg)
 
 
 

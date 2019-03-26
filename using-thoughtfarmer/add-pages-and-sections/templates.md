@@ -4,7 +4,7 @@
 
 A template is a selected layout and arrangement of Cards that is available for a particular content type. \(To learn more about Cards, see the pages [Overview of Cards](../basic-features/cards.md) and [How to set up Cards](set-up-cards/).\) It determines the options available to you when you create a certain content type. A template is made up of Cards that are universal to all pages, such as the Left Navigation Card and Page Header Card, and Cards that are useful to particular page types, such as the Group Members Card and Forum statistics Card.
 
-![](../../.gitbook/assets/1%20%2874%29.jpg)
+![](../../.gitbook/assets/1%20%2875%29.jpg)
 
 
 

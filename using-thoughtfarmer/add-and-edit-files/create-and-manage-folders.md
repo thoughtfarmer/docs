@@ -10,12 +10,12 @@ Need to manage a large number of files? Use folders to create a document library
 
 1.Click **New folder** above the files in the document library. The **Create folder** pop-up window will appear.
 
-![](../../.gitbook/assets/1%20%2834%29.jpg)
+![](../../.gitbook/assets/1%20%2835%29.jpg)
 
 2.Type the folder name in the **New folder** field.  
 
 
-![](../../.gitbook/assets/2%20%2889%29.jpg)
+![](../../.gitbook/assets/2%20%2890%29.jpg)
 
 
 
@@ -29,7 +29,7 @@ Add files from your computer directly into a folder on the intranet.
 
 1.Navigate to the page with the folder on it and click on the folder name to select/open it.
 
-![](../../.gitbook/assets/3%20%2837%29.jpg)
+![](../../.gitbook/assets/3%20%2838%29.jpg)
 
 
 
@@ -58,7 +58,7 @@ You can change the security settings for the page the folder lives on to control
 2.Click the **edit icon** \(a pencil\) to the right of the folder title to open the folder editing page.  
 
 
-![](../../.gitbook/assets/4%20%2810%29.jpg)
+![](../../.gitbook/assets/4%20%2811%29.jpg)
 
 3.In the **Security** section on the right, click on **Security permissions**.
 

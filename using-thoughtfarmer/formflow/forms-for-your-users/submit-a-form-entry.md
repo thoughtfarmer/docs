@@ -14,7 +14,7 @@ Whenever you fill out a form in FormFlow, your response is called a Form Entry. 
 
 1. Click on your name in the top navigation and select Forms from the drop down menu. 
 
-![](../../../.gitbook/assets/1%20%2881%29.png)
+![](../../../.gitbook/assets/1%20%2884%29.png)
 
 
 
@@ -22,7 +22,7 @@ Whenever you fill out a form in FormFlow, your response is called a Form Entry. 
 
      3.Click on **Start Request**.
 
-![](../../../.gitbook/assets/1%20%2820%29.png)
+![](../../../.gitbook/assets/1%20%2821%29.png)
 
 
 

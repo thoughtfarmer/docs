@@ -12,7 +12,7 @@ While using your fantastic intranet in the course of your work day, you may want
   
 
 
-![](../../.gitbook/assets/1%20%28102%29.jpg)
+![](../../.gitbook/assets/1%20%28103%29.jpg)
 
 
 
@@ -22,7 +22,7 @@ While using your fantastic intranet in the course of your work day, you may want
 
 Depending on the settings on your intranet, the search results may appear on their own in your browser window, or within the framework of your intranet \(with the Application Toolbar, intranet name and Main Navigation Bar still at the top\). If the external search results show within the framework of your intranet, you can easily find what you're looking for on the web, and then navigate back to intranet pages by clicking on the Application Toolbar or main navigation bar.
 
-![](../../.gitbook/assets/2%20%2873%29.jpg)
+![](../../.gitbook/assets/2%20%2874%29.jpg)
 
   
 If you want to view the external website without the intranet framework at the top, click **View full site** on the right just below the Main Navigation Bar.  

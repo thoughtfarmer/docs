@@ -5,7 +5,7 @@
 Use these instructions to edit the text and graphics on pages and control page versions. You can easily insert hyperlinks, images, video and other multimedia from the web, delete pages, and view a page's version history.  
 
 
-![](../../.gitbook/assets/1%20%2871%29.png)
+![](../../.gitbook/assets/1%20%2873%29.png)
 
 Editing a ThoughtFarmer page is like editing a Microsoft Word document. You can format text using headings, font sizes, bullets and numbering. It's easy to insert an image in a page or embed a video or other content from another website. You can also create simple tables on a page. Every time someone edits and saves a page, your ThoughtFarmer intranet creates a new version of the page so you can see exactly what changes were made.
 
@@ -14,7 +14,7 @@ Editing a ThoughtFarmer page is like editing a Microsoft Word document. You can 
 The first time you add or edit a page, a tour prompt will appear giving you a quick introduction to the different parts of the edit page. The Edit page tour can be accessed at any time in edit mode by turning the **Tour toggle** above the page header ON and clicking the circles that indicate areas described on the tour.  
 
 
-![](../../.gitbook/assets/2%20%2819%29.png)
+![](../../.gitbook/assets/2%20%2820%29.png)
 
 ### Only one person can edit a page at a time
 

@@ -12,7 +12,7 @@ Whenever you search your intranet you'll see five different search filters on th
   
 
 
-![](../../.gitbook/assets/1%20%2883%29.png)
+![](../../.gitbook/assets/1%20%2886%29.png)
 
 **Options**:
 
@@ -22,7 +22,7 @@ Use the **Type** filter if you know the format of the content you seek. For inst
 
 **Filter 2: Edited By**
 
-![](../../.gitbook/assets/2%20%2826%29.png)
+![](../../.gitbook/assets/2%20%2828%29.png)
 
 **Options**:
 

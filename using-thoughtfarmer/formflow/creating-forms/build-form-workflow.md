@@ -6,11 +6,11 @@ As a user, it can be challenging when you submit a form and you don’t get any 
 
 1. In the form builder, click on the **Workflow** tab.  
 
-![](../../../.gitbook/assets/1%20%2856%29.png)
+![](../../../.gitbook/assets/1%20%2858%29.png)
 
 2.There must be at least one status for the form, the Initial status. By default this status is set to Submitted, but you can change this by replacing the text with whatever you want.
 
-![](../../../.gitbook/assets/2%20%2853%29.png)
+![](../../../.gitbook/assets/2%20%2855%29.png)
 
 
 

@@ -8,7 +8,7 @@ A template is a selected layout and arrangement of Cards for a particular conten
   
 **Example of a template:**
 
-![](../../../.gitbook/assets/1%20%2872%29.jpg)
+![](../../../.gitbook/assets/1%20%2873%29.jpg)
 
   
 Each page type in ThoughtFarmer comes with one or more default templates. Templates can be viewed, created and modified on the **Administration panel: User interface** section &gt; **Content type templates** page. Administrators can make changes to the default templates, which are reflected when a user selects that content type and template when creating or editing a page.  

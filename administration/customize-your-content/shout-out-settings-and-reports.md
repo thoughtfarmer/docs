@@ -10,7 +10,7 @@ In order for Shout-outs to be enabled, Updates must be enabled. To turn Shout-ou
   
 When Updates are turned ON, the Updates tab and Share an Update field are displayed in the Homepage Activity Card, Group page Activity Cards and Profile page Activity Cards. When Shout-outs are turned ON, the Shout-outs tab and Send a Shout-out field are displayed in the Homepage Activity Card, Group page Activity Cards, and Profile page Activity Cards.
 
-![](../../.gitbook/assets/1%20%2812%29.png)
+![](../../.gitbook/assets/1%20%2813%29.png)
 
 #### **Allow Shout-outs to Everyone and to specific Groups**
 
@@ -24,7 +24,7 @@ Both options can be removed from the **Who Should See This?** dropdown by desele
 
 The Shout-outs icon displays when you are creating a Shout-out, and on Shout-outs showing in activity streams. There are a number of different icons that can be selected as the Shout-outs icon.
 
-![](../../.gitbook/assets/3%20%2816%29.jpg)
+![](../../.gitbook/assets/3%20%2817%29.jpg)
 
 Click on the **current Shout-out icon** to open a **menu** of icons, and click on the icon you want to use.
 

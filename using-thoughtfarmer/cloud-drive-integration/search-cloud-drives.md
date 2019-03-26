@@ -6,7 +6,7 @@ Cloud drive integration on your ThoughtFarmer intranet allows you to search for 
 
 When searching from the main search box, ThoughtFarmer will automatically search the intranet and any integrated cloud drives when you briefly pause typing. Search results show up in a dropdown menu and you can navigate to results without having to go to the search results page itself.
 
-![](../../.gitbook/assets/1%20%2891%29.png)
+![](../../.gitbook/assets/1%20%2895%29.png)
 
 Intranet search results will show at the top of the search results dropdown, and cloud drive search results will show below them under a different heading. The default number of cloud drive results that will display is 5, but your intranet administrator may have changed it to display a different number of results.  
   
@@ -20,7 +20,7 @@ On the main search results page, cloud drive search results can be viewed in row
   
 **Cloud drive results in line with intranet search results**
 
-![](../../.gitbook/assets/2%20%2832%29.png)
+![](../../.gitbook/assets/2%20%2834%29.png)
 
 **Search results from the intranet and cloud drives can be viewed in separate tabs**
 

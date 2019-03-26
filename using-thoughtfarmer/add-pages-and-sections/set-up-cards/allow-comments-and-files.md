@@ -12,7 +12,7 @@ When you allow comments, the **Leave a comment?** box will appear on the page wi
   
 
 
-![](../../../.gitbook/assets/1%20%28109%29.png)
+![](../../../.gitbook/assets/1%20%28113%29.png)
 
 
 
@@ -21,7 +21,7 @@ When you allow comments, the **Leave a comment?** box will appear on the page wi
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** pop-up window will open.  
 
 
-![](../../../.gitbook/assets/2%20%2875%29.png)
+![](../../../.gitbook/assets/2%20%2878%29.png)
 
 
 
@@ -33,7 +33,7 @@ a.Check the box to allow comments,
 
 b.Uncheck the box to disallow comment.
 
-![](../../../.gitbook/assets/1%20%2840%29.jpg)
+![](../../../.gitbook/assets/1%20%2841%29.jpg)
 
 5.Click **Done** at the bottom of the **Update cards** window.
 
@@ -54,7 +54,7 @@ When you allow files, the **Add file icon** will appear on the page
 
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** pop-up window will open.
 
-![](../../../.gitbook/assets/2%20%2823%29.png)
+![](../../../.gitbook/assets/2%20%2825%29.png)
 
 
 
@@ -65,7 +65,7 @@ When you allow files, the **Add file icon** will appear on the page
 1. Check the box to allow files,
 2. Uncheck the box to disallow files.
 
-![](../../../.gitbook/assets/3%20%2827%29.jpg)
+![](../../../.gitbook/assets/3%20%2828%29.jpg)
 
 
 

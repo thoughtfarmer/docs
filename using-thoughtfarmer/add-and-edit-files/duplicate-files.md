@@ -30,7 +30,7 @@ When you duplicate a file, the file content, file summary, tags, settings, and m
 
 6.Edit the **file name** as desired. \(The file name is used when you download the file or have it open for editing on your computer. You may wish to change the file name so as not to get it confused with the original.\)
 
-![](../../.gitbook/assets/4%20%2848%29.jpg)
+![](../../.gitbook/assets/4%20%2849%29.jpg)
 
 
 

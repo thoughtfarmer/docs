@@ -10,7 +10,7 @@
 
 4.Select the level of formatting you want to keep from the three options available \(full formatting, basic formatting, text only\).
 
-![](../../.gitbook/assets/1%20%2860%29.png)
+![](../../.gitbook/assets/1%20%2862%29.png)
 
 5.Click the **Browse** button to locate the file on your computer. 
 

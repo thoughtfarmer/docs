@@ -19,7 +19,7 @@ In the News Card setup you can customize the way the posts display, including wh
 
 3.In the **Card setup** window, find the **News: List/Grid View** Card section. You may find a News Card in the left, middle, or right column. Click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../.gitbook/assets/2%20%2888%29.jpg)
+![](../../.gitbook/assets/2%20%2889%29.jpg)
 
 
 
@@ -31,7 +31,7 @@ ii.For external content: Copy the feed RSS URL from the external website, paste 
 
 5.Under the **Display style** heading, select the radio button for the **Grid**, **List**, or **List - no images** style. \(To learn more about display styles, see [News display options.\)](new-display-options.md)
 
-![](../../.gitbook/assets/3%20%2839%29.jpg)
+![](../../.gitbook/assets/3%20%2840%29.jpg)
 
 
 
@@ -73,7 +73,7 @@ Adding content to a group page with a News Card is just like adding a News Card 
 
 4.In the News setup window, click the **X** to the right of any Sources you want to remove from the News Card.
 
-![](../../.gitbook/assets/4%20%288%29.jpg)
+![](../../.gitbook/assets/4%20%289%29.jpg)
 
 
 

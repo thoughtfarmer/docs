@@ -10,13 +10,13 @@ Every ThoughtFarmer homepage is unique, depending on how your organization has s
 
 ### Application Toolbar
 
-![](../../.gitbook/assets/1%20%2875%29.png)
+![](../../.gitbook/assets/1%20%2877%29.png)
 
 The Application Toolbar is the bar at the very top of your homepage, and it stays at the top no matter what intranet page you are viewing. The menus and links in the Toolbar are really useful in navigating the intranet - you'll find pages that you've bookmarked, pages you've visited recently, a list of your group pages, Alerts to activity on pages you follow, Search, links to your profile and more. [Learn more about the Application Toolbar](application-toolbar.md).
 
 ### Main Navigation Bar
 
-![](../../.gitbook/assets/2%20%2894%29.png)
+![](../../.gitbook/assets/2%20%2898%29.png)
 
 The Main Navigation Bar extends across the page just below your intranet name or logo. It contains links to some of the top level pages on your intranet - those main pages that you start out on when delving into intranet content. You'll likely find a link to your Employee Directory in the main navigation bar, and some intranets have a link to a Group Directory as well. Depending on the settings on your intranet, the Main Navigation Bar may also have links to your homepage and profile page.
 
@@ -28,7 +28,7 @@ The Main Navigation Bar shows on tablets, but is not displayed on smartphones. O
 
 On the homepage, the Left Navigation Card is a simple treeview navigation that you can use to navigate through your intranet. Some organizations choose to hide the Left Navigation Card from the homepage when viewed on a desktop computer. When you navigate to other pages, the Left Hand Nav becomes the SuperNav, capable of much more than a simple treeview navigation! \([Learn more about the SuperNav](../search/use-the-supernav.md).\)
 
-![](../../.gitbook/assets/3%20%2849%29.jpg)
+![](../../.gitbook/assets/3%20%2850%29.jpg)
 
 **Mobile devices**
 
@@ -38,7 +38,7 @@ Depending on the size and orientation of tablets, the Left Navigation Card may d
 
 Included in the Recent News are both news stories targeted at all employees and personalized news stories just for you. The personalized stories are fed by the group pages you are a member of. Click on the News posts to read the whole story and keep current with what's happening in your organization. \([Learn more about News features](news.md).\)
 
-![](../../.gitbook/assets/4%20%287%29.jpg)
+![](../../.gitbook/assets/4%20%288%29.jpg)
 
 ### Activity
 

@@ -14,7 +14,7 @@ The form creator specifies the number of columns and applies form elements and c
 
 ![](../../../.gitbook/assets/2%20%2810%29.png)
 
-![](../../../.gitbook/assets/3%20%2816%29.png)
+![](../../../.gitbook/assets/3%20%2817%29.png)
 
 
 

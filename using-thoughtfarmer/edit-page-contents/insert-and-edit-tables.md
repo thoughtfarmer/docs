@@ -28,7 +28,7 @@ You can quickly insert a table and select the number of rows and columns \(up to
 
 When you first insert a table, the cells are sized so that the table fills the entire width of the rich text editor window. When you start typing in the table, the column widths will adjust based on the amount of text entered into each cell. You can adjust the column width manually by hovering over the right edge of a cell in the column you want to adjust. When your cursor turns into a double arrow \(adjust width symbol\), click and drag the cell edge to adjust the width.
 
-![](../../.gitbook/assets/5%20%2829%29.jpg)
+![](../../.gitbook/assets/5%20%2830%29.jpg)
 
 
 

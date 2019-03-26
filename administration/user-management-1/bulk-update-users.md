@@ -14,11 +14,11 @@ In order to update user information in bulk, you must export the existing user i
 
 3.Click **Bulk export filtered users** in the top right.
 
-![](../../.gitbook/assets/2%20%2864%29.png)
+![](../../.gitbook/assets/2%20%2866%29.png)
 
 4.Open the file and make edits to the user information in Excel. You can switch to the Security Groups Excel sheet to view user membership in security groups, however this sheet is read-only - you cannot make changes to the security group membership via this sheet.
 
-![](../../.gitbook/assets/3%20%2814%29.png)
+![](../../.gitbook/assets/3%20%2815%29.png)
 
 
 

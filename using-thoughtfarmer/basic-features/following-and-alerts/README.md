@@ -15,7 +15,7 @@ You can keep up-to-date with a News, Blog or Forum page by following it, as you 
 1. Go to the page you want to follow.
 2. Click the **Follow** icon \(a flag\) in the Page Sharing Buttons in the page header.
 
-![](../../../.gitbook/assets/1%20%2826%29.png)
+![](../../../.gitbook/assets/1%20%2827%29.png)
 
 You can follow a file by performing the above steps on the individual file page, **OR** you can go to the page a file or folder is attached to, click the down arrow on the far right of the file or folder, and click on the **Follow** icon \(a flag\) in the File Controls that open.  
   
@@ -25,7 +25,7 @@ You can have certain actions result in your automatically following a page, such
 
 To view your new notifications, click on the **Alerts** menu in the Application Toolbar. Each notification tells you which page changed, what kind of change was made, when, and by whom. You can click on the notification to visit that page.
 
-![](../../../.gitbook/assets/2%20%2827%29.png)
+![](../../../.gitbook/assets/2%20%2829%29.png)
 
 
 
@@ -55,7 +55,7 @@ You can unfollow a file by performing the above steps on the individual file pag
 2.At the bottom of the Notifications tab, click **Following list**.  
 
 
-![](../../../.gitbook/assets/3%20%2848%29.png)
+![](../../../.gitbook/assets/3%20%2850%29.png)
 
 
 

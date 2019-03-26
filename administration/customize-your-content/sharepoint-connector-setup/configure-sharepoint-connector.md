@@ -10,7 +10,7 @@ There are 4 main sections to the configuration page:
 
 #### **1.** SharePoint Connector features
 
-![](../../../.gitbook/assets/2%20%2868%29.jpg)
+![](../../../.gitbook/assets/2%20%2869%29.jpg)
 
 Select the checkbox beside the desired feature\(s\) and click **Save changes** in order to make it available from within ThoughtFarmer:
 
@@ -23,7 +23,7 @@ Select the checkbox beside the desired feature\(s\) and click **Save changes** i
 
 #### **2.** SharePoint servers
 
-![](../../../.gitbook/assets/3%20%2829%29.jpg)
+![](../../../.gitbook/assets/3%20%2830%29.jpg)
 
 For each SharePoint server you wish to connect to ThoughtFarmer you need to add the required information to the SharePoint Servers section. You will need:
 
@@ -40,7 +40,7 @@ For each SharePoint server you wish to connect to ThoughtFarmer you need to add 
 
 Once the SharePoint Servers have been added you can the click the Verify button in the Verify configuration section of the screen. This will test the connections to each of the configured Integration Service URLs. If there are any problems an error message will be displayed to you along side the server that failed. Successful connections will show with a green checkmark.
 
-![](../../../.gitbook/assets/4%20%2851%29.jpg)
+![](../../../.gitbook/assets/4%20%2852%29.jpg)
 
 #### **4.** Available sites
 

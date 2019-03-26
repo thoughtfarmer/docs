@@ -37,7 +37,7 @@ i.Example: "If you have questions, please email ThoughtFarmer."
 
 3.In the pop-up window, click on the **In-page content link** tab. Click in the **Target ID** box and select your link target from the dropdown menu.
 
-![](../../../.gitbook/assets/3%20%2870%29.jpg)
+![](../../../.gitbook/assets/3%20%2871%29.jpg)
 
 
 

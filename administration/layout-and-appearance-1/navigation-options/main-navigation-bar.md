@@ -2,7 +2,7 @@
 
 ### What is the Main Navigation Bar?
 
-![](../../../.gitbook/assets/1%20%28127%29.jpg)
+![](../../../.gitbook/assets/1%20%28128%29.jpg)
 
 
 

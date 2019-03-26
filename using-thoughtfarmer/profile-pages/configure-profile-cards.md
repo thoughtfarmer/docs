@@ -36,7 +36,7 @@ If your intranet administrator has added the Bookmark manager to the profile pag
 1. Select the checkbox to let other users see your Bookmarks.
 2. Deselect the checkbox to hide your Bookmarks from other users.
 
-![](../../.gitbook/assets/3%20%2834%29.jpg)
+![](../../.gitbook/assets/3%20%2835%29.jpg)
 
 
 

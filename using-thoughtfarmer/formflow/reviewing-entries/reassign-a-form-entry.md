@@ -8,7 +8,7 @@ In each stage of a submitted form entry’s workflow, it will be “Assigned” 
 
 1.Locate the form entry you want to reassign on the Entries page. 
 
-![](../../../.gitbook/assets/1%20%2892%29.png)
+![](../../../.gitbook/assets/1%20%2896%29.png)
 
 
 
@@ -18,7 +18,7 @@ In each stage of a submitted form entry’s workflow, it will be “Assigned” 
 
 4.On the top right of the page you’ll see an “Assigned to” dropdown. Click on the dropdown to reveal a list of all of the reviewers for that particular form.
 
-![](../../../.gitbook/assets/2%20%2866%29.png)
+![](../../../.gitbook/assets/2%20%2868%29.png)
 
 5.Select the reviewer you want to reassign the entry to, and click **Save**.
 

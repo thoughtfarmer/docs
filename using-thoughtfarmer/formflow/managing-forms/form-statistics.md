@@ -4,9 +4,9 @@ Once your form begins to receive entries, FormFlow automatically begins to colle
 
 Find the form on the Forms Overview page.In the form description box, you’ll notice a small chart icon beside the ellipses menu. This is the statistics icon and you can click on it to view the statistics.
 
-![](../../../.gitbook/assets/1%20%284%29.png)
+![](../../../.gitbook/assets/1%20%285%29.png)
 
-![](../../../.gitbook/assets/2%20%2872%29.png)
+![](../../../.gitbook/assets/2%20%2874%29.png)
 
 
 

@@ -12,7 +12,7 @@ File listings show a file type icon, file title and down arrow on the right. Dep
 
 1. Click **Add file**. This brings up the **Add file** pop-up window.
 
-![](../../.gitbook/assets/1%20%2837%29.jpg)
+![](../../.gitbook/assets/1%20%2838%29.jpg)
 
 
 
@@ -20,7 +20,7 @@ a.By default, document libraries appear in the center column of a page, but you 
 
 b.If you want to add a file to a folder, first click on the folder to select it, then click **Add file**.
 
-![](../../.gitbook/assets/2%20%2878%29.png)
+![](../../.gitbook/assets/2%20%2881%29.png)
 
 
 

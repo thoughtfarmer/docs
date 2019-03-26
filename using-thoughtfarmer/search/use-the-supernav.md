@@ -22,5 +22,5 @@ You can stay on the current page, and browse through the site navigation using t
 
 Below the current page title in the SuperNav, you will see either the subpage navigation, or a box that says "Search \(current page title\)", with search filters below it. That box is the Section Search box; it allows you to constrain your search to just the section you are viewing. When you enter a search term or select a filter from the Section Search, it searches only pages that are below the current page. To learn more, see [How to do a Section Search](search-a-section.md). To return to the subpage navigation from the Section Search, click the "X" to the right of the page title.
 
-![](../../.gitbook/assets/1%20%28106%29.jpg)
+![](../../.gitbook/assets/1%20%28107%29.jpg)
 

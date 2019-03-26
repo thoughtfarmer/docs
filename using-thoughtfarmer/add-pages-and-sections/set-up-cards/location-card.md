@@ -19,11 +19,11 @@ A Location Card on your group page is where you can add your group's physical ad
 
 3.In the **Update cards** window, find the **Location** Card section and click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../../.gitbook/assets/3%20%2830%29.jpg)
+![](../../../.gitbook/assets/3%20%2831%29.jpg)
 
 4.In the **Location** pop-up window, enter the address and contact info you wish to display in the Location Card.
 
-![](../../../.gitbook/assets/4%20%289%29.jpg)
+![](../../../.gitbook/assets/4%20%2810%29.jpg)
 
 
 

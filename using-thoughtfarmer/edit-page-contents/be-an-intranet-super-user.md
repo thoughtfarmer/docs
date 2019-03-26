@@ -6,7 +6,7 @@ Want to know a bunch of sneaky ways to get things done fast in ThoughtFarmer? Or
 
 To open the nifty search dropdown at the top of the page, simply type CTRL+/. Search will drop down, with your cursor in the search field ready for you to type in your search term.
 
-![](../../.gitbook/assets/1%20%2846%29.jpg)
+![](../../.gitbook/assets/1%20%2847%29.jpg)
 
 **Navigate File or Image Preview: ← and →**
 
@@ -20,7 +20,7 @@ When you're in Preview mode, whether you are previewing images or files, use you
 Most pop-up windows have buttons at the bottom right that allow you to close the window. If you haven't made changes in the window however, you can often close it just by clicking outside of the window.  
 
 
-![](../../.gitbook/assets/3%20%2819%29.jpg)
+![](../../.gitbook/assets/3%20%2820%29.jpg)
 
 
 
@@ -34,7 +34,7 @@ Here are a few tricks for getting around in the Rich Text Editor when you are ed
 * **CTRL+End**: Jumps to the end of the document
 * **SHIFT+ENTER**: Adds a line break. We at ThoughtFarmer have found this to be an extraordinarily useful shortcut to know. It's useful if, say, you want to insert an image in a numbered or bulleted list, without having a number or bullet on the left of the image! 
 
-![](../../.gitbook/assets/4%20%283%29.jpg)
+![](../../.gitbook/assets/4%20%284%29.jpg)
 
 
 

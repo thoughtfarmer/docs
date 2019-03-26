@@ -7,7 +7,7 @@ On the **Best bets** page, start typing the name of the page you want to be a Be
   
 **A search for "cell phone" has been set up to return a Best Bets result about mobile banking**
 
-![](../../.gitbook/assets/1%20%28108%29.jpg)
+![](../../.gitbook/assets/1%20%28109%29.jpg)
 
 The maximum number of Best Bets that will be returned on a search is set on the **Administration panel**: **Search** section &gt; **Search settings** page, under the **Best Bets** tab. To learn more about this and other search settings, see [Search settings.](untitled-10.md)
 

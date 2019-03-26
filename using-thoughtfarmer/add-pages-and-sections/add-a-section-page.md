@@ -17,7 +17,7 @@ It's easy to switch between the Compact directory, Detailed directory, and Grid 
       2. In this example page title "projects" describes the type of activity or content and the other words explain the topic of the section.
 3. Click on the **Content type** dropdown \(the field that says **Page**\) on the right, and select the **Section** content type. 
 
-![](../../.gitbook/assets/1%20%28133%29.jpg)
+![](../../.gitbook/assets/1%20%28134%29.jpg)
 
 
 
@@ -44,9 +44,9 @@ The examples below show the main column of the same intranet section using three
 
 **Example Detailed Directory Section**
 
-![](../../.gitbook/assets/3%20%2836%29.jpg)
+![](../../.gitbook/assets/3%20%2837%29.jpg)
 
 **Example Grid Section**
 
-![](../../.gitbook/assets/4%20%2820%29.jpg)
+![](../../.gitbook/assets/4%20%2821%29.jpg)
 

@@ -4,7 +4,7 @@
 
 Shout-outs are a great way of empowering employees to recognize one another for their outstanding contributions. In a few simple steps, users can send positive reinforcement to one colleague or several colleagues for a great presentation, a successful product launch, positive qualities, or anything else that deserves a Shout-outs. Shout-outs can be sent so that everyone in the organization sees them, or they can be directed to display on a particular group page and on the homepages of that groups' members.
 
-![](../../.gitbook/assets/1%20%2866%29.jpg)
+![](../../.gitbook/assets/1%20%2867%29.jpg)
 
 ###  When you type an @mention in a Shout-out, that results in the mentioned person or group members receiving a notification of the Shout-out. The profile photo of the mentioned person\(s\) will also show in the Shout-outs. Just like an update or message, Shout-outs can be liked, commented on, bookmarked, followed, and viewed on their own page.  Shout-outs can be sent from the homepage, group pages with Activity cards, your profile page, and Shout-outs Cards \(if enabled\).
 
@@ -36,7 +36,7 @@ If you choose to send a Shout-out **to a specific group** that you belong to, th
 4.Type your Shout-outs. Include one or more @mentions to alert the colleague\(s\) that you are giving a Shout-out to, and to have their profile photo appear in the Shout-outs. @Mention a group to send a Shout-out to all of that group's members. \(To learn more about @mentions, see [Mentions and Alerts](following-and-alerts/mentions-and-alerts.md).\)  
 
 
-![](../../.gitbook/assets/4%20%2833%29.jpg)
+![](../../.gitbook/assets/4%20%2834%29.jpg)
 
 ### 
 

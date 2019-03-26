@@ -9,7 +9,7 @@ You can add tags to files that you have edit permission on to help other people 
 
 1.Click the **down arrow** on the far right of the file name to expand the **File Controls**.
 
-![](../../.gitbook/assets/1%20%2849%29.jpg)
+![](../../.gitbook/assets/1%20%2850%29.jpg)
 
 
 
@@ -48,7 +48,7 @@ You can apply tags to files in bulk to make tagging even easier.
 3.Click on the **X** next to the tag you want to remove. The tag will disappear from the list.  
 
 
-![](../../.gitbook/assets/4%20%2822%29.jpg)
+![](../../.gitbook/assets/4%20%2823%29.jpg)
 
 
 

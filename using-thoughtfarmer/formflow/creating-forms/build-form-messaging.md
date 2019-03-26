@@ -7,7 +7,7 @@ FormFlow offers several areas where you can create messaging for the form’s en
 1.You can access the messaging tab directly from the form builder.  
 
 
-![](../../../.gitbook/assets/1%20%2886%29.png)
+![](../../../.gitbook/assets/1%20%2890%29.png)
 
 
 
@@ -15,7 +15,7 @@ FormFlow offers several areas where you can create messaging for the form’s en
 
 1. **Form description** - The form description is the text that displays in the form card along with your title in the main forms overview page. It also displays under the form name on the form submission page. 
 
-![](../../../.gitbook/assets/2%20%2884%29.png)
+![](../../../.gitbook/assets/2%20%2887%29.png)
 
 **2.Button labels** - There are two button labels you can customize; the button to initiate a form submission and the button to submit the form. By default the initiate button is labelled “Start request” and the submit button is labelled “Submit”. You can change these labels to suit your needs, but keep the text brief. They are buttons after all.
 

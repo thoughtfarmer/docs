@@ -9,18 +9,18 @@ Navigate to the area you want to add the form page and click on the Add icon \(+
 Enter the title of your page.  
 
 
-![](../../../.gitbook/assets/1%20%28111%29.png)
+![](../../../.gitbook/assets/1%20%28115%29.png)
 
 In the body area, enter any instructions or introductory information you would like to appear above the form on your new page. 
 
 Under Content type, select Form from the drop down.  
 
 
-![](../../../.gitbook/assets/2%20%2851%29.png)
+![](../../../.gitbook/assets/2%20%2853%29.png)
 
 To import an existing form, just search for the form title under Find a form and select the correct one from the results. It is strongly recommended that you build the form first and import it into a Form Page.
 
-![](../../../.gitbook/assets/3%20%2820%29.png)
+![](../../../.gitbook/assets/3%20%2821%29.png)
 
 The page will import the form data from the original form. The form is now associated with the page
 

@@ -18,7 +18,7 @@ The first image that you insert on a page will automatically become the Thumbnai
 
 3.Click the **Insert Image** button to bring up the images pop-up window. \(The **Insert Image** button looks like a tiny photo of a landscape with a tiny green plus sign in the bottom right.\)
 
-![](../../.gitbook/assets/1%20%2830%29.png)
+![](../../.gitbook/assets/1%20%2831%29.png)
 
 
 
@@ -48,7 +48,7 @@ When you insert an image on a page, one of the options in the Choose Image pop-u
   
 Your intranet administrator can set certain galleries as **Recommended galleries** that will appear above All galleries in the Choose Image window. Galleries that you have **Bookmarked** will appear with a star beside the title at the top of both the Recommended galleries and the All galleries sections.
 
-![](../../.gitbook/assets/3%20%2873%29.jpg)
+![](../../.gitbook/assets/3%20%2874%29.jpg)
 
 
 

@@ -1,6 +1,6 @@
 # Show or hide page owner and date
 
-![](../../.gitbook/assets/1%20%2842%29.jpg)
+![](../../.gitbook/assets/1%20%2843%29.jpg)
 
 
 

@@ -22,13 +22,13 @@ Your top level staff is the person or people who should appear on the top level 
 
 2.Click in the box under **Top level staff** and start typing the name of the person you want to be on the top level. Click on the person you want when you see them in the dropdown menu that opens. The name of the person you have selected will appear below the box.
 
-![](../../.gitbook/assets/2%20%2881%29.jpg)
+![](../../.gitbook/assets/2%20%2882%29.jpg)
 
 3.To add multiple top level staff members, do step 2 again. You will see their names appear in a list below the entry box.
 
 4.If you want to remove a top level staff member that you have selected, click the X to the right of their name.
 
-![](../../.gitbook/assets/3%20%2847%29.jpg)
+![](../../.gitbook/assets/3%20%2848%29.jpg)
 
 
 
@@ -40,7 +40,7 @@ Your top level staff is the person or people who should appear on the top level 
 
 The focal user is the person the Org Chart will focus on when it is opened by clicking **Org Chart Viewer** in the top right of the People Directory, or when the **Reset** button is clicked while viewing the Org Chart. If the Org Chart is opened from a user's profile page, or from the icon beside a specific user's entry in the People Directory, the Org Chart will focus on that user.
 
-![](../../.gitbook/assets/4%20%2824%29.jpg)
+![](../../.gitbook/assets/4%20%2825%29.jpg)
 
 You must set a top level staff member before the **Set focal user** section appears. The first top level staff member added will automatically become the focal user.
 

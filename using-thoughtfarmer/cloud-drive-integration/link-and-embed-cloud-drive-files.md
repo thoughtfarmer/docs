@@ -4,7 +4,7 @@
 
 When cloud drive integration is enabled, files and folders from cloud drives like Google Drive, OneDrive and SharePoint Online can be linked to and embedded on intranet pages.
 
-![](../../.gitbook/assets/1%20%2868%29.png)
+![](../../.gitbook/assets/1%20%2870%29.png)
 
 
 
@@ -16,12 +16,12 @@ For administrator instructions on enabling cloud drive integration, see [Google 
 
 1. Click **Cloud drive**.
 
-![](../../.gitbook/assets/2%20%2841%29.png)
+![](../../.gitbook/assets/2%20%2843%29.png)
 
 2.Select the **desired cloud drive** from the dropdown menu that opens. eg. Google Drive, OneDrive, SharePoint Online. The **Add files and folders** window will appear.  
 
 
-![](../../.gitbook/assets/3%20%2858%29.png)
+![](../../.gitbook/assets/3%20%2860%29.png)
 
 
 

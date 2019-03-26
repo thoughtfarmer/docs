@@ -14,7 +14,7 @@ When you add a link using these instructions the link shows up in the navigation
 
 2.Click on the **Content type** dropdown on the right and select the **Link** content type. \(The Template Link will automatically be selected.\)
 
-![](../../.gitbook/assets/1%20%2816%29.png)
+![](../../.gitbook/assets/1%20%2817%29.png)
 
 
 

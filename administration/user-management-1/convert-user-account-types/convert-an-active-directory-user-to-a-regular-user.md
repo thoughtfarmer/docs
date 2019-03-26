@@ -18,7 +18,7 @@ Ensure that you have set up, or are able to set up a Forms authentication route.
 
 3.Click the gear icon in the **Action** column to the right of the user, and click **Edit account** in the menu that opens.
 
-![](../../../.gitbook/assets/3%20%2843%29.png)
+![](../../../.gitbook/assets/3%20%2844%29.png)
 
 4.Change the **Account type** radio button to **Regular user**.
 

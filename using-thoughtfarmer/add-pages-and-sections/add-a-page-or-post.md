@@ -12,7 +12,7 @@ Use these instructions to add a simple page to your ThoughtFarmer intranet. You 
   
 
 
-![](../../.gitbook/assets/1%20%2858%29.jpg)
+![](../../.gitbook/assets/1%20%2859%29.jpg)
 
 
 
@@ -38,7 +38,7 @@ Adding a post to a blog, forum or news section or to a calendar is almost exactl
 
 When you follow the above instructions to add a post to a blog, forum or news section you will see three options that do not appear when you add other types of intranet pages.
 
-![](../../.gitbook/assets/3%20%2851%29.png)
+![](../../.gitbook/assets/3%20%2853%29.png)
 
 
 

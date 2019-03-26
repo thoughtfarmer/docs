@@ -12,7 +12,7 @@ Users that are marked as "Inactive" in ThoughtFarmer are no longer able to acces
 
 2.Use the filter, sort, and query tools to find the desired user or set of users \(see [Find users](find-users.md) for more info\).
 
-![](../../.gitbook/assets/1%20%2810%29.png)
+![](../../.gitbook/assets/1%20%2811%29.png)
 
 3.Select the checkbox beside the desired user\(s\).
 

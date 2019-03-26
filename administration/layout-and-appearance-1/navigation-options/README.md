@@ -12,7 +12,7 @@ Intranet administrators have several options for the navigation links that they 
 
 **Application Toolbar**
 
-![](../../../.gitbook/assets/1%20%2857%29.png)
+![](../../../.gitbook/assets/1%20%2859%29.png)
 
 **Main Navigation Bar**
 

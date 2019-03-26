@@ -33,7 +33,7 @@ A user may come to you as an intranet administrator complaining that they cannot
   
 On the actual file page, a message will indicate who has the file open for editing.
 
-![](../../../.gitbook/assets/1%20%2880%29.png)
+![](../../../.gitbook/assets/1%20%2883%29.png)
 
 If the person who was editing the file is unable to close the file and click Done editing on the intranet \(perhaps because they have left work for the day\), an administrator can unlock the file. However, if an admin unlocks the file, any changes to the file made by the person who was editing it previously will be lost. To unlock the file, go to the individual file page in Admin mode and click the **Remove lock** button below the file name.
 

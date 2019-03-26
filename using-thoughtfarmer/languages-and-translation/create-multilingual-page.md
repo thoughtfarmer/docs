@@ -14,7 +14,7 @@ You can either create multilingual versions of a page manually using human trans
 
 2.In the top right, click on the **dropdown menu** to the left of **Translate** and select the ****icon for the language version you want to create. \(See the list of language icons below.\) 
 
-![](../../.gitbook/assets/1%20%2854%29.jpg)
+![](../../.gitbook/assets/1%20%2855%29.jpg)
 
 
 

@@ -17,7 +17,7 @@ If your intranet is only enabled for one language then you cannot change your de
 2.Under **Preferred language** click the dropdown menu and select the language you want.  
 
 
-![](../../.gitbook/assets/1%20%2838%29.jpg)
+![](../../.gitbook/assets/1%20%2839%29.jpg)
 
 
 

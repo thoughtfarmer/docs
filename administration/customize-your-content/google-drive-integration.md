@@ -19,11 +19,11 @@ For user instructions on adding the Google Drive Card to a page, see [Google Dri
 
 6.Optionally, add a **Product logo URL**.
 
-![](../../.gitbook/assets/1%20%2813%29.png)
+![](../../.gitbook/assets/1%20%2814%29.png)
 
 7.Select the **Credentials** tab at the top. Click **Create credentials** &gt; **OAuth client ID** in the pop-up window that appears.
 
-![](../../.gitbook/assets/2%20%2822%29.png)
+![](../../.gitbook/assets/2%20%2823%29.png)
 
 8.Under **Application type**, select the radio button for **Web application**.
 

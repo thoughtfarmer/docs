@@ -14,7 +14,7 @@ Deleting a user means that the user's profile will be completely removed from Th
 
 2.Start typing the name of the current owner in the **Current owner** box.
 
-![](../../.gitbook/assets/1%20%2833%29.png)
+![](../../.gitbook/assets/1%20%2835%29.png)
 
 3.Click once on the current owner from the list that drops down.
 
@@ -32,7 +32,7 @@ After following the four steps above, all content for the current owner will dis
 
 3.Navigate through the directory of pages by clicking on the rotating triangles on the left. Select only the pages or sections of pages whose ownership you wish to change. Hover over sections to see a pop-up telling you how many subpages the user owns in that section. The list on the right will automatically refresh showing only the pages that are selected.
 
-![](../../.gitbook/assets/3%20%2831%29.jpg)
+![](../../.gitbook/assets/3%20%2832%29.jpg)
 
 1. When you have selected the desired pages, start typing the name of the new owner in the **New owner**box at the bottom.
 2. Click once on the new owner from the list that drops down.

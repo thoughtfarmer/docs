@@ -4,17 +4,17 @@ The form builder works like a setup wizard, allowing you to quickly create and p
 
 Access the form builder from your profile drop down menu.
 
-![](../../../.gitbook/assets/1%20%2815%29.png)
+![](../../../.gitbook/assets/1%20%2816%29.png)
 
 Click on Add a form. A modal will appear, asking for the name of your new form. Type in the name and click Save to launch the builder.
 
-![](../../../.gitbook/assets/2%20%2888%29.png)
+![](../../../.gitbook/assets/2%20%2891%29.png)
 
 Your form is now in draft mode. It will stay in draft mode and only you will be able to see it until you click the launch button.
 
 The form builder has four navigation tabs:
 
-![](../../../.gitbook/assets/3%20%2827%29.png)
+![](../../../.gitbook/assets/3%20%2828%29.png)
 
 
 

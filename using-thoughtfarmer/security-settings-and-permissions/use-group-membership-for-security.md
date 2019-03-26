@@ -16,7 +16,7 @@ You can use the membership of a group page to create a security group, which can
 
 3.Select the **radio button** for **Managed** membership. \(See [Create group pages](../add-pages-and-sections/add-a-group-page/create-group-pages.md) for an explanation of Open, Managed and Closed membership.\)
 
-![](../../.gitbook/assets/1%20%2847%29.jpg)
+![](../../.gitbook/assets/1%20%2848%29.jpg)
 
 
 

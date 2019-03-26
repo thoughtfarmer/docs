@@ -18,11 +18,11 @@ Linking to an email address is very similar to linking to an intranet page.
 
 4.In the pop-up window, click on the **Email** tab. Type in or paste the email address you want to link to. The Link Manager tests and verifies the address, which then appears beside **Link path** at the bottom of the Link pop-up window.
 
-![](../../../.gitbook/assets/1%20%2867%29.png)
+![](../../../.gitbook/assets/1%20%2869%29.png)
 
 5.The **Link Label** box at the bottom of the link pop-up window contains the text that will display as the link. Click in the **Link Label** box and type new text if you want to add or change the link text.
 
-![](../../../.gitbook/assets/2%20%2876%29.png)
+![](../../../.gitbook/assets/2%20%2879%29.png)
 
 6. Click **Insert** in the bottom right. The pop-up window will close and you'll see your text has changed color \(indicating a link\).
 

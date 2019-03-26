@@ -4,7 +4,7 @@
 
 Recommended tags are automatically presented to users whenever they edit tags on a page. Recommended tags encourage the use of tags by assisting users in the process. The tags presented are auto-generated based on a variety of configurable parameters. The default boost factors have been tuned for most intranet situations.
 
-![](../../../.gitbook/assets/1%20%2840%29.png)
+![](../../../.gitbook/assets/1%20%2842%29.png)
 
 ### Configuring recommended tag results
 

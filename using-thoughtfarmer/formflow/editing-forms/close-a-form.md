@@ -8,16 +8,16 @@ There are many reasons you may want to close a form, for example you may want to
   
 
 
-![](../../../.gitbook/assets/1%20%2876%29.png)
+![](../../../.gitbook/assets/1%20%2878%29.png)
 
 2.Click on the ellipses menu above the form name and select **Edit** to launch the form editor.
 
-![](../../../.gitbook/assets/2%20%2820%29.png)
+![](../../../.gitbook/assets/2%20%2821%29.png)
 
 3.There will be a banner across the top of the form, and a link to **Close the form**. Click the link to close the form.  
 
 
-![](../../../.gitbook/assets/3%20%2839%29.png)
+![](../../../.gitbook/assets/3%20%2840%29.png)
 
 
 
