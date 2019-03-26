@@ -16,11 +16,11 @@ If a user does not receive invitations repeatedly, check to ensure that the emai
 
 3.Click the gear icon in the **Action** column to the right of the user, and click **Edit account** in the menu that opens.
 
-![](../../.gitbook/assets/1%20%2812%29.png)
+![](../../.gitbook/assets/1%20%2815%29.png)
 
 4.Select the checkbox "Cancel this invitation".
 
-![](../../.gitbook/assets/2%20%28101%29.png)
+![](../../.gitbook/assets/2%20%28104%29.png)
 
 5.Click **Save.**
 
@@ -30,7 +30,7 @@ If a user does not receive invitations repeatedly, check to ensure that the emai
 
 2.Use the filter, sort, and query tools to find the desired user or set of users \(see[ Find users](find-users.md) for more info\). The user\(s\) must have status "Profile only".
 
-![](../../.gitbook/assets/3%20%2813%29.png)
+![](../../.gitbook/assets/3%20%2814%29.png)
 
 
 

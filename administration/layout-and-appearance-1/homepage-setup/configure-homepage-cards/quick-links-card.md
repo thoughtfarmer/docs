@@ -16,7 +16,7 @@ Add useful links to intranet pages, external website pages or email addresses.
    2. **External location**: link to an external website page,
    3. **Email**: Create a mail-to link to an email address.
 
-![](../../../../.gitbook/assets/1%20%28105%29.jpg)
+![](../../../../.gitbook/assets/1%20%28111%29.jpg)
 
 
 
@@ -26,7 +26,7 @@ Add useful links to intranet pages, external website pages or email addresses.
 2. Type the **URL of the website** you want to link to,
 3. Type the **email address** you want to link to.
 
-![](../../../../.gitbook/assets/2%20%2821%29.jpg)
+![](../../../../.gitbook/assets/2%20%2822%29.jpg)
 
 8.Click **Add link**.
 

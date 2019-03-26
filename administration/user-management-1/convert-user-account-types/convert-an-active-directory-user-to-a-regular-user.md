@@ -18,17 +18,17 @@ Ensure that you have set up, or are able to set up a Forms authentication route.
 
 3.Click the gear icon in the **Action** column to the right of the user, and click **Edit account** in the menu that opens.
 
-![](../../../.gitbook/assets/3%20%2844%29.png)
+![](../../../.gitbook/assets/3%20%2847%29.png)
 
 4.Change the **Account type** radio button to **Regular user**.
 
-![](../../../.gitbook/assets/2%20%2828%29.jpg)
+![](../../../.gitbook/assets/2%20%2829%29.jpg)
 
 5.Enter a username in the provided text field.
 
 6.In the **Password** section, reset the user's password by specifying a temporary password in the **Reset password** field.
 
-![](../../../.gitbook/assets/4%20%2838%29.png)
+![](../../../.gitbook/assets/4%20%2842%29.png)
 
 7.Click **Save.**
 

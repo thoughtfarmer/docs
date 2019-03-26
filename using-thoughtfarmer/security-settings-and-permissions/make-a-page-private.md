@@ -20,7 +20,7 @@ When you view one of your private pages, a **Private** label appears across the 
 
 3.Select the **Private** checkbox just below the Publish button. \(The Publish button will become a Save button when you select the Private checkbox.\)
 
-![](../../.gitbook/assets/2%20%288%29.jpg)
+![](../../.gitbook/assets/2%20%289%29.jpg)
 
 4.Continue editing or click **Save**.
 
@@ -46,7 +46,7 @@ If you add a subpage to a private page, it will automatically be private because
   
 If a page is private because it inherited the private status of it's parent page, it will automatically become public if moved under a public parent page. In edit mode, it is indicated when a page is private because it is inheriting its private status from its parent page. You will see a note indicating this under the Save button.
 
-![](../../.gitbook/assets/4%20%2853%29.jpg)
+![](../../.gitbook/assets/4%20%2856%29.jpg)
 
 If a page is private because it was specifically set to private, then it will remain private even if moved under a public parent page. A page specifically set to private will not have the note in the image above.
 

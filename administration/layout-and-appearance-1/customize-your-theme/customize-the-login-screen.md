@@ -4,7 +4,7 @@
 
 The login screen is customizable to suit your style and can be localized as well. The main login page will be English but each configured language will also display a link to the localized login page \(if added to the template\). The Forms login page appears similar to the following:
 
-![](../../../.gitbook/assets/1%20%2824%29.png)
+![](../../../.gitbook/assets/1%20%2829%29.png)
 
 
 

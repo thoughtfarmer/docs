@@ -15,7 +15,7 @@ In order to enable the SharePoint Connector section of the Administration Panel 
 
 The Administration Panel page will refresh and you should now see the new SharePoint Connector section.
 
-![](../../../.gitbook/assets/1%20%2860%29.png)
+![](../../../.gitbook/assets/1%20%2868%29.png)
 
 ### Install SharePoint Connector on SharePoint server\(s\) <a id="section2"></a>
 

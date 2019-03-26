@@ -12,11 +12,11 @@ Use these instructions to browse through all the content on your ThoughtFarmer i
 
 2.Click **Advanced Search** in the top right of the Search dropdown.
 
-![](../../.gitbook/assets/1%20%2855%29.png)
+![](../../.gitbook/assets/1%20%2863%29.png)
 
 3.Use Filters on the left to filter the search results:
 
-![](../../.gitbook/assets/2%20%2858%29.png)
+![](../../.gitbook/assets/2%20%2859%29.png)
 
 
 

@@ -10,7 +10,7 @@ You can create custom forum types in addition to the three defaults for a custom
 2. Click **Add** **forum type** on the top right. The **Add forum type** dialog will appear.
 3. In the **Forum name** field, type your custom forum type name.
 
-![](../../../.gitbook/assets/1%20%2820%29.png)
+![](../../../.gitbook/assets/1%20%2825%29.png)
 
 
 

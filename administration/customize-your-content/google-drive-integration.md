@@ -19,7 +19,7 @@ For user instructions on adding the Google Drive Card to a page, see [Google Dri
 
 6.Optionally, add a **Product logo URL**.
 
-![](../../.gitbook/assets/1%20%2814%29.png)
+![](../../.gitbook/assets/1%20%2818%29.png)
 
 7.Select the **Credentials** tab at the top. Click **Create credentials** &gt; **OAuth client ID** in the pop-up window that appears.
 
@@ -27,7 +27,7 @@ For user instructions on adding the Google Drive Card to a page, see [Google Dri
 
 8.Under **Application type**, select the radio button for **Web application**.
 
-![](../../.gitbook/assets/3%20%289%29.png)
+![](../../.gitbook/assets/3%20%2810%29.png)
 
 
 
@@ -72,5 +72,5 @@ For user instructions on adding the Google Drive Card to a page, see [Google Dri
 * Google may take some time to update their servers, so the Google Drive integration may not work immediately.
 * When logging in, users will see the security warning, pictured below. To log in, users need to click **Advanced &gt; Go to \[Google App name\] \(unsafe\)**. Google has [instructions for removing this warning](https://support.google.com/cloud/answer/7454865?authuser=1).
 
-![](../../.gitbook/assets/7%20%2817%29.png)
+![](../../.gitbook/assets/7%20%2818%29.png)
 

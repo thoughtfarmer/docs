@@ -7,7 +7,7 @@ Use these instructions to restore deleted content on your intranet. Most often t
 1. Go to the **Administration panel**: **Content** section &gt; **Restore content** page.
 2. To filter the list of deleted content, do any or all of the following:
 
-![](../../.gitbook/assets/1%20%2881%29.png)
+![](../../.gitbook/assets/1%20%2892%29.png)
 
 
 
@@ -19,11 +19,11 @@ Use these instructions to restore deleted content on your intranet. Most often t
 
 4.When you find the content you want to restore, click **Restore** or **Restore all** beside the content title. \(**Restore all** will restore any subpages that were deleted as well. Click the rotating triangle on the left of the main deleted page to see the subpages that were deleted.\)
 
-![](../../.gitbook/assets/2%20%2875%29.png)
+![](../../.gitbook/assets/2%20%2876%29.png)
 
 5.The **Restoring deleted content** pop-up box appears showing you the location in the navigation where the content will be restored. To change where the content will be restored, navigate through the directory \(click the rotating triangles to expand and collapse sections\) and click on the page that you want the content restored under.
 
-![](../../.gitbook/assets/3%20%2814%29.png)
+![](../../.gitbook/assets/3%20%2815%29.png)
 
 6.Click **Restore**. This message will appear near the top of the page:![6.7Admin8868RestoreContent6.png](https://community.thoughtfarmer.com/imagethumb/17418600000/16450/600x600/False/6.7Admin8868RestoreContent6.png)
 

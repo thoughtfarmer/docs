@@ -4,7 +4,7 @@
 
 Did you just create or discover an intranet page that will be useful to your whole project team or office location members? You can share a page to a group that you belong to, and bring it to all group members' attention in one action.
 
-![](../../.gitbook/assets/1%20%28101%29.jpg)
+![](../../.gitbook/assets/1%20%28107%29.jpg)
 
 
 
@@ -20,12 +20,12 @@ You can also choose to share a page with Everyone \(all users on your intranet\)
 
 2.Click the **Share** icon \(a box with a curved arrow coming out of it\) in the **Page sharing buttons** in the page header.
 
-![](../../.gitbook/assets/2%20%2839%29.jpg)
+![](../../.gitbook/assets/2%20%2841%29.jpg)
 
 3.In the dropdown menu that opens, click **Share to group**. The **Share to a group** pop-up window will appear.  
 
 
-![](../../.gitbook/assets/3%20%2864%29.jpg)
+![](../../.gitbook/assets/3%20%2865%29.jpg)
 
 
 

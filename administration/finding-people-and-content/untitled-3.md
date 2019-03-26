@@ -10,7 +10,7 @@ You can choose what information shows on the Employee Directory for both List Vi
 
 **Example Employee Directory listing in List View**
 
-![](../../.gitbook/assets/2%20%2853%29.jpg)
+![](../../.gitbook/assets/2%20%2857%29.jpg)
 
 To customize the information that shows in the Employee Directory listings:
 
@@ -53,7 +53,7 @@ To learn more, see the page [How to change the Excel export template for People 
 
 Mini Profiles are the pop-ups that appear when you hover over the name or profile photo of a user on the intranet. They show the name and profile photo of the user, and other types of information chosen by the intranet administrator. You can choose whether or not to have Mini Profiles appear when a user hovers over a name or profile photo.
 
-![](../../.gitbook/assets/4%20%2826%29.jpg)
+![](../../.gitbook/assets/4%20%2827%29.jpg)
 
 
 
@@ -71,7 +71,7 @@ You can choose what information shows in the Mini Profile.
 
 3.To add a field, click **Add field**, click in the field that appears, and choose the information field that you want from the dropdown menu.
 
-![](../../.gitbook/assets/5%20%2814%29.jpg)
+![](../../.gitbook/assets/5%20%2815%29.jpg)
 
 4.To remove a field, click the **garbage can** icon on the right of the field.
 

@@ -8,13 +8,13 @@ On this page, you'll find instructions for how to add a page summary, how to add
 
 The content type and page template you choose determine the purpose, layout and available [Cards](../basic-features/cards.md) for the page. See [Learn about content types](content-types.md) and [Learn about page templates](templates.md).
 
-![](../../.gitbook/assets/1%20%28104%29.jpg)
+![](../../.gitbook/assets/1%20%28110%29.jpg)
 
 ### How to add a Thumbnail image
 
 The Thumbnail image for a page displays with the page title in search results, News posts, News Carousel posts, Grid navigation sections and on the Group Directory. See [How to add a Thumbnail image](../edit-page-contents/add-thumbnail-images/).
 
-![](../../.gitbook/assets/2%20%2883%29.jpg)
+![](../../.gitbook/assets/2%20%2891%29.jpg)
 
 ### Publishing options section
 
@@ -26,7 +26,7 @@ The Publishing options section of the Page settings has three parts - page Summa
 
 A page summary appears below the page title in search results and in some section page layouts, and also appears as a summary description of News, Blog or Forum posts that appear in your homepage News or other News sections. Writing a page summary will give your readers a quick idea of the contents of your page.
 
-![](../../.gitbook/assets/4%20%2842%29.jpg)
+![](../../.gitbook/assets/4%20%2844%29.jpg)
 
 
 
@@ -72,7 +72,7 @@ For more information on archiving, see [How to archive content](../edit-page-con
 
 You can change Security permissions both in edit mode, and while viewing a page. Security settings determine who can view your page and who can edit your page. To learn more, see [how to change security permissions](../security-settings-and-permissions/permission-to-view-and-edit.md).
 
-![](../../.gitbook/assets/6%20%2812%29.jpg)
+![](../../.gitbook/assets/6%20%2813%29.jpg)
 
 ### How to change the page owner
 
@@ -91,5 +91,5 @@ To learn how to change the page owner without being in edit mode, see [How to ch
 Tags are like search keywords you can add to a page that help make your page easier for you and others to find. To learn more, see [How to use tags](../tags/).  
 
 
-![](../../.gitbook/assets/7%20%285%29.jpg)
+![](../../.gitbook/assets/7%20%286%29.jpg)
 

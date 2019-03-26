@@ -12,7 +12,7 @@ There are a few ways to create tags. You can add them to the general list of all
 
 There may be hundreds of tags on the intranet, but admins can use Filter and Sort features on the Admin Tags page to find the tags they are looking for in either the Content Tags or Profile Field Tags tab.
 
-![](../../../.gitbook/assets/1%20%2893%29.png)
+![](../../../.gitbook/assets/1%20%28104%29.png)
 
 On the left of the Admin Tags page, you can enter a **search query** into the **Search tags** box to narrow the list of tags. You can also select certain **filters** to narrow down the list, depending what tab you are viewing.  
   
@@ -46,7 +46,7 @@ This method adds content tags created to "Unbundled tags". If you use this metho
 
 2.Under the **Content Tags** tab, click **Add Tag**.
 
-![](../../../.gitbook/assets/2%20%2897%29.png)
+![](../../../.gitbook/assets/2%20%28100%29.png)
 
 3.Type the value for the new tag in the text area that appears and click the **checkmark** to save the tag.
 
@@ -60,15 +60,15 @@ Add content tags directly to an existing bundle using these instructions.
 2. Click on the **Content** **Bundles** tab.
 3. Click on **the existing tags** beside the bundle you want to add to, or click on the **... menu** on the right of the bundle and click **Manage Bundle** in the menu that appears.
 
-![](../../../.gitbook/assets/3%20%2841%29.png)
+![](../../../.gitbook/assets/3%20%2843%29.png)
 
 4.Click **Add Tag**.
 
-![](../../../.gitbook/assets/4%20%2825%29.png)
+![](../../../.gitbook/assets/4%20%2827%29.png)
 
 5.Type the value for the new tag in the text area that appears and click the **checkmark** to save the tag. The tag will appear in the list of tags for that bundle.
 
-![](../../../.gitbook/assets/5%20%288%29.png)
+![](../../../.gitbook/assets/5%20%2810%29.png)
 
 
 
@@ -98,7 +98,7 @@ After tags are merged, content that previously used any of the tags that were me
 
 ![](../../../.gitbook/assets/6%20%287%29.png)
 
-![](../../../.gitbook/assets/7%20%2816%29.png)
+![](../../../.gitbook/assets/7%20%2817%29.png)
 
 5.Click **Save**. The tag list will be updated showing the new usage for the merged tag.
 
@@ -116,7 +116,7 @@ Tags can be deleted from the Content Tags tab or the Profile Field Tags tab usin
 
 4.Repeat steps 2 and 3 to select multiple tags. The selected tags will show in a list at the top of the tab.
 
-![](../../../.gitbook/assets/9%20%2812%29.png)
+![](../../../.gitbook/assets/9%20%2813%29.png)
 
 5.Click **Delete**.
 

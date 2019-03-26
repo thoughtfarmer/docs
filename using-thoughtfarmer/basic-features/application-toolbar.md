@@ -4,13 +4,13 @@
 
 The Application Toolbar is the top bar on every page of your intranet. From any page, it allows easy access to your homepage, Alerts, files you have open for editing, search, and profile page. Depending on the settings on your intranet, you can also access your Bookmarks, History \(recently viewed pages\), and Your Groups from the Application Toolbar. You can go directly to help information or to editing your profile page from the menu on the right of the Application Toolbar.
 
-![](../../.gitbook/assets/1%20%2815%29.png)
+![](../../.gitbook/assets/1%20%2819%29.png)
 
 ### Home icon
 
 Click the home icon to return to your intranet's homepage from any page.
 
-![](../../.gitbook/assets/2%20%2852%29.png)
+![](../../.gitbook/assets/2%20%2853%29.png)
 
 **On mobile devices**
 
@@ -23,7 +23,7 @@ If both Bookmarks and History \(recently viewed pages\) are enabled on your intr
 Click on **Bookmarks** to see a list of pages you have bookmarked. Bookmark pages that you visit often \(click the star icon in the Page Sharing Buttons\) for easy access from any page on the intranet. Once you have bookmarked a page, you can edit the bookmark name or delete it from either this list or the Bookmarks Card. You can also add external websites or email addresses to your Bookmarks from the Bookmarks Card. \(See [how to use Bookmarks](bookmarks/) for more information on Bookmarks.\)  
 
 
-![](../../.gitbook/assets/3%20%2822%29.png)
+![](../../.gitbook/assets/3%20%2823%29.png)
 
 Click on **History** to see pages you have visited recently. Easily navigate back and forth between several pages using the **History** dropdown. Look here when you don't remember where in the navigation to find a certain page, but you know you've visited it recently.
 
@@ -37,7 +37,7 @@ On smartphones, tap on the star icon to open the Bookmarks menu, and tap on the 
 
 If enabled, you will see a list of the groups you belong to in the Your Groups menu. This gives you easy access to team and project pages, and other groups relevant to your work.
 
-![](../../.gitbook/assets/5%20%2825%29.png)
+![](../../.gitbook/assets/5%20%2831%29.png)
 
 **On mobile devices**
 
@@ -60,7 +60,7 @@ On smartphones, tap the flag icon to open the Alerts menu.
 When you open files from your intranet so you can edit them, the **Locked files** menu appears in the Application Toolbar. Any files you open for editing are locked so that no one else can edit them at the same time. The intranet uses a behind-the-scenes application called the ThoughtFarmer Desktop Connector to communicate with your computer and to allow you to edit files from the intranet and save the changes back to the intranet. Click on **Locked files** in the Application Toolbar to see which files you have open for editing, and finish editing by clicking "Done editing" beside the file name.  
 
 
-![](../../.gitbook/assets/7%20%2821%29.png)
+![](../../.gitbook/assets/7%20%2822%29.png)
 
 \(See [how to open and lock files for editing](../add-and-edit-files/open-and-lock-a-file-for-editing.md) for more information on locked files.\)
 
@@ -82,7 +82,7 @@ On smartphones, the search icon \(a magnifying glass\) may be located in the App
 
 Click on your profile picture icon or name to open a menu with several options. Click on your name or profile picture in the open menu to go to your profile page. **Edit profile** takes you into edit mode on your profile page. **Settings** takes you to a page where you can change your timezone, preferred language, archived content view, alternate emails and Notification settings. **Help** takes you to an intranet help site chosen by your intranet administrator. The **View archived content** toggle selects whether archived pages are visible to you or not. \(See [how to archive and delete pages](../edit-page-contents/archive-and-delete-pages.md) for more information on archiving.\) **Change password** takes you to a screen for changing your password. Depending on the method used to login and access your intranet, there may be a **Sign out** option in this menu. Administrators also have a toggle for entering/leaving Admin Mode and a link to the Administration panel from the profile menu.
 
-![](../../.gitbook/assets/9%20%2810%29.png)
+![](../../.gitbook/assets/9%20%2811%29.png)
 
 \(See [how to set up profile pages](../profile-pages/) and [select and upload a profile photo](../profile-pages/add-a-profile-photo.md) for more information.\)
 

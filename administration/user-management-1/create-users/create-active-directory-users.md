@@ -23,7 +23,7 @@ Creating Active Directory users can be done manually, or, if Active Directory in
 4. Enter the **username** in the provided text field. This must be pre-fixed with the Domain for the user account \(e.g. DOMAIN\username\).
 5. Enter the user's account information in the provided text fields \(First and last name are required at a minimum\).  
 
-![](../../../.gitbook/assets/1%20%28100%29.png)
+![](../../../.gitbook/assets/1%20%28111%29.png)
 
 
 
@@ -59,7 +59,7 @@ With Active Directory Integration configured and automatic user creation enabled
 
 6.Verify that the correct user information was pulled in. The Account information fields will fill in automatically. Rectify any errors if they are shown.
 
-![](../../../.gitbook/assets/1%20%2891%29.png)
+![](../../../.gitbook/assets/1%20%28102%29.png)
 
 
 
@@ -87,7 +87,7 @@ The On-Demand bulk user creation works exactly like daily scheduled tasks except
 4. Check **Bulk create users**.
 5. Click **Synchronize now.**
 
-![](../../../.gitbook/assets/2%20%2857%29.jpg)
+![](../../../.gitbook/assets/2%20%2861%29.jpg)
 
 It may take some time for the [ThoughtFarmer Service](../../behind-the-scenes/thoughtfarmer-service.md) to complete the update. This depends on the number of users in the synced-to AD group and the server resources available. Your total licensed user count will change when the update is complete.
 

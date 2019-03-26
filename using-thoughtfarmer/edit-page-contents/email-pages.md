@@ -9,12 +9,12 @@ Use these instructions to bring an intranet page to the attention of a coworker 
 1. Navigate to the page that you want to email.
 2. Click the **Export/Share** button in the Page Sharing Buttons in the page header.
 
-![](../../.gitbook/assets/1%20%287%29.png)
+![](../../.gitbook/assets/1%20%288%29.png)
 
 3.Click **Email** in the dropdown menu that opens. Your default email program will open a new email with text similar to that below, including a link to the page you are emailing.  
 
 
-![](../../.gitbook/assets/2%20%2893%29.png)
+![](../../.gitbook/assets/2%20%2896%29.png)
 
 
 

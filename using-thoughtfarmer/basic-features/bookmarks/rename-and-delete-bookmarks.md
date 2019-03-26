@@ -9,7 +9,7 @@ Use these instructions to Rename a Bookmark from the Bookmarks list on the Appli
 1. Hover over the name of the Bookmark you want to change, and click on the **three dots** to the right of the name.
 2. In the menu that opens, click **Rename**.
 
-![](../../../.gitbook/assets/9%20%282%29.png)
+![](../../../.gitbook/assets/9%20%283%29.png)
 
 3.The Bookmark name becomes a text box that you can edit. Change the name of the Bookmark.
 

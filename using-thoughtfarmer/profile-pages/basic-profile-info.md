@@ -23,11 +23,11 @@ To edit your profile information, follow these steps:
   
 
 
-![](../../.gitbook/assets/1%20%2889%29.png)
+![](../../.gitbook/assets/1%20%28100%29.png)
 
 3.Edit your profile information. Click the headings to expand the profile info sections.
 
-![](../../.gitbook/assets/2%20%2827%29.jpg)
+![](../../.gitbook/assets/2%20%2828%29.jpg)
 
 
 
@@ -60,7 +60,7 @@ The list below includes explanations for all the default profile fields on your 
 * **Cover photo**: If enabled on your intranet, you can add a photo that will fill the page header on your profile page.
 * **Photo**: Your profile photo, which will show as a thumbnail on your comments and activities on the intranet. You may be able to add your own profile photo, or it may be a non-editable field that contains your official work photo.
 
-![](../../.gitbook/assets/4%20%2833%29.jpg)
+![](../../.gitbook/assets/4%20%2834%29.jpg)
 
 #### Featured Information
 

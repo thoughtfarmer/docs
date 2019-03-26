@@ -1,6 +1,6 @@
 # Show or hide page owner and date
 
-![](../../.gitbook/assets/1%20%2843%29.jpg)
+![](../../.gitbook/assets/1%20%2846%29.jpg)
 
 
 
@@ -15,7 +15,7 @@ The name of the page owner and the page creation date, or last updated date show
 1. **Select** the checkbox to show the page owner and date.
 2. **Deselect** the checkbox to **hide** the page owner and date. 
 
-![](../../.gitbook/assets/2%20%2820%29.jpg)
+![](../../.gitbook/assets/2%20%2821%29.jpg)
 
 
 

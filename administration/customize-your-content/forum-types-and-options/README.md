@@ -4,7 +4,7 @@
 
 When the content type **Forum** is selected while adding or editing a page, a dropdown menu appears on the left with three default forum types available. You can choose the forum type that is most suited to the type of information exchange that you want on that page. You can also [Create custom forum types](create-a-custom-forum-type.md) on the Administration panel.
 
-![](../../../.gitbook/assets/1%20%2854%29.png)
+![](../../../.gitbook/assets/1%20%2861%29.png)
 
 
 

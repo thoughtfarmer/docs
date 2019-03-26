@@ -72,7 +72,7 @@ On the **Content type templates** admin page, you can view which pages are using
   
 On the **Content type templates** page, click on **In use** below a template to view which pages are using that template. A search results type page will appear displaying all the titles of the pages using that template.
 
-![](../../../../.gitbook/assets/2%20%2891%29.jpg)
+![](../../../../.gitbook/assets/2%20%2899%29.jpg)
 
   
   

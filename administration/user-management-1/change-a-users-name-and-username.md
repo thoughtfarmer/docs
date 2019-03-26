@@ -17,15 +17,15 @@ If this change is for an **Active Directory** user then the name and username mu
 3. Use the filter, sort, and query tools to find the desired user \(see [Find users](find-users.md) for more info\).
 4. Click the **gear icon** in the **Action** column to the right of the user, and click **Edit account** in the menu that opens.
 
-![](../../.gitbook/assets/1%20%28111%29.png)
+![](../../.gitbook/assets/1%20%28122%29.png)
 
 5.Enter the new username in the **Username** text field in the **Account Type** section. For an Active Directory user, the username must correspond exactly to what has been entered in Active Directory.
 
-![](../../.gitbook/assets/2%20%2884%29.png)
+![](../../.gitbook/assets/2%20%2887%29.png)
 
 6.Enter the new **First name** and/or **Last name** in the text fields under the **Account information** section. For an Active Directory user, the First name and Last name must correspond exactly to what has been entered in Active Directory.
 
-![](../../.gitbook/assets/3%20%2847%29.png)
+![](../../.gitbook/assets/3%20%2851%29.png)
 
 7.Click **Save**.
 

@@ -15,11 +15,11 @@ Once you've completed the above, follow these steps to install the Employee Dire
 1. Run the latest EDC Manager. The **ThoughtFarmer configuration wizard** window will appear.
 2. Select the checkbox\(es\) for the component\(s\) you want to install.
 
-![](../../.gitbook/assets/1%20%2885%29.png)
+![](../../.gitbook/assets/1%20%2896%29.png)
 
 3.Enter a site name that will be the visible intranet name on your intranet.
 
-![](../../.gitbook/assets/2%20%28102%29.png)
+![](../../.gitbook/assets/2%20%28106%29.png)
 
 
 
@@ -27,11 +27,11 @@ Once you've completed the above, follow these steps to install the Employee Dire
 
 5.Select from the dropdowns or fill in the fields to configure and start the ThoughtFarmer web site in IIS. Click **browse** to select the installation path.
 
-![](../../.gitbook/assets/3%20%2811%29.png)
+![](../../.gitbook/assets/3%20%2812%29.png)
 
 6.See the steps below for the descriptions of the fields to be filled out.
 
-![](../../.gitbook/assets/4%20%2823%29.png)
+![](../../.gitbook/assets/4%20%2825%29.png)
 
 
 

@@ -15,11 +15,11 @@ If your intranet administrator has connected the intranet to SharePoint sites yo
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Card setup window** will open.  
 
 
-![](../../.gitbook/assets/1%20%2849%29.jpg)
+![](../../.gitbook/assets/1%20%2852%29.jpg)
 
 3.In the **Card setup window**, find the **SharePoint Card** section and click **Set up** below it \(or **add a SharePoint Card** by clicking **Modify template**, clicking the **plus sign** where you want the card, and then picking SharePoint from the cards menu on the right. Then click **Set up** on the Card\).
 
-![](../../.gitbook/assets/2%20%2833%29.jpg)
+![](../../.gitbook/assets/2%20%2834%29.jpg)
 
 4.elect a **SharePoint site** from the **Site** dropdown list.
 
@@ -49,7 +49,7 @@ If your intranet administrator has connected the intranet to SharePoint sites yo
   
 
 
-![](../../.gitbook/assets/4%20%2828%29.jpg)
+![](../../.gitbook/assets/4%20%2829%29.jpg)
 
 4.Find the **SharePoint Card** you want to delete and click the **garbage can icon** on it.
 

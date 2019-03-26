@@ -352,6 +352,7 @@
     * [Attachement settings](administration/security/attachement-settings.md)
     * [IP Content Restrictions](administration/security/ip-content-restrictions.md)
     * [Securing ThoughtFarmer](administration/security/securing-thoughtfarmer.md)
+    * [ThoughtFarmer security measures](administration/security/thoughtfarmer-security-measures.md)
   * [Language localization](administration/language-localization/README.md)
     * [Configure Languages](administration/language-localization/configure-languages.md)
     * [Automatic translation](administration/language-localization/automatic-translation.md)

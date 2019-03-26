@@ -8,11 +8,11 @@ It is easy to migrate content in bulk using our [Bulk Uploader](./). By mapping 
 
 2.On the left side right click on **Network** and click on **Map networked drive...**
 
-![](../../../.gitbook/assets/1%20%2887%29.png)
+![](../../../.gitbook/assets/1%20%2898%29.png)
 
 3.Select the drive letter you wish to use and enter the URL of your SharePoint intranet.
 
-![](../../../.gitbook/assets/2%20%2896%29.png)
+![](../../../.gitbook/assets/2%20%2899%29.png)
 
 4.Click **Finish**.
 

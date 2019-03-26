@@ -18,7 +18,7 @@ In order for Active Directory users to be able to change their passwords you fir
 
 5.You can leave the number of days as the default number, or type a new number of days in the field.
 
-![](../../../.gitbook/assets/1%20%2854%29.jpg)
+![](../../../.gitbook/assets/1%20%2857%29.jpg)
 
 
 

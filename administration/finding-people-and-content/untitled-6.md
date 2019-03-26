@@ -2,7 +2,7 @@
 
 On this page you will find instructions on how to use the Organizational Chart Viewer administration page. For an overview of the Org Chart from a user perspective, see [Organization Chart](https://community.thoughtfarmer.com/content/105725).
 
-![](../../.gitbook/assets/1%20%2814%29.jpg)
+![](../../.gitbook/assets/1%20%2815%29.jpg)
 
 
 
@@ -22,7 +22,7 @@ Your top level staff is the person or people who should appear on the top level 
 
 2.Click in the box under **Top level staff** and start typing the name of the person you want to be on the top level. Click on the person you want when you see them in the dropdown menu that opens. The name of the person you have selected will appear below the box.
 
-![](../../.gitbook/assets/2%20%2882%29.jpg)
+![](../../.gitbook/assets/2%20%2890%29.jpg)
 
 3.To add multiple top level staff members, do step 2 again. You will see their names appear in a list below the entry box.
 
@@ -40,11 +40,11 @@ Your top level staff is the person or people who should appear on the top level 
 
 The focal user is the person the Org Chart will focus on when it is opened by clicking **Org Chart Viewer** in the top right of the People Directory, or when the **Reset** button is clicked while viewing the Org Chart. If the Org Chart is opened from a user's profile page, or from the icon beside a specific user's entry in the People Directory, the Org Chart will focus on that user.
 
-![](../../.gitbook/assets/4%20%2825%29.jpg)
+![](../../.gitbook/assets/4%20%2826%29.jpg)
 
 You must set a top level staff member before the **Set focal user** section appears. The first top level staff member added will automatically become the focal user.
 
-![](../../.gitbook/assets/5%20%2815%29.jpg)
+![](../../.gitbook/assets/5%20%2816%29.jpg)
 
 1. Go to **Administration Panel**: **Users & security** section &gt; **Organizational Chart Viewer** page.
 2. Once you add a top level staff member, that person will automatically be chosen as the focal user. To select a different focal user, first click the **X** beside the name in the **Set focal user** box.
@@ -57,7 +57,7 @@ This is the number of levels that will be displayed in the Organization Chart. A
   
 **Bottom level is collapsed, showing number of people in this level section**
 
-![](../../.gitbook/assets/6%20%2814%29.jpg)
+![](../../.gitbook/assets/6%20%2815%29.jpg)
 
   
 1.Go to **Administration Panel**: **Users & security** section &gt; **Organizational Chart Viewer** page.
@@ -65,7 +65,7 @@ This is the number of levels that will be displayed in the Organization Chart. A
 2.Click the dropdown menu under the **Default display levels** heading.  
 
 
-![](../../.gitbook/assets/7%20%289%29.jpg)
+![](../../.gitbook/assets/7%20%2811%29.jpg)
 
 3.Select the number of levels you want to display from the dropdown menu.
 

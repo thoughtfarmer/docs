@@ -13,9 +13,9 @@ If your intranet is connected to SharePoint Online, see [Search cloud drives](..
 1. Search on the intranet as you normally would, by entering a **search term** in the site search box.
 2. On the search results page, click on your intranet name above the search box, and in the menu that opens, click **Sharepoint**. The search results will now show results only from Sharepoint.
 
-![](../../.gitbook/assets/1%20%288%29.png)
+![](../../.gitbook/assets/1%20%289%29.png)
 
-![](../../.gitbook/assets/2%20%2871%29.png)
+![](../../.gitbook/assets/2%20%2872%29.png)
 
 
 
@@ -33,7 +33,7 @@ To switch back to viewing intranet search results, click on SharePoint above the
 
 2.In the Search dropdown, click on **All** on the top left, and in the menu that opens, click on **SharePoint**. 
 
-![](../../.gitbook/assets/4%20%2830%29.jpg)
+![](../../.gitbook/assets/4%20%2831%29.jpg)
 
 
 

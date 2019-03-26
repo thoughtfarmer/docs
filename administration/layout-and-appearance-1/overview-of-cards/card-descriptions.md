@@ -9,7 +9,7 @@ For an introduction to the basics of Cards, see [Overview of Cards](./). Also se
 To learn about adding cards to the homepage, see [Edit the homepage template](../homepage-setup/homepage-setup-options.md) and [Configure homepage Cards](../homepage-setup/configure-homepage-cards/).  
 
 
-![](../../../.gitbook/assets/1%20%2897%29.jpg)
+![](../../../.gitbook/assets/1%20%28103%29.jpg)
 
 
 

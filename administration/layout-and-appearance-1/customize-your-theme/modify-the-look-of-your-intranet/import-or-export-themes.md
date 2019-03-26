@@ -14,7 +14,7 @@ This is useful for moving your theme from your staging to your production instan
 2. If you make any changes to the **Theme** page prior to exporting, make sure to **Save** your changes.
 3. Click **Export theme**, and **Save file**.
 
-![](../../../../.gitbook/assets/1%20%2857%29.png)
+![](../../../../.gitbook/assets/1%20%2865%29.png)
 
 The Theme will be saved as a .theme file in your Downloads folder. The filename will include your intranet name and the date and time of the export. You may wish to rename the file and move it to another folder for easy access.
 

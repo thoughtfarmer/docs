@@ -15,7 +15,7 @@ At this point, you can click the **Find stale content** button in the bottom rig
 
 ### Refine stale content search
 
-![](../../.gitbook/assets/3%20%2864%29.png)
+![](../../.gitbook/assets/3%20%2871%29.png)
 
 1. **To ignore page views performed by a certain user or users \(perhaps yourself\)**, start typing the name of the user in the **Ignore page views from** box, and click on the user's name in the dropdown that appears. Repeat to add more users.
 2. **To show results only from a certain section of the intranet**, start typing the name of that section in the **Show results from** box, and click on the section in the dropdown that appears. If you start typing and select a user's name in this box, it will search content under that user's profile page.
@@ -46,7 +46,7 @@ To clear any of the filters, click the X beside the filter. After performing a s
 
 If you find a page in the stale content report that is rarely viewed but is still current and valuable information that you want to keep on the intranet, you can choose to exclude it from future stale content reports. Check the box to the left of the page you want to exclude \(this will also select any subpages of this page\), and click the button **Exclude from stale content** at the top of the results. The page and subpages will now be excluded from future stale content results.
 
-![](../../.gitbook/assets/5%20%2826%29.jpg)
+![](../../.gitbook/assets/5%20%2828%29.jpg)
 
 
 

@@ -8,7 +8,7 @@ There are many reasons you may want to close a form, for example you may want to
   
 
 
-![](../../../.gitbook/assets/1%20%2878%29.png)
+![](../../../.gitbook/assets/1%20%2889%29.png)
 
 2.Click on the ellipses menu above the form name and select **Edit** to launch the form editor.
 
@@ -17,7 +17,7 @@ There are many reasons you may want to close a form, for example you may want to
 3.There will be a banner across the top of the form, and a link to **Close the form**. Click the link to close the form.  
 
 
-![](../../../.gitbook/assets/3%20%2840%29.png)
+![](../../../.gitbook/assets/3%20%2842%29.png)
 
 
 
@@ -25,11 +25,11 @@ There are many reasons you may want to close a form, for example you may want to
 2. When a form is closed:
    * The banner is hidden, and the closed date is added to the form details.
 
-![](../../../.gitbook/assets/4%20%2828%29.png)
+![](../../../.gitbook/assets/4%20%2831%29.png)
 
 • A **Relaunch** button is displayed next to Preview.
 
-![](../../../.gitbook/assets/5%20%2837%29.png)
+![](../../../.gitbook/assets/5%20%2843%29.png)
 
 
 

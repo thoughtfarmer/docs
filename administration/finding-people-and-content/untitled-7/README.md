@@ -12,7 +12,7 @@ At the top of the Profile details admin page is a checkbox option regarding the 
 
 At the top of the Profile details admin page is a checkbox option to Show Shout-outs on profile pages. If selected, the number of Shout-outs a user has received shows below their name on their profile page. Clicking on the number of Shout-outs displays a list of the Shout-outs in a pop-up window. To learn more see [Shout-outs settings & reports](../../customize-your-content/shout-out-settings-and-reports.md).
 
-![](../../../.gitbook/assets/5%20%2824%29.png)
+![](../../../.gitbook/assets/5%20%2829%29.png)
 
 ### Profile completeness report
 

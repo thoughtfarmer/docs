@@ -4,7 +4,7 @@
 
 RSS Feeds bring external news and information on to your intranet via News Cards. Users can bring a stream of external news on to an intranet page by adding RSS News Feed URLs to a News Card in edit mode. Administrators and users with edit permission can access the root RSS Feeds page \(the parent page of all RSS Feeds on the intranet\) by adding **/rssfeeds** to the end of the intranet URL. \(eg. https://myintranet.mycompany.com/rssfeeds\)
 
-![](../../.gitbook/assets/1%20%28121%29.jpg)
+![](../../.gitbook/assets/1%20%28128%29.jpg)
 
 ### Editing RSS Feeds and posts
 

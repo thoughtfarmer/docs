@@ -5,7 +5,7 @@
 The Random Quote feature of ThoughtFarmer allows users to add their favorite quotes to share with others. When enabled, user-added quotes will show wherever the Random Quote Card is added to a page. Every page refresh on a page with the Quotes Card will present a new randomly selected quote. Users can also navigate through the quotes using the arrows on the Random Quote Card.  
 
 
-![](../../../.gitbook/assets/1%20%28105%29.png)
+![](../../../.gitbook/assets/1%20%28116%29.png)
 
 ### Add a quote
 
@@ -14,11 +14,11 @@ All users can add quotes to the Random Quote Card.
 1. Go to the **Administration Panel** &gt; **Content** section &gt; **Quotes** page.
 2. Type your quote in the **Quote** field at the top of the page.
 
-![](../../../.gitbook/assets/2%20%2877%29.png)
+![](../../../.gitbook/assets/2%20%2878%29.png)
 
 1. Type the name of the person being quoted in the **Credit** field.
 
-![](../../../.gitbook/assets/3%20%2835%29.png)
+![](../../../.gitbook/assets/3%20%2837%29.png)
 
 
 
@@ -47,5 +47,5 @@ You must be in Admin mode to Delete a quote.
 4. Click **Delete** in the menu that appears. 
 5. Click **Delete** in the pop-up window to confirm the deletion.
 
-![](../../../.gitbook/assets/5%20%2838%29.png)
+![](../../../.gitbook/assets/5%20%2844%29.png)
 

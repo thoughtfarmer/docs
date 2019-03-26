@@ -19,7 +19,7 @@ By default, 14 fields contribute to profile strength: profile photo, first name,
 
    b.Uncheck the box to hide the indicator.
 
-![](../../../.gitbook/assets/8%20%286%29.jpg)
+![](../../../.gitbook/assets/8%20%287%29.jpg)
 
 3.Click **Save** at the bottom of the page.
 

@@ -8,7 +8,7 @@ To learn how to add a cover photo to your profile page, see [How to add a profil
   
 
 
-![](../../.gitbook/assets/1%20%2851%29.jpg)
+![](../../.gitbook/assets/1%20%2854%29.jpg)
 
 
 
@@ -18,7 +18,7 @@ Profile photos may come in all shapes and sizes, so when you add a profile photo
 
 1.Click on your name or profile photo in the top right on any page, and click **Edit profile** in the menu that opens.
 
-![](../../.gitbook/assets/2%20%2849%29.png)
+![](../../.gitbook/assets/2%20%2850%29.png)
 
 
 

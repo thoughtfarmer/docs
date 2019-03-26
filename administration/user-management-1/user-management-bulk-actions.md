@@ -13,7 +13,7 @@ You can apply actions to many users at once, or to a single user. To do this go 
 3. Select the appropriate user action from the dropdown box "Choose an action..."
 4. Click **Go**.
 
-![](../../.gitbook/assets/1%20%289%29.png)
+![](../../.gitbook/assets/1%20%2810%29.png)
 
 
 

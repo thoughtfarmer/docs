@@ -18,7 +18,7 @@ By default, subpages inherit security settings from their parent pages. When cha
   
 **Checkbox option indicates that security settings will be inherited from the parent page in the navigation**
 
-![](../../.gitbook/assets/1%20%2858%29.jpg)
+![](../../.gitbook/assets/1%20%2861%29.jpg)
 
 
 
@@ -46,7 +46,7 @@ You need to have View & edit permission on a page in order to change the securit
 
 6.Click on the name of the person or security group you want to add. \(Or use the arrow keys to navigate to the person's name and then hit the Enter key.\) It will appear in the text box.
 
-![](../../.gitbook/assets/3%20%2867%29.jpg)
+![](../../.gitbook/assets/3%20%2869%29.jpg)
 
 
 
@@ -55,7 +55,7 @@ You need to have View & edit permission on a page in order to change the securit
 8.Choose the permission level using the **can edit** toggle below the list of names. \(Can edit toggle ON \(colored\) = View and edit permission, Can edit toggle OFF \(grey\) = View only permission\)  
 
 
-![](../../.gitbook/assets/4%20%2837%29.jpg)
+![](../../.gitbook/assets/4%20%2838%29.jpg)
 
 
 
@@ -73,7 +73,7 @@ You can also access the security settings while you are creating or editing a pa
 
 2.In the **Security** section on the right, click **Security permissions**. This will open the **Security** pop-up window, and you can then follow the above instructions starting at Step 4.
 
-![](../../.gitbook/assets/5%20%2813%29.jpg)
+![](../../.gitbook/assets/5%20%2814%29.jpg)
 
 
 
@@ -115,7 +115,7 @@ You can remove permissions for everyone, those who have **View only** permission
 
 3.Click on the removal option that you want to apply. Those users will immediately be removed.
 
-![](../../.gitbook/assets/7%20%288%29.jpg)
+![](../../.gitbook/assets/7%20%2810%29.jpg)
 
 
 

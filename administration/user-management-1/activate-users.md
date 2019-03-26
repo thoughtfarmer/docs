@@ -15,7 +15,7 @@ For users that are marked as "Profile only" please see [Activate "Profile Only" 
 
 2.Use the filter, sort, and query tools to find the desired user or set of users \(see [Find users](https://community.thoughtfarmer.com/content/105964) for more info\). 
 
-![](../../.gitbook/assets/1%20%2829%29.png)
+![](../../.gitbook/assets/1%20%2834%29.png)
 
 
 
@@ -29,7 +29,7 @@ You can also activate a single user from the **User management** page by clickin
   
 Uncheck the checkbox "Account is inactive" and click **Save**. The **Edit user account** link is also available to administrators in "Admin mode" when editing a user's profile.
 
-![](../../.gitbook/assets/2%20%2836%29.png)
+![](../../.gitbook/assets/2%20%2837%29.png)
 
 For AD users; if Automatic User Creation is enabled, then the user's AD account must be active and a member of the synced-to AD group configured on the Employee Directory Connector page. Otherwise, the account will be deactivated if the sync task Bulk inactivate users is run.
 
@@ -49,7 +49,7 @@ If AD automatic user creation is enabled then users can be activated automatical
 4. Select the "Bulk create users" checkbox in the **On-demand Synchronization** section.
 5. Click **Synchronize now**.
 
-![](../../.gitbook/assets/4%20%2827%29.jpg)
+![](../../.gitbook/assets/4%20%2828%29.jpg)
 
 It may take a little time for the [ThoughtFarmer Service](../behind-the-scenes/thoughtfarmer-service.md) to complete the update. This depends on the number of users in the synced-to AD group and the server resources available. Your total licensed user count will change when the update is complete.
 

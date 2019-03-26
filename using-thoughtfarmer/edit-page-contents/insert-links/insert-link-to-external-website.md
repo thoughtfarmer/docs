@@ -11,7 +11,7 @@ Linking to an external website is very similar to linking to an intranet page.
    1. **Example**: "I just found tons of great instructions _on the ThoughtFarmer website_."
 3. Click the **Insert** **link** button to bring up the link pop-up window. \(The **Insert** **link** button looks like a set of three tiny links in a chain.\)
 
-![](../../../.gitbook/assets/1%20%282%29.png)
+![](../../../.gitbook/assets/1%20%283%29.png)
 
 
 
@@ -28,7 +28,7 @@ i.**Note**: Below the **Link Path** box is an option to **Show** **external** **
 **External website with intranet navigation links:**  
 \(How the external website will appear when **Show external location with \[Intranet name\] navigation** checkbox is selected.\)
 
-![](../../../.gitbook/assets/2%20%2845%29.jpg)
+![](../../../.gitbook/assets/2%20%2848%29.jpg)
 
 
 

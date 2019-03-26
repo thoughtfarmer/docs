@@ -4,7 +4,7 @@
 
 The **Main navigation** section of the Theme page allows you to customize font and color for the main navigation tabs you see on every page on your ThoughtFarmer Intranet.
 
-![](../../../../.gitbook/assets/1%20%2818%29.jpg)
+![](../../../../.gitbook/assets/1%20%2819%29.jpg)
 
 **Main navigation bar options**:
 
@@ -12,7 +12,7 @@ The **Main navigation** section of the Theme page allows you to customize font a
 * Background color
 * Letter case of page titles
 
-![](../../../../.gitbook/assets/2%20%2826%29.jpg)
+![](../../../../.gitbook/assets/2%20%2827%29.jpg)
 
 ### Specified background and font color
 

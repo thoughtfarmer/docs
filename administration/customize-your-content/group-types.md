@@ -13,7 +13,7 @@ Group Types are a configurable set of classifications that can be assigned to an
 
 Profile pages show a list of groups that a user belongs to.
 
-![](../../.gitbook/assets/1%20%2888%29.jpg)
+![](../../.gitbook/assets/1%20%2894%29.jpg)
 
 ### Add a group type
 
@@ -21,7 +21,7 @@ Profile pages show a list of groups that a user belongs to.
 2. Click **Add group type** on the right.  ![6.7Admin8699AddGroupType2.png](https://community.thoughtfarmer.com/imagethumb/123058300000/16698/119x43/False/6.7Admin8699AddGroupType2.png)  
 3. Enter the group type name in the site language in the **Group type** field.
 
-![](../../.gitbook/assets/2%20%2872%29.png)
+![](../../.gitbook/assets/2%20%2873%29.png)
 
 4.If you have multiple languages enabled on your intranet, click on the language icon on the right of the **Group type** field to open the dropdown.
 
@@ -48,7 +48,7 @@ You can remove any group type you wish. This action can not be undone. Any group
 
 2.Click the checkbox to the left of each group type you wish to delete.
 
-![](../../.gitbook/assets/3%20%2823%29.png)
+![](../../.gitbook/assets/3%20%2824%29.png)
 
 3.Click **Delete Checked**.
 

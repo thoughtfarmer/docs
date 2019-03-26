@@ -19,7 +19,7 @@ In the News Card setup you can customize the way the posts display, including wh
 
 3.In the **Card setup** window, find the **News: List/Grid View** Card section. You may find a News Card in the left, middle, or right column. Click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../.gitbook/assets/2%20%2889%29.jpg)
+![](../../.gitbook/assets/2%20%2897%29.jpg)
 
 
 

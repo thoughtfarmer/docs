@@ -10,7 +10,7 @@ In order for Shout-outs to be enabled, Updates must be enabled. To turn Shout-ou
   
 When Updates are turned ON, the Updates tab and Share an Update field are displayed in the Homepage Activity Card, Group page Activity Cards and Profile page Activity Cards. When Shout-outs are turned ON, the Shout-outs tab and Send a Shout-out field are displayed in the Homepage Activity Card, Group page Activity Cards, and Profile page Activity Cards.
 
-![](../../.gitbook/assets/1%20%2813%29.png)
+![](../../.gitbook/assets/1%20%2817%29.png)
 
 #### **Allow Shout-outs to Everyone and to specific Groups**
 
@@ -18,7 +18,7 @@ When **Allow Shout-outs to everyone** is selected, users can choose to send Shou
 When **Allow Shout-outs to groups** is selected, users can send Shout-outs to a group they belong to, which will appear in the group page activity, and in group members' activity.   
 Both options can be removed from the **Who Should See This?** dropdown by deselecting the corresponding checkbox.
 
-![](../../.gitbook/assets/2%20%283%29.jpg)
+![](../../.gitbook/assets/2%20%284%29.jpg)
 
 #### **Change Shout-outs icon**
 
@@ -28,15 +28,15 @@ The Shout-outs icon displays when you are creating a Shout-out, and on Shout-out
 
 Click on the **current Shout-out icon** to open a **menu** of icons, and click on the icon you want to use.
 
-![](../../.gitbook/assets/4%20%2834%29.png)
+![](../../.gitbook/assets/4%20%2837%29.png)
 
 #### Display Shout-outs on profile pages
 
-![](../../.gitbook/assets/5%20%283%29.png)
+![](../../.gitbook/assets/5%20%285%29.png)
 
 If enabled, the number of Shout-outs a user has received shows below their name on their profile page. Clicking on the number of Shout-outs displays a list of the Shout-outs in a pop-up window.
 
-![](../../.gitbook/assets/6%20%2822%29.png)
+![](../../.gitbook/assets/6%20%2823%29.png)
 
   
 To display Shout-outs on profile pages:
@@ -55,7 +55,7 @@ Admins can monitor Shout-outs usage through a report generator on the Shout-outs
 
 3.Under the **Reports** heading, select the **radio button** to view **All** Shout Outs, or Shout Outs sent to a **specific group**. \(If you pick **Select a group**, click in the text box and start typing the group name, then click on it in the list that appears.\)
 
-![](../../.gitbook/assets/7%20%286%29.jpg)
+![](../../.gitbook/assets/7%20%288%29.jpg)
 
 4.Select the **radio button** for one of the **pre-set time periods**, or select the **date range** radio button, then click in the boxes to choose start and end date from the calendar.
 

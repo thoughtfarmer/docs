@@ -34,7 +34,7 @@ An example of field mappings and data owner settings is shown at the bottom of t
 
 3.Click on the **Field Mappings** tab.
 
-![](../../../.gitbook/assets/1%20%2883%29.jpg)
+![](../../../.gitbook/assets/1%20%2889%29.jpg)
 
 
 

@@ -25,7 +25,7 @@ Profile photos can be synced between ThoughtFarmer and Active Directory \(AD\). 
 
 The AD synchronization tasks can be configured to run daily at a specified time. It is recommended to set this to run at a time when users will not be accessing the intranet. The daily synchronization tasks are set to disabled by default.
 
-![](../../.gitbook/assets/1%20%2879%29.jpg)
+![](../../.gitbook/assets/1%20%2885%29.jpg)
 
 #### Configure Active Directory daily synchronization
 
@@ -48,7 +48,7 @@ If daily sync is enabled then an additional log trimming task will run by defaul
 
 Any of the AD synchronization tasks can be triggered at any time using the **On-Demand synchronization** section from the **Administration panel** &gt; **Users & security** section &gt; **Employee directory connector** page. Click on the name of the Active Directory you want to edit and select the **Synchronization Settings** tab.
 
-![](../../.gitbook/assets/2%20%2814%29.jpg)
+![](../../.gitbook/assets/2%20%2815%29.jpg)
 
 Simply check the box beside the task\(s\) you wish to run and click **Synchronize now**. The ThoughtFarmer Service will log all information about the tasks in the System Log. You can examine the log to check on task progress and completion.
 

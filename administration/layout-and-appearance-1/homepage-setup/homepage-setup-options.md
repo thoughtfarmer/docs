@@ -27,7 +27,7 @@ Editing the homepage is a lot like editing any other content type on the intrane
 4.Click on one of the **three layout options** in the dropdown menu that opens. \(To learn more, see Page layout options.\)  
 
 
-![](../../../.gitbook/assets/1%20%2822%29.jpg)
+![](../../../.gitbook/assets/1%20%2825%29.jpg)
 
 
 
@@ -45,7 +45,7 @@ Editing the homepage is a lot like editing any other content type on the intrane
 6. Click **Done** in the **Card setup window**.
 7. Continue editing the homepage, or click **Save** if you are done.
 
-![](../../../.gitbook/assets/2%20%285%29.jpg)
+![](../../../.gitbook/assets/2%20%286%29.jpg)
 
 
 

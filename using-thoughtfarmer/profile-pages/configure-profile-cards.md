@@ -13,7 +13,7 @@ To configure the Cards on your profile page, **edit your profile** and click **C
 The **Update cards** pop-up window will appear.  
 
 
-![](../../.gitbook/assets/2%20%2863%29.jpg)
+![](../../.gitbook/assets/2%20%2868%29.jpg)
 
 
 

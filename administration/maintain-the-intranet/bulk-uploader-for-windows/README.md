@@ -22,7 +22,7 @@ This version of the uploader will work with ThoughtFarmer 8.5 and higher.
 1. Open the ThoughtFarmer Uploader from the icon on your desktop. The **Connect to ThoughtFarmer** pop-up window will appear.
 2. Enter the URL for your intranet in the Url box.
 
-![](../../../.gitbook/assets/1%20%281%29.png)
+![](../../../.gitbook/assets/1%20%282%29.png)
 
 
 
@@ -53,7 +53,7 @@ This version of the uploader will work with ThoughtFarmer 8.5 and higher.
 
 11.Click **Upload Now**. Folders/Files will disappear from the Upload Queue as they are uploaded.
 
-![](../../../.gitbook/assets/3%20%2849%29.png)
+![](../../../.gitbook/assets/3%20%2855%29.png)
 
 12.Go to/Refresh the page on which you have uploaded the folders/files. You will see the files attached to the page.
 

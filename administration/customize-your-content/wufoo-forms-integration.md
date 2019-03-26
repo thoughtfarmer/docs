@@ -14,7 +14,7 @@ For user instructions about adding Wufoo forms, see [How to add a Wufoo form](..
 2. Click **enable**.![6.7Admin9149EnableWufoo2.png](https://community.thoughtfarmer.com/imagethumb/37449400000/16408/600x600/False/6.7Admin9149EnableWufoo2.png)
 3. In the **Wufoo subdomain** field, enter the subdomain you use to access your Wufoo account. \(eg. if you access your Wufoo account at http://acme.wufoo.com, your subdomain is acme.\)
 
-![](../../.gitbook/assets/1%20%2846%29.png)
+![](../../.gitbook/assets/1%20%2853%29.png)
 
 
 
@@ -29,7 +29,7 @@ For user instructions about adding Wufoo forms, see [How to add a Wufoo form](..
 1. If the test fails to connect to your Wufoo subdomain \(you see a red X icon![6.7Admin9149WufooTestFails.png](https://community.thoughtfarmer.com/imagethumb/36132830000/16407/600x600/False/6.7Admin9149WufooTestFails.png)\), double-check that you have entered your subdomain and Wufoo API token information correctly, and test the settings again.
 2. If the test succeeds, you will see a green checkmark and a message indicating the successful connection. Close the dialog and continue.
 
-![](../../.gitbook/assets/2%20%2863%29.png)
+![](../../.gitbook/assets/2%20%2864%29.png)
 
 8.Click **Save changes**.
 

@@ -12,13 +12,13 @@ See also [Image size guidelines](https://community.thoughtfarmer.com/content/105
 
 **Collapsed page header image**
 
-![](../../../../.gitbook/assets/1%20%28116%29.jpg)
+![](../../../../.gitbook/assets/1%20%28122%29.jpg)
 
 Page headers display in two different states—collapsed and expanded. When you first navigate to a page, the page header is collapsed, so you see only a portion of the page header image. When you click on the down arrow on the right of the page header, the header expands to show more of the image as a background for the Page Controls and information that appear.  
   
 **Expanded page header image**
 
-![](../../../../.gitbook/assets/2%20%2871%29.jpg)
+![](../../../../.gitbook/assets/2%20%2879%29.jpg)
 
 The height of the expanded page header image is variable depending on the height of the content in the Page Controls.  
   
@@ -40,11 +40,11 @@ The pink rectangles on the following images represent the area of the image that
   
 **Desktop—full image showing area that shows in collapsed page header**
 
-![](../../../../.gitbook/assets/4%20%2845%29.png)
+![](../../../../.gitbook/assets/4%20%2849%29.png)
 
 **Desktop—image as it appears in collapsed page header**
 
-![](../../../../.gitbook/assets/5%20%2829%29.png)
+![](../../../../.gitbook/assets/5%20%2835%29.png)
 
 At the widest width, collapsed page header images are 1170 pixels in width by approximately 200 pixels in height.  
 The height of the page header image area stays the same the narrower your page gets. This means you see more of your images vertically as the page width decreases.  
@@ -65,7 +65,7 @@ On mobile you can see nearly the entire image \(if it is a landscape oriented ph
   
 **Mobile—image as it appears in collapsed page header**
 
-![](../../../../.gitbook/assets/9.png)
+![](../../../../.gitbook/assets/9%20%281%29.png)
 
 ### Portrait versus Landscape
 

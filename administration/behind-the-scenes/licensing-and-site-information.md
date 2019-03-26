@@ -6,7 +6,7 @@ The site info section is the informational portlet that is on the right side of 
   
 **Administration panel site information portlet:**
 
-![](../../.gitbook/assets/1%20%2833%29.png)
+![](../../.gitbook/assets/1%20%2839%29.png)
 
 There are 6 major site attributes that are modifiable here by clicking **Edit** in the top right of the information panel:  
   

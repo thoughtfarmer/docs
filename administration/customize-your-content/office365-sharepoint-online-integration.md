@@ -12,7 +12,7 @@ Note that the integration with Office 365 requires that the ThoughtFarmer site i
 
 1. Go to the Azure portal home page.
 
-![](../../.gitbook/assets/1%20%2826%29.png)
+![](../../.gitbook/assets/1%20%2831%29.png)
 
 
 
@@ -33,11 +33,11 @@ Note that the integration with Office 365 requires that the ThoughtFarmer site i
 2. **Application type**: This should be set to Web app / API
 3. **Sign-on URL**: Enter the URL for the ThoughtFarmer site \(eg. [https://intranet.pacificcreditunion.com/\)](https://intranet.pacificcreditunion.com/%29) 
 
-![](../../.gitbook/assets/2%20%2862%29.png)
+![](../../.gitbook/assets/2%20%2863%29.png)
 
 6.Click the **Create** button. Once the registration is complete you will see the details of the registered app.
 
-![](../../.gitbook/assets/3%20%2861%29.png)
+![](../../.gitbook/assets/3%20%2867%29.png)
 
 7.Click **Settings** to continue the configuration.
 
@@ -51,7 +51,7 @@ Note that the integration with Office 365 requires that the ThoughtFarmer site i
 
           1.  The Reply URL is where the browser is sent once the negotiation is complete. Enter your site URL/office365 eg. [https://intranet.pacificcreditunion.com/office365](https://intranet.pacificcreditunion.com/office365)
 
-![](../../.gitbook/assets/5%20%286%29.png)
+![](../../.gitbook/assets/5%20%288%29.png)
 
 
 
@@ -59,7 +59,7 @@ Note that the integration with Office 365 requires that the ThoughtFarmer site i
 
 10.Click **Required permissions** to set the permissions for the APIs we wish to use.
 
-![](../../.gitbook/assets/7%20%2811%29.png)
+![](../../.gitbook/assets/7%20%2812%29.png)
 
 11.Add Microsoft Graph:
 

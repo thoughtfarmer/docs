@@ -16,7 +16,7 @@ When you create a new page, you may want to make certain people aware of the pag
 3.Click in the **Enter name box**, and start typing the name of the person you want to add.  
 
 
-![](../../../.gitbook/assets/9%20%288%29.png)
+![](../../../.gitbook/assets/9%20%289%29.png)
 
 
 

@@ -14,7 +14,7 @@ Add a tag type field to a profile section so users can add tags that will help o
   
 **Custom profile section and field as seen on the Profile Details Admin page:**
 
-![](../../../.gitbook/assets/5%20%2835%29.png)
+![](../../../.gitbook/assets/5%20%2841%29.png)
 
 
 
@@ -47,13 +47,13 @@ Add a tag type field to a profile section so users can add tags that will help o
 
 **Custom profile section and field as seen on a user profile page:**
 
-![](../../../.gitbook/assets/6%20%2826%29.png)
+![](../../../.gitbook/assets/6%20%2828%29.png)
 
 ### Free tagging and custom profile field tags <a id="section2"></a>
 
 Free tagging can be enabled through the [Tags page](../../../using-thoughtfarmer/tags/) in the Administration panel. This configuration option has an effect on both regular and custom profile field tags. With free tagging enabled users are able to create tags on the fly. If a user enters a value that is not an existing tag in that specific custom field, then they are given the option to create it, as shown below.
 
-![](../../../.gitbook/assets/7%20%2818%29.png)
+![](../../../.gitbook/assets/7%20%2819%29.png)
 
 When a user creates a tag in a custom profile field, the tag will be added to that profile field bundle. In the above image, the newly created tag "Rugby" will now be part of the profile field tag bundle "Sports". Tags created by users on other content on the intranet is added to the generic group **Unbundled tags**.  
   

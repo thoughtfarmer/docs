@@ -8,7 +8,7 @@ Use these instructions to switch between different language versions of a page. 
 
 If a page has multiple language versions, you will see the Translate icon \(a globe\) in the Page Sharing Buttons in the page header. Click on the Translate icon to see a menu of the available language versions of that page. Click on the language you want to view to switch the page to that language version.
 
-![](../../.gitbook/assets/1%20%28118%29.jpg)
+![](../../.gitbook/assets/1%20%28124%29.jpg)
 
 To switch back, click on the Translate icon again, and click on your original language.
 

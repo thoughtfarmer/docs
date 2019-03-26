@@ -19,11 +19,11 @@ After following the four steps above, all content for the current owner will dis
 
 2.To change ownership of only some of the user's pages, uncheck the box at the top left.
 
-![](../../.gitbook/assets/1%20%2834%29.jpg)
+![](../../.gitbook/assets/1%20%2837%29.jpg)
 
 3.Navigate through the directory of pages by clicking on the rotating triangles on the left. Hover over sections to see a pop-up telling you how many subpages the user owns in that section. Select only the pages or sections of pages whose ownership you wish to change. The list on the right will automatically refresh showing only the pages that are selected.
 
-![](../../.gitbook/assets/2%20%2866%29.jpg)
+![](../../.gitbook/assets/2%20%2871%29.jpg)
 
 
 

@@ -10,7 +10,7 @@ There are 4 main sections to the configuration page:
 
 #### **1.** SharePoint Connector features
 
-![](../../../.gitbook/assets/2%20%2869%29.jpg)
+![](../../../.gitbook/assets/2%20%2877%29.jpg)
 
 Select the checkbox beside the desired feature\(s\) and click **Save changes** in order to make it available from within ThoughtFarmer:
 
@@ -40,13 +40,13 @@ For each SharePoint server you wish to connect to ThoughtFarmer you need to add 
 
 Once the SharePoint Servers have been added you can the click the Verify button in the Verify configuration section of the screen. This will test the connections to each of the configured Integration Service URLs. If there are any problems an error message will be displayed to you along side the server that failed. Successful connections will show with a green checkmark.
 
-![](../../../.gitbook/assets/4%20%2852%29.jpg)
+![](../../../.gitbook/assets/4%20%2855%29.jpg)
 
 #### **4.** Available sites
 
 Once the SharePoint Connector has been verified you will see a list of sites available to be integrated into ThoughtFarmer. This list of sites is the root site, plus all the subsites under the configured SharePoint access URL. You can enable or disable specific sites for integration. If a site is not marked as enabled, then no SharePoint integration features will be available for that site.
 
-![](../../../.gitbook/assets/5%20%2819%29.jpg)
+![](../../../.gitbook/assets/5%20%2820%29.jpg)
 
 ### Remove the ScrubHtml filter
 

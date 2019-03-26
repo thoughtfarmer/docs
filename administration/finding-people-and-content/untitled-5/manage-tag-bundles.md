@@ -4,7 +4,7 @@
 
 Tag bundles provide logical groupings for your tags. They allow users to quickly find and apply tags to content, which improves overall searchability. On this page you will learn how to add, localize and delete tag bundles.
 
-![](../../../.gitbook/assets/1%20%28102%29.png)
+![](../../../.gitbook/assets/1%20%28113%29.png)
 
 
 
@@ -23,7 +23,7 @@ All tag bundles can be localized to show the user's preferred language. You can 
 
 4.In the **Add Bundle** pop-up window, click in the text box, and type the name of the new bundle.
 
-![](../../../.gitbook/assets/3%20%2839%29.png)
+![](../../../.gitbook/assets/3%20%2841%29.png)
 
 
 
@@ -52,7 +52,7 @@ When you delete an existing tag bundle, all tags in that bundle will move to "Un
 
 3.Select the checkbox beside the **Bundle name** for the bundle\(s\) you wish to delete. The name of the selected bundle\(s\) will show above the list.
 
-![](../../../.gitbook/assets/4%20%2820%29.png)
+![](../../../.gitbook/assets/4%20%2822%29.png)
 
 
 
@@ -60,7 +60,7 @@ When you delete an existing tag bundle, all tags in that bundle will move to "Un
 
 5.Click **Confirm** in the **Delete tag bundles** window to confirm the deletion. Tags in the deleted bundle will now be Unbundled tags.
 
-![](../../../.gitbook/assets/5%20%2823%29.png)
+![](../../../.gitbook/assets/5%20%2828%29.png)
 
 ### Manage tag to tag bundle associations <a id="section3"></a>
 

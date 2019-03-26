@@ -8,7 +8,7 @@ As a submitter, you may have access to multiple forms at any given time but they
 
 2.Click on the Forms option to open the Form Overview.
 
-![](../../../.gitbook/assets/1%20%2810%29.png)
+![](../../../.gitbook/assets/1%20%2811%29.png)
 
 
 
@@ -16,11 +16,11 @@ As a submitter, you may have access to multiple forms at any given time but they
 
 **1.Grid view** - the Forms Overview will open in this view by default. It displays each form in a card format.
 
-![](../../../.gitbook/assets/2%20%2846%29.png)
+![](../../../.gitbook/assets/2%20%2847%29.png)
 
 **2.List view** - this format displays forms in a running list. Each line contains the same information that the grid view displays.
 
-![](../../../.gitbook/assets/3%20%2825%29.png)
+![](../../../.gitbook/assets/3%20%2827%29.png)
 
 
 

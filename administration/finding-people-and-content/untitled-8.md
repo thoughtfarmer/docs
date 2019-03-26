@@ -4,7 +4,7 @@ To view search term reports, go to the **Administration panel**: **Search** sect
   
 The Search Terms page allows you to see what terms are being searched for on the intranet and the top pages that users visit after searching for a given term. The Search Terms displayed include terms searched for with the Find as you type feature, where search results are displayed in a dropdown menu from the main search bar as a user types in a search term.
 
-![](../../.gitbook/assets/2%20%2865%29.jpg)
+![](../../.gitbook/assets/2%20%2870%29.jpg)
 
 When you visit the page, by default it shows the top 20 search terms for today's date, showing the number of times each term was searched for. Click on the arrow on the right of a search term to see the top five pages that were viewed after a user searched a given term. To view more search terms, click **Show 20 More** at the bottom of the page.  
   

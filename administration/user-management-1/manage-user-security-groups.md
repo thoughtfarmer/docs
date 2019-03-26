@@ -12,7 +12,7 @@ The [User Management](./) page allows you to control the security membership to 
 2. Use the filter, sort, and query tools to find the desired user or set of users \(see [Find users](find-users.md) for more info\).
 3. Click the **gear icon** in the **Action** column to the right of the user, and click **Security groups** in the menu that opens. This will open the **Select a security group** dialog box.
 
-![](../../.gitbook/assets/1%20%2825%29.jpg)
+![](../../.gitbook/assets/1%20%2828%29.jpg)
 
 4.Drag-and-drop security groups from the **All security groups** column to the **Member of** column to add a user to that group.
 

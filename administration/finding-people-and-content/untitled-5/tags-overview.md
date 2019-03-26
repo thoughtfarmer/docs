@@ -6,7 +6,7 @@ You can enhance your intranet by making relevant content easy to find through th
   
 Tag bundles allow further classification of content by grouping specific tags into sections. When searching content, tag bundles organize tags into logical groups. They also show when adding tags to a page.
 
-![](../../../.gitbook/assets/1%20%2897%29.png)
+![](../../../.gitbook/assets/1%20%28108%29.png)
 
 Tags can also be added to user profiles to be used with the Expertise locator feature. This is configured differently than the tagging on pages. Please see the [Expertise locator](../untitled-4/) page for more information.
 
@@ -14,7 +14,7 @@ Tags can also be added to user profiles to be used with the Expertise locator fe
 
 In the **Tags** box, users type in a tag; if the tag already exists on the intranet, it displays in a list below the field. If the tag doesn't exist, the option to create a new tag appears below the field. \(This is true only if the intranet has been configured to [allow users to create tags](tags-overview.md).\)
 
-![](../../../.gitbook/assets/2%20%2842%29.png)
+![](../../../.gitbook/assets/2%20%2843%29.png)
 
 Users can also choose an existing tag manually by clicking Show all tags and scrolling through the existing tag bundles or by choosing one of the Recommended tags. The Recommended tags are auto-generated based on the content, title and hierarchy of sibling pages. They provide a most-likely match for tagging a specific page within the context of the intranet as a whole. Please see [Recommended tags](recommended-tags.md) for more information.
 
@@ -22,12 +22,12 @@ Users can also choose an existing tag manually by clicking Show all tags and scr
 
 When searching for content, tags show in their respective bundles on the left-hand side of the search page. Users can use a combination of query, facet, and tag options to filter content to find what they need quickly.
 
-![](../../../.gitbook/assets/3%20%2868%29.png)
+![](../../../.gitbook/assets/3%20%2876%29.png)
 
 The left hand search column will change depending on the chosen set of queries and filters. The number beside the tag indicates how many pages in the current search have that tag. You can view and search the full set of available tags and search facets by clicking **Search** in the Application toolbar, and then clicking **Advanced search** in the search dropdown.  
 
 
-![](../../../.gitbook/assets/4%20%2811%29.png)
+![](../../../.gitbook/assets/4%20%2812%29.png)
 
 ### Unbundled versus bundled tags <a id="section3"></a>
 

@@ -14,7 +14,7 @@ When Updates are turned ON, the Updates tab and Share an Update field are displa
 
 When a user sends an update, they can send it to Everyone \(all users\), or they can send it to a specific group, if these options are enabled.
 
-![](../../.gitbook/assets/1%20%2832%29.jpg)
+![](../../.gitbook/assets/1%20%2835%29.jpg)
 
 Select the checkbox **Allow Updates for everyone** to allow users to send update messages that will appear in all users' homepage Activity Cards.  
 Select the checkbox **Allow Updates for groups** to allow users to send update messages that will appear on the group page Activity Card, and the homepage Activity Cards of group members.  
@@ -31,7 +31,7 @@ After changing these settings, click **Save** at the bottom of the page.
 
 **Allowed time to edit**After posting an update or message, a user may want to make changes to it. The user can do this by clicking the three dots on the top right of the update, and clicking **Edit for \(2\) min** before the end of the timespan set by the administrator. The default timespan is two minutes. After editing and saving an update or message, the user will have another timespan during which they can edit the update or message.
 
-![](../../.gitbook/assets/2%20%2831%29.jpg)
+![](../../.gitbook/assets/2%20%2832%29.jpg)
 
 Email notifications for updates are not sent until the allowed time to edit has expired. So if the allowed time to edit is set to 30 minutes, the email notification will not be sent until after the 30 minute timespan has expired. If the user edits the update within that timespan, when the user saves the update, another 30 minute timespan will start, and the email notification will not be sent until that timespan has expired.  
   

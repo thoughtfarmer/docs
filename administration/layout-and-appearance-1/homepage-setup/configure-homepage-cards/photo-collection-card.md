@@ -19,11 +19,11 @@ A Photo collection Card adds visual interest to your page by engaging viewers wi
 6.In the **Photo collection** pop-up window, start typing the name of the photo gallery you want to add in the **Find a photo gallery** box.  
 
 
-![](../../../../.gitbook/assets/1%20%283%29.png)
+![](../../../../.gitbook/assets/1%20%284%29.png)
 
 7.Click on the name of the photo gallery in the dropdown menu that appears.
 
-![](../../../../.gitbook/assets/2%20%2867%29.png)
+![](../../../../.gitbook/assets/2%20%2868%29.png)
 
 
 

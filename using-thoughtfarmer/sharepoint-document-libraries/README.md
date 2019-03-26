@@ -5,7 +5,7 @@
 Use these instructions to embed SharePoint document libraries on intranet pages and edit SharePoint files. Once your intranet administrator has connected to SharePoint sites, you can embed any document library from those sites on an intranet page. You can rename, edit and save SharePoint files directly from the intranet, as well as insert links to SharePoint files and search for them using the intranet search engine.  
 
 
-![](../../.gitbook/assets/1%20%28122%29.jpg)
+![](../../.gitbook/assets/1%20%28129%29.jpg)
 
 
 
