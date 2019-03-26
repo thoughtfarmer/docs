@@ -29,7 +29,7 @@ It should be noted that the "unique visitors" count here is utilizing cookies to
 
 By default, Matomo will accurately track the time spent on your pages for all pages, except the last page view of the visit. By default, on the last page view of any visit, Matomo counts the “Time spent on page” as 0 second. And when your visitor views only one page in the website, the visit duration will be set to a default of 10 seconds. This report can be found under Visitors &gt; Engagement.
 
-![](../../.gitbook/assets/2%20%2833%29.png)
+![](../../.gitbook/assets/2%20%2834%29.png)
 
 ### Visits Real-time <a id="VisitsRealtime"></a>
 
@@ -72,7 +72,7 @@ You can find the search keywords report under the ThoughtFarmer tab on the left 
   
 The following image shows ThoughtFarmer Analytics search keyword data for a specific day. 
 
-![](../../.gitbook/assets/5%20%283%29.png)
+![](../../.gitbook/assets/5%20%284%29.png)
 
 ### Page Hierarchy <a id="PageHierarchy"></a>
 
@@ -86,7 +86,7 @@ The Page Hierarchy report found under ThoughtFarmer on the left hand side menu i
   
 **TIP:** The export functionality in the Page Hierarchy report does not take into account any pages you have drilled down into in the user interface. It simply exports a flat top-level report. However, in IE and Chrome you can highlight and copy areas of the expanded table directly and then paste them into Excel and it will preserve the column and row formatting.
 
-![](../../.gitbook/assets/6%20%2824%29.png)
+![](../../.gitbook/assets/6%20%2825%29.png)
 
 ### Page Titles <a id="PageTitles"></a>
 
@@ -100,7 +100,7 @@ The Downloads report displays data for unique downloads and downloads, but you c
   
 Matomo will automatically detect a download as a click on a link that ends with one of the following file extensions: 7z, aac, apk, arc, arj, asf, asx, avi, azw3, bin, bz, bz2, csv, deb, dmg, doc, docx, epub, exe, flv, gif, gz, gzip, hqx, ibooks, jar, jpg, jpeg, js, mp2, mp3, mp4, mpg, mpeg, mobi, mov, movie, msi, msp, odb, odf, odg, ods, odt, ogg, ogv, pdf, phps, png, ppt, pptx, qt, qtm, ra, ram, rar, rpm, sea, sit, tar, tbz, tbz2, tgz, torrent, txt, wav, wma, wmv, wpd, xls, xlsx, xml, z, zip.
 
-![](../../.gitbook/assets/8%20%2821%29.png)
+![](../../.gitbook/assets/8%20%2822%29.png)
 
 ### Browsers <a id="Browsers"></a>
 

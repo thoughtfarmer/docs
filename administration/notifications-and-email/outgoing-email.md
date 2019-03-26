@@ -26,7 +26,7 @@ Go to the **Administration panel**: **Notifications** section &gt; **Outgoing ma
 4. In the dialog that appears, you can type an email address into the **Test email address** field or leave it as your logged in user's default.
 5. Click **Verify**. Any errors in connecting or logging on will be presented in the test results.
 
-![](../../.gitbook/assets/1%20%2888%29.png)
+![](../../.gitbook/assets/1%20%2889%29.png)
 
 Once both tests are successful and you have received the test email then the outgoing email will be fully configured and operational.
 

@@ -12,7 +12,7 @@ Note that the integration with Office 365 requires that the ThoughtFarmer site i
 
 1. Go to the Azure portal home page.
 
-![](../../.gitbook/assets/1%20%2831%29.png)
+![](../../.gitbook/assets/1%20%2832%29.png)
 
 
 
@@ -33,7 +33,7 @@ Note that the integration with Office 365 requires that the ThoughtFarmer site i
 2. **Application type**: This should be set to Web app / API
 3. **Sign-on URL**: Enter the URL for the ThoughtFarmer site \(eg. [https://intranet.pacificcreditunion.com/\)](https://intranet.pacificcreditunion.com/%29) 
 
-![](../../.gitbook/assets/2%20%2863%29.png)
+![](../../.gitbook/assets/2%20%2864%29.png)
 
 6.Click the **Create** button. Once the registration is complete you will see the details of the registered app.
 
@@ -51,7 +51,7 @@ Note that the integration with Office 365 requires that the ThoughtFarmer site i
 
           1.  The Reply URL is where the browser is sent once the negotiation is complete. Enter your site URL/office365 eg. [https://intranet.pacificcreditunion.com/office365](https://intranet.pacificcreditunion.com/office365)
 
-![](../../.gitbook/assets/5%20%288%29.png)
+![](../../.gitbook/assets/5%20%289%29.png)
 
 
 
@@ -65,11 +65,11 @@ Note that the integration with Office 365 requires that the ThoughtFarmer site i
 
 1.Click **Add**, then click **Select an API**.
 
-![](../../.gitbook/assets/12%20%283%29.png)
+![](../../.gitbook/assets/12%20%284%29.png)
 
     2.Select **Microsoft Graph**.
 
-![](../../.gitbook/assets/13%20%282%29.png)
+![](../../.gitbook/assets/13%20%283%29.png)
 
 3.Click **Select permissions**.
 
@@ -85,7 +85,7 @@ Note that the integration with Office 365 requires that the ThoughtFarmer site i
 
 ![](../../.gitbook/assets/15.png)
 
-![](../../.gitbook/assets/16%20%281%29.png)
+![](../../.gitbook/assets/16%20%282%29.png)
 
 12\(Optional: If your organization uses OneDrive but not SharePoint Online, this step is not required.\)  
 Add Office 365 SharePoint Online:
@@ -99,7 +99,7 @@ Add Office 365 SharePoint Online:
 
 13.A change is required to the manifest file for the registered application. On the **Details** screen, click **Manifest**.
 
-![](../../.gitbook/assets/17%20%281%29.png)
+![](../../.gitbook/assets/17%20%282%29.png)
 
 1. 1. The Manifest is a JSON document. Find the key oauth2AllowImplicitFlow and change its **value** to **true.**  
   

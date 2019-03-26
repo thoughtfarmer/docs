@@ -4,7 +4,7 @@
 
 When cloud drive integration is enabled, files and folders from cloud drives like Google Drive, OneDrive and SharePoint Online can be linked to and embedded on intranet pages.
 
-![](../../.gitbook/assets/1%20%2878%29.png)
+![](../../.gitbook/assets/1%20%2879%29.png)
 
 
 
@@ -16,7 +16,7 @@ For administrator instructions on enabling cloud drive integration, see [Google 
 
 1. Click **Cloud drive**.
 
-![](../../.gitbook/assets/2%20%2844%29.png)
+![](../../.gitbook/assets/2%20%2845%29.png)
 
 2.Select the **desired cloud drive** from the dropdown menu that opens. eg. Google Drive, OneDrive, SharePoint Online. The **Add files and folders** window will appear.  
 
@@ -38,13 +38,13 @@ For administrator instructions on enabling cloud drive integration, see [Google 
 
 Once a cloud drive has already been added, more files and folders can be added simply by clicking **Add** beside the Cloud Drive name. The **Add files and folders** window will appear and the instructions above \(How to create a cloud drive document library\) can be followed from Step 3 on.
 
-![](../../.gitbook/assets/4%20%2826%29.png)
+![](../../.gitbook/assets/4%20%2827%29.png)
 
 ### Unshared files
 
 If a file has been linked or embedded on a page, but has not been shared with a particular user, the user will see the message “File or folder unavailable. Learn more” where the file name would otherwise display. When the user clicks “Learn more”, they will be taken to the external cloud drive site to be provided with more information. The user may be able to request permission to have the file shared with them.
 
-![](../../.gitbook/assets/5%20%2824%29.png)
+![](../../.gitbook/assets/5%20%2825%29.png)
 
 ### Private files
 

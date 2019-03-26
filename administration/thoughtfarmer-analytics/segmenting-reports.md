@@ -32,13 +32,13 @@ In order to create segments you need to click the **All Visits** tab that is loc
 
 3.Click the dropdown that says **Actions in Visit** by default. Select **Actions** &gt; **Page URL**.
 
-![](../../.gitbook/assets/2%20%2881%29.png)
+![](../../.gitbook/assets/2%20%2882%29.png)
 
 4.Select **Contains** from the dropdown menu in the middle.
 
 5.Type **content/edit** into the **Value** text field. It should look like the following:
 
-![](../../.gitbook/assets/4%20%2853%29.png)
+![](../../.gitbook/assets/4%20%2854%29.png)
 
 6.Click **Save & Apply**.
 

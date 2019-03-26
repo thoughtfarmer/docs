@@ -29,7 +29,7 @@ f.Type in the Rich Text Editor box to add more information about your event to t
 
 4.Click **Publish** and the event will show up on the calendar on the date\(s\) you specified.
 
-![](../../../.gitbook/assets/2%20%2838%29.png)
+![](../../../.gitbook/assets/2%20%2839%29.png)
 
 
 

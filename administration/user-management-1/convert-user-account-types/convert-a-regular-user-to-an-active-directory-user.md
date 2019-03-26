@@ -18,7 +18,7 @@ You may wish to migrate a Regular user to an Active Directory user; this user wi
 
 5.Click the gear icon in the **Action** column to the right of the user, and click **Edit account** in the menu that opens.
 
-![](../../../.gitbook/assets/1%20%28119%29.png)
+![](../../../.gitbook/assets/1%20%28120%29.png)
 
 
 

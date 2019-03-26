@@ -60,7 +60,7 @@ See change grid layout title length and [change grid layout summary ](../../../.
 In List View, News items display in a vertical list. On larger screens, images display on the left of News post titles and their excerpts/summaries. On smaller screens, images display above News post titles and excerpts/summaries. News post date and author show below the post, along with options to Like and Comment on the post.  
 
 
-![](../../../../../.gitbook/assets/4%20%2844%29.png)
+![](../../../../../.gitbook/assets/4%20%2845%29.png)
 
 ### News: List View—No Images
 

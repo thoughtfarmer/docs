@@ -21,7 +21,7 @@ Profile pages show a list of groups that a user belongs to.
 2. Click **Add group type** on the right.  ![6.7Admin8699AddGroupType2.png](https://community.thoughtfarmer.com/imagethumb/123058300000/16698/119x43/False/6.7Admin8699AddGroupType2.png)  
 3. Enter the group type name in the site language in the **Group type** field.
 
-![](../../.gitbook/assets/2%20%2873%29.png)
+![](../../.gitbook/assets/2%20%2874%29.png)
 
 4.If you have multiple languages enabled on your intranet, click on the language icon on the right of the **Group type** field to open the dropdown.
 

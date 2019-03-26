@@ -12,7 +12,7 @@ Whenever you search your intranet you'll see five different search filters on th
   
 
 
-![](../../.gitbook/assets/1%20%2897%29.png)
+![](../../.gitbook/assets/1%20%2898%29.png)
 
 **Options**:
 
@@ -22,7 +22,7 @@ Use the **Type** filter if you know the format of the content you seek. For inst
 
 **Filter 2: Edited By**
 
-![](../../.gitbook/assets/2%20%2828%29.png)
+![](../../.gitbook/assets/2%20%2829%29.png)
 
 **Options**:
 
@@ -42,7 +42,7 @@ Use the **Owned by** filter if you know the name of the person who owns the cont
 
 **Filter 4: Posted Date**
 
-![](../../.gitbook/assets/4%20%2832%29.png)
+![](../../.gitbook/assets/4%20%2833%29.png)
 
 **Options**:
 
@@ -58,7 +58,7 @@ Use the **Posted Date** if you know approximately when someone posted the specif
 
 **Filter 5: Tag**
 
-![](../../.gitbook/assets/5%20%2814%29.png)
+![](../../.gitbook/assets/5%20%2815%29.png)
 
 **Options**:
 
@@ -87,7 +87,7 @@ Each time you click on a search filter the results page will refresh and the fil
   
 If a filter you chose turns out not to be helpful, remove it by clicking the **X** to the right of that filter's name at the top of the page. If you want to start your search from scratch click **Clear filters** to the right of the current filters.
 
-![](../../.gitbook/assets/7%20%2821%29.png)
+![](../../.gitbook/assets/7%20%2822%29.png)
 
 ### View archived content in search
 

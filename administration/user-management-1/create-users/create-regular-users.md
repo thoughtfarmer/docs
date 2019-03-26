@@ -31,7 +31,7 @@ You must also ensure that Regular user creation has been enabled.
 
 2.In the **Account Type** section ensure that "Regular user" is selected.
 
-![](../../../.gitbook/assets/1%20%2874%29.png)
+![](../../../.gitbook/assets/1%20%2875%29.png)
 
 
 
@@ -62,14 +62,14 @@ This option sends an invitation with a link allowing the user to login and set t
 
 2.In the **Account Type** section ensure that "Regular user" is selected.
 
-![](../../../.gitbook/assets/4%20%2840%29.png)
+![](../../../.gitbook/assets/4%20%2841%29.png)
 
 3.Enter the desired **username** in the provided text field.
 
 4.Enter the user's account information in the provided text fields \(First name, last name and email address are required\).  
  
 
-![](../../../.gitbook/assets/5%20%2822%29.png)
+![](../../../.gitbook/assets/5%20%2823%29.png)
 
 5.In the **Password** section select "Invite user".
 
@@ -101,7 +101,7 @@ You can also create Profile only users to make contact information available in 
 
 4.Enter the user's account information in the provided text fields \(First and last name are required at a minimum\).
 
-![](../../../.gitbook/assets/8%20%2820%29.png)
+![](../../../.gitbook/assets/8%20%2821%29.png)
 
 5.In the **Password** section select "No Password".
 
@@ -152,7 +152,7 @@ Each of the account creation methods above \(temporary password, invited user, p
 7. \(Optional\) Add the users to any desired security groups by clicking **Edit security groups** in the **Security groups** section of the Preview page. All users will be added to the system security group "All registered users" automatically.
 8. If you wish to send invitation emails to all users, then modify the invitation if you wish, and click **Create users.** If you do not wish to invite them at this time then ensure that you select "Don't send invitations with this batch" before clicking **Create users.**
 
-![](../../../.gitbook/assets/10%20%288%29.png)
+![](../../../.gitbook/assets/10%20%289%29.png)
 
 If you did not invite the users in step 8 above then you will need to activate their account manually or invite them at a later point using the [User Management](../) administration page. Otherwise they will not be able to access ThoughtFarmer.
 

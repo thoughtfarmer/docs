@@ -16,7 +16,7 @@ When you [export the People Directory to Excel](https://community.thoughtfarmer.
 
 4.Click in the **Value** column beside the configuration setting. 
 
-![](../../../.gitbook/assets/4%20%2829%29.png)
+![](../../../.gitbook/assets/4%20%2830%29.png)
 
 
 
@@ -43,7 +43,7 @@ Additionally, it accepts values for the "custom field template id" for any custo
 
 2.Under the Label column, find the field group which your desired field belongs in, click the drop down arrow next to it, and select **Fields**. 
 
-![](../../../.gitbook/assets/5%20%2816%29.png)
+![](../../../.gitbook/assets/5%20%2817%29.png)
 
 3.Look under the Template ID column to find the value you are looking for.
 

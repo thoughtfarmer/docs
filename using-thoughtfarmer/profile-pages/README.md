@@ -10,7 +10,7 @@ Profile pages make up the searchable people directory on your intranet. You can 
 
 Mini-profiles also give snapshots of information about a colleague when you hover over a name on the intranet. You'll see the person's name, title, profile photo, phone number and email, or whatever profile information your intranet administrator has chosen to display.
 
-![](../../.gitbook/assets/2%20%2836%29.png)
+![](../../.gitbook/assets/2%20%2837%29.png)
 
 
 

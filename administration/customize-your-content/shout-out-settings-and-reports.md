@@ -28,15 +28,15 @@ The Shout-outs icon displays when you are creating a Shout-out, and on Shout-out
 
 Click on the **current Shout-out icon** to open a **menu** of icons, and click on the icon you want to use.
 
-![](../../.gitbook/assets/4%20%2837%29.png)
+![](../../.gitbook/assets/4%20%2838%29.png)
 
 #### Display Shout-outs on profile pages
 
-![](../../.gitbook/assets/5%20%285%29.png)
+![](../../.gitbook/assets/5%20%286%29.png)
 
 If enabled, the number of Shout-outs a user has received shows below their name on their profile page. Clicking on the number of Shout-outs displays a list of the Shout-outs in a pop-up window.
 
-![](../../.gitbook/assets/6%20%2823%29.png)
+![](../../.gitbook/assets/6%20%2824%29.png)
 
   
 To display Shout-outs on profile pages:
@@ -59,7 +59,7 @@ Admins can monitor Shout-outs usage through a report generator on the Shout-outs
 
 4.Select the **radio button** for one of the **pre-set time periods**, or select the **date range** radio button, then click in the boxes to choose start and end date from the calendar.
 
-![](../../.gitbook/assets/8%20%2811%29.png)
+![](../../.gitbook/assets/8%20%2812%29.png)
 
 5.Click **Download report** and open the file to view it in Excel.
 

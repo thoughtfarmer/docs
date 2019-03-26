@@ -13,7 +13,7 @@ You can add calendar sources to your homepage news, but they will only display i
 1. In homepage edit page, click **Set up cards** under **Content type & template** on the right.
 2. Find the **News: List or Grid View Card** that you want, and click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../../../../.gitbook/assets/1%20%2879%29.png)
+![](../../../../../.gitbook/assets/1%20%2880%29.png)
 
 
 

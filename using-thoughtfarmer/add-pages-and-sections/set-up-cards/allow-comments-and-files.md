@@ -12,7 +12,7 @@ When you allow comments, the **Leave a comment?** box will appear on the page wi
   
 
 
-![](../../../.gitbook/assets/1%20%28124%29.png)
+![](../../../.gitbook/assets/1%20%28125%29.png)
 
 
 
@@ -21,7 +21,7 @@ When you allow comments, the **Leave a comment?** box will appear on the page wi
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** pop-up window will open.  
 
 
-![](../../../.gitbook/assets/2%20%2879%29.png)
+![](../../../.gitbook/assets/2%20%2880%29.png)
 
 
 
@@ -54,7 +54,7 @@ When you allow files, the **Add file icon** will appear on the page
 
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** pop-up window will open.
 
-![](../../../.gitbook/assets/2%20%2825%29.png)
+![](../../../.gitbook/assets/2%20%2826%29.png)
 
 
 

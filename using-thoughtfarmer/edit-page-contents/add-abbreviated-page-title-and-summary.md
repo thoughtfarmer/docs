@@ -9,7 +9,7 @@ Use these instructions to create an alternate abbreviated title for a page. This
 1. Go into edit mode on the page you want to add a short title to.
 2. Click **Add short title** on the right under **Publishing options**.
 
-![](../../.gitbook/assets/1%20%2872%29.png)
+![](../../.gitbook/assets/1%20%2873%29.png)
 
 
 
@@ -17,7 +17,7 @@ Use these instructions to create an alternate abbreviated title for a page. This
 
 1. **Example**: For a page titled "_How to insert links_" type in "_Insert links_" as the short title.
 
-![](../../.gitbook/assets/2%20%2846%29.png)
+![](../../.gitbook/assets/2%20%2847%29.png)
 
   
 

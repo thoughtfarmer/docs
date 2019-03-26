@@ -24,7 +24,7 @@ Adding photos to a gallery is similar to attaching files on a page.
 
 1.Click **Add images** on the gallery page.
 
-![](../../../.gitbook/assets/2%20%2892%29.png)
+![](../../../.gitbook/assets/2%20%2893%29.png)
 
 
 

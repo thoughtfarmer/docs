@@ -15,7 +15,7 @@ If your intranet is connected to SharePoint Online, see [Search cloud drives](..
 
 ![](../../.gitbook/assets/1%20%289%29.png)
 
-![](../../.gitbook/assets/2%20%2872%29.png)
+![](../../.gitbook/assets/2%20%2873%29.png)
 
 
 

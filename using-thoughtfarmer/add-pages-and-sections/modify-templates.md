@@ -43,7 +43,7 @@ Before modifying a template, choose a [Content type](content-types.md) and [Temp
 
 2.Scroll through the listed Cards or use the search box at the top to narrow down the list and find the Card you want to add. When you find the Card you want, click on it to add it. A placeholder for the Card will appear at the bottom of the column where you have added it.
 
-![](../../.gitbook/assets/2%20%2855%29.png)
+![](../../.gitbook/assets/2%20%2856%29.png)
 
 
 

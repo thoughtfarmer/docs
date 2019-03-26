@@ -2,7 +2,7 @@
 
 You can allow all users to duplicate pages, or you can limit the Duplicate feature to administrators only. This can be done through the configuration settings in the administration panel. If you limit the feature to administrators only, the Duplicate action will not appear in the Page Controls for non-administrators.
 
-![](../../../.gitbook/assets/1%20%2837%29.png)
+![](../../../.gitbook/assets/1%20%2838%29.png)
 
 
 

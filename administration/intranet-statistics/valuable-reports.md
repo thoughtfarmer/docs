@@ -37,7 +37,7 @@ Additionally, top keyword analysis can be done over varying time ranges. For exa
   
 The following image shows Intranet Statistics keyword data over a number of months. The keywords were sorted by frequency for each month and colour coded in Excel to identify similar keywords \(e.g. "expense", and "expense report"\). 
 
-![](../../.gitbook/assets/1%20%28127%29.png)
+![](../../.gitbook/assets/1%20%28128%29.png)
 
 #### Page Hierarchy <a id="section4"></a>
 

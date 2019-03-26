@@ -4,7 +4,7 @@
 
 A Photo collection Card adds visual interest to your page by engaging viewers with a gallery of thumbnail images. Users can click on the thumbnails to view larger versions of the photos or click on the Photo collection title to go to the Photo Gallery page.
 
-![](../../../.gitbook/assets/1%20%2883%29.png)
+![](../../../.gitbook/assets/1%20%2884%29.png)
 
 
 
@@ -12,7 +12,7 @@ A Photo collection Card adds visual interest to your page by engaging viewers wi
 
 2.Click **Set up cards** under the **Content type & template** heading on the right. The **Update cards** window will open.
 
-![](../../../.gitbook/assets/2%20%2877%29.png)
+![](../../../.gitbook/assets/2%20%2878%29.png)
 
 3.In the **Update cards** window, find the **Photo collection** **Card** section and click **Set up** below it \(or the gear icon on the right of it\).
 
@@ -24,7 +24,7 @@ A Photo collection Card adds visual interest to your page by engaging viewers wi
 
 5.Click on the name of the **photo gallery** in the dropdown menu that appears.
 
-![](../../../.gitbook/assets/5%20%2819%29.png)
+![](../../../.gitbook/assets/5%20%2820%29.png)
 
 
 

@@ -14,7 +14,7 @@ To learn more about inserting links to intranet pages, external websites, email 
 
 2.Use your cursor to highlight the text you want to make into a link. Or just set your cursor where you want to insert the link.
 
-![](../../.gitbook/assets/12%20%284%29.png)
+![](../../.gitbook/assets/12%20%285%29.png)
 
 
 
@@ -22,7 +22,7 @@ To learn more about inserting links to intranet pages, external websites, email 
 
 4.In the pop-up window, click on the **tab** for the **cloud drive** that stores the file you want to link to. \(eg. Google Drive, OneDrive, SharePoint Online\). If you are not logged in to your account for the cloud drive, click **Login to \(cloud drive name\)** and follow the prompts to login.
 
-![](../../.gitbook/assets/2%20%2871%29.png)
+![](../../.gitbook/assets/2%20%2872%29.png)
 
 
 

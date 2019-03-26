@@ -72,5 +72,5 @@ For user instructions on adding the Google Drive Card to a page, see [Google Dri
 * Google may take some time to update their servers, so the Google Drive integration may not work immediately.
 * When logging in, users will see the security warning, pictured below. To log in, users need to click **Advanced &gt; Go to \[Google App name\] \(unsafe\)**. Google has [instructions for removing this warning](https://support.google.com/cloud/answer/7454865?authuser=1).
 
-![](../../.gitbook/assets/7%20%2818%29.png)
+![](../../.gitbook/assets/7%20%2819%29.png)
 

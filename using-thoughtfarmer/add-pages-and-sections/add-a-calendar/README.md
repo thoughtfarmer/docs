@@ -8,7 +8,7 @@ You and your colleagues can collaborate on adding events to the calendar. For an
   
 
 
-![](../../../.gitbook/assets/1%20%28114%29.png)
+![](../../../.gitbook/assets/1%20%28115%29.png)
 
 
 

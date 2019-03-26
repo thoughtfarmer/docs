@@ -6,7 +6,7 @@ IP restrictions use a top-down approach when evaluating configured IP ranges. Th
   
 Example:
 
-![](../../.gitbook/assets/1%20%2886%29.png)
+![](../../.gitbook/assets/1%20%2887%29.png)
 
 A page on the intranet, /content/123, has an IP content restriction. Another page, /content/456, which is a child of /content/123, also has an IP content restriction. In this case, the IP content restriction rules for /content/123, which is higher up in the heirarchy, will _**supercede**_ the rules configured for /content/456, _**even if the /content/456's rules contradict /content/123's**_.  
   

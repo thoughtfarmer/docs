@@ -40,11 +40,11 @@ The pink rectangles on the following images represent the area of the image that
   
 **Desktop—full image showing area that shows in collapsed page header**
 
-![](../../../../.gitbook/assets/4%20%2849%29.png)
+![](../../../../.gitbook/assets/4%20%2850%29.png)
 
 **Desktop—image as it appears in collapsed page header**
 
-![](../../../../.gitbook/assets/5%20%2835%29.png)
+![](../../../../.gitbook/assets/5%20%2836%29.png)
 
 At the widest width, collapsed page header images are 1170 pixels in width by approximately 200 pixels in height.  
 The height of the page header image area stays the same the narrower your page gets. This means you see more of your images vertically as the page width decreases.  
@@ -59,7 +59,7 @@ The height of the page header image area stays the same the narrower your page g
 
 **Mobile—full image showing area that shows in collapsed page header**
 
-![](../../../../.gitbook/assets/8%20%288%29.png)
+![](../../../../.gitbook/assets/8%20%289%29.png)
 
 On mobile you can see nearly the entire image \(if it is a landscape oriented photo\).  
   
@@ -73,11 +73,11 @@ No matter what the orientation of your page header image, the area of the image 
   
 **Desktop—full image showing area that shows in collapsed page header**
 
-![](../../../../.gitbook/assets/10%20%285%29.png)
+![](../../../../.gitbook/assets/10%20%286%29.png)
 
 **Desktop—image as it appears in collapsed page header**
 
-![](../../../../.gitbook/assets/11%20%284%29.png)
+![](../../../../.gitbook/assets/11%20%285%29.png)
 
 **Tablet—full image showing area that shows in collapsed page header**
 
@@ -85,7 +85,7 @@ No matter what the orientation of your page header image, the area of the image 
 
 **Tablet—image as it appears in collapsed page header**
 
-![](../../../../.gitbook/assets/13%20%281%29.png)
+![](../../../../.gitbook/assets/13%20%282%29.png)
 
 **Mobile—full image showing area that shows in collapsed page header**
 
@@ -93,7 +93,7 @@ No matter what the orientation of your page header image, the area of the image 
 
 **Mobile—image as it appears in collapsed page header**
 
-![](../../../../.gitbook/assets/15%20%282%29.png)
+![](../../../../.gitbook/assets/15%20%283%29.png)
 
 ### Recommended dimensions
 
@@ -103,11 +103,11 @@ Due to the responsive nature of ThoughtFarmer 8, we don't recommend choosing pag
   
 **Expanded page header—image created using recommended dimensions  ✔**
 
-![](../../../../.gitbook/assets/16.png)
+![](../../../../.gitbook/assets/16%20%281%29.png)
 
 **Expanded page header—image created based on collapsed page header size only = stretched and blurry  ✘**
 
-![](../../../../.gitbook/assets/17.png)
+![](../../../../.gitbook/assets/17%20%281%29.png)
 
 
 

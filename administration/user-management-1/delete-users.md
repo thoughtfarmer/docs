@@ -14,7 +14,7 @@ Deleting a user means that the user's profile will be completely removed from Th
 
 2.Start typing the name of the current owner in the **Current owner** box.
 
-![](../../.gitbook/assets/1%20%2841%29.png)
+![](../../.gitbook/assets/1%20%2842%29.png)
 
 3.Click once on the current owner from the list that drops down.
 
@@ -44,7 +44,7 @@ After following the four steps above, all content for the current owner will dis
 
 2.Use the filter, sort, and query tools to find the desired user or set of users \(see [Find users](find-users.md) for more info\).
 
-![](../../.gitbook/assets/4%20%2823%29.png)
+![](../../.gitbook/assets/4%20%2824%29.png)
 
 3.Select the checkbox beside the desired user\(s\) you wish to delete.
 

@@ -11,7 +11,7 @@ Building and duplicating forms is easy! You can start a new form from scratch or
 1.There are many different feature options you can use to build your form including:  
 
 
-![](../../../.gitbook/assets/1%20%28117%29.png)
+![](../../../.gitbook/assets/1%20%28118%29.png)
 
 
 
@@ -27,7 +27,7 @@ Each one of these features has sections you can edit and add content to.
 
 5.To edit the field, just click on the field to open the editor.
 
-![](../../../.gitbook/assets/4%20%2828%29.png)
+![](../../../.gitbook/assets/4%20%2829%29.png)
 
 
 
@@ -36,7 +36,7 @@ Each one of these features has sections you can edit and add content to.
 7.Once you have edited all of the content to your liking, click “save” to save your customized field and return to the workspace.  
 
 
-![](../../../.gitbook/assets/5%20%2820%29.png)
+![](../../../.gitbook/assets/5%20%2821%29.png)
 
 
 
@@ -64,7 +64,7 @@ Each one of these features has sections you can edit and add content to.
 
 1.From your forms overview, click Add form to start a new form.
 
-![](../../../.gitbook/assets/8%20%2816%29.png)
+![](../../../.gitbook/assets/8%20%2817%29.png)
 
 2.Create a name for your new form.
 
@@ -72,15 +72,15 @@ Each one of these features has sections you can edit and add content to.
 
 3.Instead of dragging and dropping form elements as you would to create a whole new form, click on the Choose an Existing Form located below the builder.
 
-![](../../../.gitbook/assets/10.png)
+![](../../../.gitbook/assets/10%20%281%29.png)
 
 4.A pop up will appear with a list of forms you own or manage. Select the form you wish to replicate from the list.
 
-![](../../../.gitbook/assets/11%20%286%29.png)
+![](../../../.gitbook/assets/11%20%287%29.png)
 
 5.The builder will load the form fields, workflow, messaging, and permissions of the existing form. It will not load the owner, the created date, activity, or form data from the original form.
 
-![](../../../.gitbook/assets/12%20%286%29.png)
+![](../../../.gitbook/assets/12%20%287%29.png)
 
 
 

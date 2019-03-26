@@ -2,7 +2,7 @@
 
 ### Application Toolbar
 
-![](../../../.gitbook/assets/1%20%28105%29.png)
+![](../../../.gitbook/assets/1%20%28106%29.png)
 
 
 
@@ -22,7 +22,7 @@ To change the following settings:
 
 2.Type **toolbar** in the **Search config settings** field to narrow the list of settings.
 
-![](../../../.gitbook/assets/2%20%2845%29.png)
+![](../../../.gitbook/assets/2%20%2846%29.png)
 
 
 

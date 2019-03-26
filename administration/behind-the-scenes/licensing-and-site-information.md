@@ -6,7 +6,7 @@ The site info section is the informational portlet that is on the right side of 
   
 **Administration panel site information portlet:**
 
-![](../../.gitbook/assets/1%20%2839%29.png)
+![](../../.gitbook/assets/1%20%2840%29.png)
 
 There are 6 major site attributes that are modifiable here by clicking **Edit** in the top right of the information panel:  
   
@@ -22,7 +22,7 @@ There are 6 major site attributes that are modifiable here by clicking **Edit** 
   
 **Copyright notice and system administrator name at bottom left of intranet page:**
 
-![](../../.gitbook/assets/2%20%2824%29.png)
+![](../../.gitbook/assets/2%20%2825%29.png)
 
 **License Key**: When you upgrade your license count, or renew your contract, you can enter the new license key here. Changes made should be reflected in the site info section after you save the new key. Note that the ThoughtFarmer Administrator Support user \(that ThoughtFarmer uses when you require assistance with your intranet\) will not be counted in your license count.  
   

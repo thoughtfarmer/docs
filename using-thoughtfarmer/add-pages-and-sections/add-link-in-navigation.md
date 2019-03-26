@@ -49,7 +49,7 @@ ii.**Change link address**: Click **Edit link** under the current link path or a
 
 iii.**To delete link**: Click **Delete link** underneath the **Save** button. Then click **Delete** in the pop-up window to confirm the deletion.
 
-![](../../.gitbook/assets/4%20%2821%29.png)
+![](../../.gitbook/assets/4%20%2822%29.png)
 
 
 
@@ -65,7 +65,7 @@ Follow the instructions below if you need to move a link to a different page or 
 
 3.Click **Move** beside the link path above the page title. The **Move** pop-up window will open.
 
-![](../../.gitbook/assets/5%20%2825%29.png)
+![](../../.gitbook/assets/5%20%2826%29.png)
 
 
 

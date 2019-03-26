@@ -43,7 +43,7 @@ To add an event type to your event type selections, click **Add** at the bottom,
 
 5.Select the checkbox beside the new event type. 
 
-![](../../.gitbook/assets/1%20%2835%29.png)
+![](../../.gitbook/assets/1%20%2836%29.png)
 
 6.Click **Done**. 
 

@@ -20,7 +20,7 @@ If a user does not receive invitations repeatedly, check to ensure that the emai
 
 4.Select the checkbox "Cancel this invitation".
 
-![](../../.gitbook/assets/2%20%28104%29.png)
+![](../../.gitbook/assets/2%20%28105%29.png)
 
 5.Click **Save.**
 

@@ -8,7 +8,7 @@ Giving a user administrator access means they can access the Administration pane
 
 To access the Administration panel or enter Admin Mode, click on **your name or profile photo** in the top right of the Application Toolbar. In the menu that opens, click on the **toggle** beside **Admin Mode** to switch it to **ON**and view the site as an administrator. In that same menu, click **Administration panel** to go to the Administration panel - it is not necessary to have Admin Mode ON to go to the Administration panel.
 
-![](../../.gitbook/assets/1%20%2885%29.png)
+![](../../.gitbook/assets/1%20%2886%29.png)
 
 ### To make a user an administrator:
 
@@ -16,7 +16,7 @@ To access the Administration panel or enter Admin Mode, click on **your name or 
 2. Use the filter, sort, and query tools to find the desired user \(see [Find users](find-users.md) for more info\).
 3. Click the gear icon in the **Action** column to the right of the user, and click **Edit account** in the menu that opens.
 
-![](../../.gitbook/assets/2%20%2852%29.png)
+![](../../.gitbook/assets/2%20%2853%29.png)
 
 4.Select the checkbox "Allow this user to administer _Intranet_?" \(where _Intranet_ is your intranet's name\) in the **Account Information** section.
 
@@ -26,5 +26,5 @@ To access the Administration panel or enter Admin Mode, click on **your name or 
 
 The **Edit user account** link is also available to administrators in the lower left when editing a user's profile.
 
-![](../../.gitbook/assets/4%20%2834%29.png)
+![](../../.gitbook/assets/4%20%2835%29.png)
 

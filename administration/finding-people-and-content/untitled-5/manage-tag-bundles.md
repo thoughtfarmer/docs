@@ -4,7 +4,7 @@
 
 Tag bundles provide logical groupings for your tags. They allow users to quickly find and apply tags to content, which improves overall searchability. On this page you will learn how to add, localize and delete tag bundles.
 
-![](../../../.gitbook/assets/1%20%28113%29.png)
+![](../../../.gitbook/assets/1%20%28114%29.png)
 
 
 
@@ -52,7 +52,7 @@ When you delete an existing tag bundle, all tags in that bundle will move to "Un
 
 3.Select the checkbox beside the **Bundle name** for the bundle\(s\) you wish to delete. The name of the selected bundle\(s\) will show above the list.
 
-![](../../../.gitbook/assets/4%20%2822%29.png)
+![](../../../.gitbook/assets/4%20%2823%29.png)
 
 
 
@@ -60,7 +60,7 @@ When you delete an existing tag bundle, all tags in that bundle will move to "Un
 
 5.Click **Confirm** in the **Delete tag bundles** window to confirm the deletion. Tags in the deleted bundle will now be Unbundled tags.
 
-![](../../../.gitbook/assets/5%20%2828%29.png)
+![](../../../.gitbook/assets/5%20%2829%29.png)
 
 ### Manage tag to tag bundle associations <a id="section3"></a>
 
@@ -110,7 +110,7 @@ When you remove tags from configured bundles they still remain in "Unbundled tag
 
 4.Select the checkbox beside all the tags you wish to remove or delete.  A list of all the selected tags will appear above the tags.
 
-![](../../../.gitbook/assets/8%20%289%29.png)
+![](../../../.gitbook/assets/8%20%2810%29.png)
 
 5.To remove the tag from the bundle: Click **Remove from bundle** to remove the tag from the bundle but leave it as a tag on intranet content. Click **Remove** in the **Remove tags from bundle** window to confirm the removal.
 

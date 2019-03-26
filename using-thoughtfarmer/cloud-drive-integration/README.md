@@ -6,7 +6,7 @@ Cloud drive integration allows users to access files and folders stored in cloud
   
 **Files in a cloud drive**
 
-![](../../.gitbook/assets/1%20%28118%29.png)
+![](../../.gitbook/assets/1%20%28119%29.png)
 
 **Cloud drive files linked and embedded on the intranet**
 

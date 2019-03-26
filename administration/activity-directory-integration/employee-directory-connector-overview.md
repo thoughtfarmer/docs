@@ -10,7 +10,7 @@ The ThoughtFarmer Employee Directory Connector \(EDC\) allows for connecting you
   
 Here is a simple high-level view of the architecture of a ThoughtFarmer cloud-to-internal AD EDC integration.
 
-![](../../.gitbook/assets/1%20%2884%29.png)
+![](../../.gitbook/assets/1%20%2885%29.png)
 
 ### Authentication
 

@@ -35,7 +35,7 @@ The following example shows the **Visits per duration** report for each of the a
 
 **Vertical bar graph**
 
-![](../../.gitbook/assets/2%20%2886%29.png)
+![](../../.gitbook/assets/2%20%2887%29.png)
 
 **Pie chart**
 
@@ -47,5 +47,5 @@ The following example shows the **Visits per duration** report for each of the a
 
 **Insights**
 
-![](../../.gitbook/assets/5%20%282%29.png)
+![](../../.gitbook/assets/5%20%283%29.png)
 

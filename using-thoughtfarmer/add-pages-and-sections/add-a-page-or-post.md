@@ -45,7 +45,7 @@ When you follow the above instructions to add a post to a blog, forum or news se
 * **Publish now**: Click this to set the official publish time and date as the moment you click **Publish** on the post.
 * **Publish on**: Use this to set a future date, time and timezone for the post to publish and show at the top of the section. Or set a past date for a retroactive post. If you set a future date for the post to publish, the post will only be visible to the page owner and administrators until the time it is set to publish, when it will become visible to everyone with View permission on the post.
 
-![](../../.gitbook/assets/4%20%2836%29.png)
+![](../../.gitbook/assets/4%20%2837%29.png)
 
 
 

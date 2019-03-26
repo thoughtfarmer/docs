@@ -18,7 +18,7 @@ The first image that you insert on a page will automatically become the Thumbnai
 
 3.Click the **Insert Image** button to bring up the images pop-up window. \(The **Insert Image** button looks like a tiny photo of a landscape with a tiny green plus sign in the bottom right.\)
 
-![](../../.gitbook/assets/1%20%2836%29.png)
+![](../../.gitbook/assets/1%20%2837%29.png)
 
 
 
@@ -73,12 +73,12 @@ In addition to inserting images from files on your computer you can insert image
 
 4.Click the **Insert Web Image** button to bring up the Web image pop-up window. \(The **Insert Web Image** button looks like a tiny photo of a landscape with three tiny chain links on top of it.\)
 
-![](../../.gitbook/assets/4%20%2847%29.png)
+![](../../.gitbook/assets/4%20%2848%29.png)
 
 5.Paste the URL in the **Enter image URL** field in the **Web image** pop-up window.  
 
 
-![](../../.gitbook/assets/5%20%2842%29.png)
+![](../../.gitbook/assets/5%20%2843%29.png)
 
 
 
@@ -141,7 +141,7 @@ You can remove an image from showing on the page as well as completely delete an
 
 3.\(Delete\) Hover over the image you want to delete, and click the **garbage can icon** in the bottom right. The thumbnail will disappear and the image will no longer be available to insert on the page.   
 
-![](../../.gitbook/assets/10%20%284%29.png)
+![](../../.gitbook/assets/10%20%285%29.png)
 
 
 
@@ -163,7 +163,7 @@ Images on photo gallery pages are just attached files that are displayed in a di
 
 4.Click the down arrow on the right of the page header to open the Page Controls.
 
-![](../../.gitbook/assets/11%20%282%29.png)
+![](../../.gitbook/assets/11%20%283%29.png)
 
 5.Click **Delete** on the left side of the Page Controls.
 

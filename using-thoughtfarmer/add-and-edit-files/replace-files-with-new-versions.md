@@ -24,7 +24,7 @@ Use these instructions to replace a file with a newer version. Don't delete that
 
 When you open the File Controls \(by clicking on the down arrow on the right of the file name\), you can see the file version number listed with the other file information. You can also see the current file version on the individual file page below the file name. From there you can also revert to a previous file version.
 
-![](../../.gitbook/assets/2%20%2848%29.png)
+![](../../.gitbook/assets/2%20%2849%29.png)
 
 ### Comments show file version
 

@@ -7,7 +7,7 @@ This page explains the basics of how the Expertise locator works and how you mig
 The Expertise locator can be used not only for user fields of expertise but for any way of classifying and tagging users that is useful to your organization. Each different type of expertise or attribute that you wish to use can be added as a custom field to user's profile pages. The unique type of custom field used for this purpose is called a **Tag profile field**.  
 
 
-![](../../../.gitbook/assets/1%20%28112%29.png)
+![](../../../.gitbook/assets/1%20%28113%29.png)
 
   
 The benefit of these tag profile fields is that the tags associated with them are used to identify people only, not content. For example, a regular tag called "C\#" can be applied to pages, profiles, groups or any other type of content. So selecting this as a search facet would return results of all kinds. But if "C\#" is added to a tag profile field on user's profiles, selecting it as a search facet will narrow your search down to only the **people** with that expertise - the people that you are looking for!

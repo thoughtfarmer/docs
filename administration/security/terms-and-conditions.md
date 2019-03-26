@@ -20,7 +20,7 @@ A disclaimer can be added to your ThoughtFarmer intranet. This is simply any add
 
 3.Enter content into the **Disclaimer** rich text area.
 
-![](../../.gitbook/assets/1%20%2862%29.png)
+![](../../.gitbook/assets/1%20%2863%29.png)
 
 
 
@@ -40,7 +40,7 @@ Configure terms and conditions
 
 4.Enter a rejection URL into **Terms and conditions of use rejection URL**. This is where users will be redirected if they decline the terms.
 
-![](../../.gitbook/assets/4%20%2856%29.png)
+![](../../.gitbook/assets/4%20%2857%29.png)
 
 1. Click **Save settings** at the bottom.
 
@@ -53,7 +53,7 @@ If you do not require all your existing users to accept the updated terms then d
 1. Configure the new Terms & conditions of use as shown in the steps above.
 2. Click **Reset terms and conditions**.
 
-![](../../.gitbook/assets/5%20%2818%29.png)
+![](../../.gitbook/assets/5%20%2819%29.png)
 
 3.Click **Save settings**.
 
@@ -65,7 +65,7 @@ By default all users will be redirected to the homepage when they accept the ter
 
 2.Type **terms** in the **Search config settings** field to narrow the list of config settings.
 
-![](../../.gitbook/assets/6%20%2829%29.png)
+![](../../.gitbook/assets/6%20%2830%29.png)
 
 3.Find the config setting termsAndConditions.acceptUrl.
 

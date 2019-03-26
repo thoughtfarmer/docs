@@ -62,7 +62,7 @@ When you want to find a Shout-out you were mentioned in, or you just need a litt
 
 If enabled on your intranet, the number of Shout-outs you have received will show below your name on your profile page. Click on the number of Shout-outs to view a list of the Shout-outs in a pop-up window. In the window you can navigate through the list of Shout-outs, or click on a Shout-out to view the full content on a separate page.
 
-![](../../.gitbook/assets/8%20%2822%29.png)
+![](../../.gitbook/assets/8%20%2823%29.png)
 
 
 

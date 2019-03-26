@@ -23,7 +23,7 @@ Creating Active Directory users can be done manually, or, if Active Directory in
 4. Enter the **username** in the provided text field. This must be pre-fixed with the Domain for the user account \(e.g. DOMAIN\username\).
 5. Enter the user's account information in the provided text fields \(First and last name are required at a minimum\).  
 
-![](../../../.gitbook/assets/1%20%28111%29.png)
+![](../../../.gitbook/assets/1%20%28112%29.png)
 
 
 
@@ -59,7 +59,7 @@ With Active Directory Integration configured and automatic user creation enabled
 
 6.Verify that the correct user information was pulled in. The Account information fields will fill in automatically. Rectify any errors if they are shown.
 
-![](../../../.gitbook/assets/1%20%28102%29.png)
+![](../../../.gitbook/assets/1%20%28103%29.png)
 
 
 

@@ -6,7 +6,7 @@
 
 1.Click the **down arrow** on the far right of the file name to open the **File Controls**.
 
-![](../../.gitbook/assets/1%20%2838%29.png)
+![](../../.gitbook/assets/1%20%2839%29.png)
 
 
 

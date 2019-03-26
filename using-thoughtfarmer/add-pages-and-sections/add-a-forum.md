@@ -5,7 +5,7 @@
 Use these instructions to add a Forum page to your intranet. Forums are designed for online discussions - for sharing knowledge on varied topics, developing ideas, and asking and answering questions. By setting the page type to Forum you transform the way subpages appear. Subpages appear as post titles in the center of the page, along with some information about the post - post owner, posting time or date, number of comments and last commenter.  
 
 
-![](../../.gitbook/assets/1%20%28109%29.png)
+![](../../.gitbook/assets/1%20%28110%29.png)
 
 
 
@@ -62,7 +62,7 @@ Forums are designed for online discussions. A comment window is automatically op
 
 1. From the Forum page, click on the Forum post title to go to the individual post page.
 
-![](../../.gitbook/assets/5%20%2840%29.png)
+![](../../.gitbook/assets/5%20%2841%29.png)
 
 
 
@@ -75,7 +75,7 @@ Forums are designed for online discussions. A comment window is automatically op
 2.If you wish to respond to another person's reply, click **Quote** below their reply, and the text of the reply will automatically be added to your reply window. You can then type your own reply.  
 
 
-![](../../.gitbook/assets/7%20%2820%29.png)
+![](../../.gitbook/assets/7%20%2821%29.png)
 
 3.Click **Add file** at the bottom of the comment box to add a file as a reply. \(See [how to attach a file](../add-and-edit-files/) for more information on attaching files.\) Add any text in a separate reply.
 

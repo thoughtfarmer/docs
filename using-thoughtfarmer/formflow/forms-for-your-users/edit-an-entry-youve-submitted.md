@@ -32,7 +32,7 @@ Once you have found the entry, the next step is to make your desired changes.
 1. From the Entries page, click on the title of the entry you want to edit to bring up the Entry.
 2. Click on the pencil icon in the body of the entry to open the editing window.
 
-![](../../../.gitbook/assets/1%20%2851%29.png)
+![](../../../.gitbook/assets/1%20%2852%29.png)
 
 
 

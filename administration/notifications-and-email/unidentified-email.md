@@ -13,7 +13,7 @@ Any message that fails the above rules will be placed into the unidentified emai
 
 On the unidentified email page, all of the unidentified email messages are listed in a table. You can quickly see why the message ended up on this page by checking the **Status** column.
 
-![](../../.gitbook/assets/1%20%2852%29.png)
+![](../../.gitbook/assets/1%20%2853%29.png)
 
 
 
@@ -21,7 +21,7 @@ You can perform the following actions on unidentified email:
 
 * Delete unidentified email: Click the checkbox beside the email in the first column and then click **Delete checked** at the top.
 
-![](../../.gitbook/assets/2%20%28105%29.png)
+![](../../.gitbook/assets/2%20%28106%29.png)
 
 •View the actual message: Click the **gear icon** in the **Action** column, and then select **View** from the menu that opens.
 

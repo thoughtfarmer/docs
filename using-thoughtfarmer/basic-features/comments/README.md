@@ -42,7 +42,7 @@ If you mention a colleague's name in a special way in a comment, they will recei
 Click **Like** below a comment to show that you like it or agree with it. Once you Like a comment, the thumbs up icon shows. A number beside the thumbs up shows the number of people that have liked the comment. Hover over the thumbs up icon to see a pop-up showing which users like the comment.  
 
 
-![](../../../.gitbook/assets/5%20%286%29.png)
+![](../../../.gitbook/assets/5%20%287%29.png)
 
 To unlike a comment, click **Unlike**.
 

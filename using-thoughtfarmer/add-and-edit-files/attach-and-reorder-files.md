@@ -20,7 +20,7 @@ a.By default, document libraries appear in the center column of a page, but you 
 
 b.If you want to add a file to a folder, first click on the folder to select it, then click **Add file**.
 
-![](../../.gitbook/assets/2%20%2883%29.png)
+![](../../.gitbook/assets/2%20%2884%29.png)
 
 
 
@@ -62,7 +62,7 @@ Page editors and administrators can curate files or folders on a page into a par
 
 2.Click **...** beside the **Sort by** menu.
 
-![](../../.gitbook/assets/4%20%2852%29.png)
+![](../../.gitbook/assets/4%20%2853%29.png)
 
 
 
@@ -73,7 +73,7 @@ Page editors and administrators can curate files or folders on a page into a par
 1. You can click on the **...** menu that appears when you hover over a file or folder and select **Move to the top** or **Move to the bottom** to bounce a file or folder to that place in the order.
 2. You can also click on \(Sort by\) **Curated** at the top of the window, and then choose to set the Curated sort by **Title** or **Date**.
 
-![](../../.gitbook/assets/5%20%284%29.png)
+![](../../.gitbook/assets/5%20%285%29.png)
 
 
 

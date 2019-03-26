@@ -10,7 +10,7 @@ When you archive or delete a page you automatically archive or delete any subpag
 
 While archived content is hidden by default, users can choose whether to show or hide archived content from their view on the intranet. When archived content is hidden, it will not show in navigation or recent activity. Archived content is always excluded from search results, but at the top of search results, an option is available to show any archived items found in the search.
 
-![](../../.gitbook/assets/1%20%2864%29.png)
+![](../../.gitbook/assets/1%20%2865%29.png)
 
 
 

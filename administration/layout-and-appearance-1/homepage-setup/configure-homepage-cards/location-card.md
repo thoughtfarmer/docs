@@ -13,7 +13,7 @@ You can add a Location Card to make contact information and a map available on y
 
 2.Find the **Location Card** and click **Set up** below it \(or the gear icon on the right of it\).
 
-![](../../../../.gitbook/assets/2%20%2858%29.png)
+![](../../../../.gitbook/assets/2%20%2859%29.png)
 
 3.In the **Location** pop-up window, enter the address and contact info you wish to display in the Location Card.
 

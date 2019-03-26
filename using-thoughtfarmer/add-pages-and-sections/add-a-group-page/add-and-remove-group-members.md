@@ -28,7 +28,7 @@ See the explanation of Open and Managed membership on [How to create group pages
 
 ![](../../../.gitbook/assets/1%20%2855%29.jpg)
 
-![](../../../.gitbook/assets/2%20%2826%29.png)
+![](../../../.gitbook/assets/2%20%2827%29.png)
 
 
 
@@ -73,7 +73,7 @@ If you create a group where you want all users or the majority of users to be me
    1. To add all users, select **Add all users** from the menu that appears.
    2. To remove all users, select **Remove all users** from the menu that appears.
 
-![](../../../.gitbook/assets/4%20%2824%29.png)
+![](../../../.gitbook/assets/4%20%2825%29.png)
 
 
 

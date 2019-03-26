@@ -6,11 +6,11 @@ In FormFlow, even published forms aren’t final. You can still make changes to 
 
 1.From the Forms Overview, locate the form you want to modify. Note that you must have editing permission to change the form.
 
-![](../../../.gitbook/assets/1%20%2858%29.png)
+![](../../../.gitbook/assets/1%20%2859%29.png)
 
 2.When you’ve found the form, click on the ellipses menu at the top of the form description and select the **Edit** option.
 
-![](../../../.gitbook/assets/2%20%2891%29.png)
+![](../../../.gitbook/assets/2%20%2892%29.png)
 
 3.There are two types of edits you can make: Administrative edits and content edits.  
 
@@ -31,5 +31,5 @@ In FormFlow, even published forms aren’t final. You can still make changes to 
 
 4.When you’re ready, click **Preview** and then click **Relaunch** to make the form live again.
 
-![](../../../.gitbook/assets/4%20%2843%29.png)
+![](../../../.gitbook/assets/4%20%2844%29.png)
 

@@ -23,7 +23,7 @@ To edit your profile information, follow these steps:
   
 
 
-![](../../.gitbook/assets/1%20%28100%29.png)
+![](../../.gitbook/assets/1%20%28101%29.png)
 
 3.Edit your profile information. Click the headings to expand the profile info sections.
 

@@ -18,7 +18,7 @@ To get to the People Directory follow these steps. \(Or, if your intranet has a 
 
 2.Click on **All** above the **Search** box, and select **People** from the the dropdown menu that opens.
 
-![](../../.gitbook/assets/1%20%2840%29.png)
+![](../../.gitbook/assets/1%20%2841%29.png)
 
 
 
@@ -48,7 +48,7 @@ Grid view is the default view of the People Directory, but the way you view the 
 
 **Filter 1: Last name**
 
-![](../../.gitbook/assets/5%20%289%29.png)
+![](../../.gitbook/assets/5%20%2810%29.png)
 
 **Options**:
 

@@ -18,7 +18,7 @@ Profile photos may come in all shapes and sizes, so when you add a profile photo
 
 1.Click on your name or profile photo in the top right on any page, and click **Edit profile** in the menu that opens.
 
-![](../../.gitbook/assets/2%20%2850%29.png)
+![](../../.gitbook/assets/2%20%2851%29.png)
 
 
 

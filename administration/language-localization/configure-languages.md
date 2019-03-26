@@ -12,7 +12,7 @@ On a fresh install ThoughtFarmer comes with only English enabled and set as the 
 
 3.Click on the **Choose language...** field to open the dropdown and select the language you want to enable.
 
-![](../../.gitbook/assets/1%20%2882%29.png)
+![](../../.gitbook/assets/1%20%2883%29.png)
 
 
 

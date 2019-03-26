@@ -8,7 +8,7 @@ There are eight content types to choose from when you create or edit a page. The
   
 
 
-![](../../.gitbook/assets/1%20%2856%29.png)
+![](../../.gitbook/assets/1%20%2857%29.png)
 
 * **Page**: Your multi-purpose knowledge-sharing page. Store, share, or collaborate on information. 
 * **Section**: Landing page or directory where users can jump off into other areas of related content. It's not about what's _on_ the page, but where you can _get to_ from the page.

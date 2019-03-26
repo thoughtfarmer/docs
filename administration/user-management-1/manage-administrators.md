@@ -22,7 +22,7 @@ To view all of the users who have administrator access to your intranet:
   
 If any of these users should not be administrators you can remove access by clicking **the gear icon** in the **Action** column on the right and selecting **Edit account** from the menu that opens. Then, under **Account Information**, uncheck the checkbox "Allow this user to administer _Intranet_?" \(where _Intranet_ is your intranet's name\), and click **Save**.
 
-![](../../.gitbook/assets/2%20%2827%29.png)
+![](../../.gitbook/assets/2%20%2828%29.png)
 
 ### System administrator
 

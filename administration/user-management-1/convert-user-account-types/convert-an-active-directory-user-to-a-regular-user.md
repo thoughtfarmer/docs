@@ -28,7 +28,7 @@ Ensure that you have set up, or are able to set up a Forms authentication route.
 
 6.In the **Password** section, reset the user's password by specifying a temporary password in the **Reset password** field.
 
-![](../../../.gitbook/assets/4%20%2842%29.png)
+![](../../../.gitbook/assets/4%20%2843%29.png)
 
 7.Click **Save.**
 
