@@ -755,3 +755,104 @@
 | FileGoTo | Go to file |
 | FileLockedForEditing | Locked for editing by {0} |
 
+| FileName | File name |
+| :--- | :--- |
+| FileNameContainsBadCharacters | File name contains one or more invalid characters, remove any of \/:\*?"&lt;&gt;\|\#{}%~&^ from the file name. |
+| FileNameExtensionMissing | File name must contain the extension for the file too. \(e.g. .docx, .pdf, .xlsx\) |
+| FileNameNotOnTheListOfValidFiles | The extension entered on this file name does not match any of the allowed extensions for the site. |
+| FileNameRequired | File name is a required field. |
+| Files | Files |
+| FileSize | File size |
+| FileVersionN | File version {0} |
+| Filter | Filter |
+| FilterBy | Filter by |
+| FilterCardSearch | Search {0} |
+| Filters | Filters |
+| Find | Find |
+| FindGroup | Find group |
+| FindGroups | Find and join a group. |
+| FindPerson | Find person |
+| FindPoll | Find a poll |
+| FindTag | Find tag |
+| First | first |
+| FloatLeft | Float left |
+| FloatRight | Float right |
+| FolderCreationNotPermitted | The folder "&lt;strong&gt;{0}&lt;/strong&gt;" could not be created. Please check that you have permissions to create folders under this location. |
+| FolderIsEmpty | "&lt;strong&gt;{0}&lt;/strong&gt;" folder is empty |
+| FolderRenamingNotPermitted | The folder "&lt;strong&gt;{0}&lt;/strong&gt;" could not be renamed. Please check that you have permissions to create folders under this location. |
+| FolderSize | Folder size |
+| Follow | Follow |
+| FollowAfterAddAPage | Content you add to the Intranet |
+| FollowAfterBookmarkAPage | Content you bookmark |
+| FollowAfterCommentOnAPage | Content you comment on |
+| FollowAfterEditAPage | Content you edit |
+| FollowAfterJoinGroup | Groups you join |
+| FollowAfterMention | Content you are @mentioned on |
+| FollowAfterShare | Updates you share |
+| FollowAfterShareOrShoutOut | Updates and shout-outs you share |
+
+| FollowConfirmationMessage | Click Confirm to follow '{0}' |
+| :--- | :--- |
+| FollowConfirmationSuccessMessage | Page successfully followed |
+| FollowedByOneOther | Followed by 1 person |
+| FollowedByOthers | Followed by {0} people |
+| FollowedByUserAndOneOther | Followed by you & 1 other |
+| FollowedByUserAndOthers | Followed by you & {0} others |
+| FollowedByUserOnly | Followed by you |
+| FollowedPageDetailedNotificationMany | &lt;a href="{0}{1}"&gt;{2}&lt;/a&gt; and {5} others followed this. |
+| FollowedPageDetailedNotificationOne | &lt;a href="{0}{1}"&gt;{2}&lt;/a&gt; followed this. |
+| FollowedPageDetailedNotificationTwo | &lt;a href="{0}{1}"&gt;{2}&lt;/a&gt; and &lt;a href="{0}{5}"&gt;{6}&lt;/a&gt; followed this. |
+| FollowedPageNotificationPlural | {0} follows |
+| FollowedPageNotificationSingluar | 1 follow |
+| FollowingList | Following list |
+| FollowingListDescription | Find and manage what you follow. |
+| FollowingListNoResults | You are not following any items matching your search criteria. |
+| FollowingListNothingTipHeader | Tip |
+| FollowingListNothingTipText | To start following content, visit a page and click on the {0} to Follow. |
+| FollowingListNothingTitle | You must be more of a leader than a follower. |
+| FollowingSinceX | Following since {0} |
+| FollowThisBlog | Follow this blog |
+| FollowThisForum | Follow this forum |
+
+| FollowThisNews | Follow this news content |
+| :--- | :--- |
+| FollowTitle | Follow - {0} |
+| FooterContactAdmin | Contact administrator: {0} |
+| ForgotPassword | Forgot password? |
+| ForgotPasswordEmailEmpty | You must enter a valid email address. |
+| ForgotPasswordEmailNotFound | The email you entered wasn't recognized. Please try again. |
+| ForgotPasswordInstructions | Enter your email below to receive password instructions. |
+| ForgotPasswordNonDataBaseUserMessage | Please contact your administrator, {0}. |
+| ForgotPasswordNonDataBaseUserTitle | Resetting your password is not supported for your user. |
+| ForgotPasswordSuccess | An email has been sent to {0}. |
+| ForgotPasswordTitle | {0}: Forgot password |
+| ForgotYourPassword | Forgot your password? |
+| ForumNewRepliesSinceLastVisit | {0} new since your last visit. |
+| Forums | Forums |
+| ForumTopicAddedBy | Added by {0} |
+| ForumTopicLastBy | Last by {0} |
+| ForumType | Forum type |
+| FoundXResults | Found {0} results |
+| Fourth | fourth |
+| Frequency | Frequency |
+| FridayShort | F |
+| FrTitle | French |
+| FullBirthdayDisplayed | Your full birthday will be displayed |
+| FullFormattingInfo | Imports the document as is |
+| FullFormattingTitle | Full formatting |
+| FullVersion | Full version |
+| Future | Future |
+| GalleriesHeaderAll | All galleries |
+| GalleriesHeaderAllSearchResults | All Galleries &lt;span class="tf-image-browser-label-search-term"&gt;with matches for &lt;em&gt;{0}&lt;/em&gt;&lt;/span&gt; |
+| GalleriesHeaderRecommended | Recommended galleries |
+| GalleriesHeaderRecommendedSearchResults | Recommended Galleries &lt;span class="tf-image-browser-label-search-term"&gt;with matches for &lt;em&gt;{0}&lt;/em&gt;&lt;/span&gt; |
+| GalleryAddImage | Add images |
+| GalleryCurated | Curated |
+| GalleryDeselectAll | Deselect all |
+| GallerySelectAll | Select all |
+| GalleryTools | Gallery tools |
+| GalleryToolsInUse | Using gallery tools |
+| GalleryToolsInUseMessage | Scope search options are unavailable. To search or filter, close the gallery tools. |
+| GalleryToolsLeavingPage | Leaving the page |
+| GalleryToolsLeavingPageMessage | Are you sure you want to leave this page? All selections will be cleared. |
+
