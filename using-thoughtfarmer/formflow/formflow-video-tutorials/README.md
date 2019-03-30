@@ -13,7 +13,13 @@ Video tutorials are an excellent way to understand how FormFlow works and how it
 [  
 ](https://community.thoughtfarmer.com/content/106818/creating-forms)**VIDEO LINKS:**
 
-Creating Forms: [https://youtu.be/X\_oe-Tha39I](https://youtu.be/X_oe-Tha39I)
+Creating Forms
+
+{% embed url="https://www.youtube.com/watch?v=X\_oe-Tha39I" %}
+
+
+
+
 
 Reviewing and Managing Entries: [https://youtu.be/CSqr7PyRQTs](https://youtu.be/CSqr7PyRQTs)
 
