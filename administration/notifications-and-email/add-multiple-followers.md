@@ -1,20 +1,21 @@
-# Add multiple followers
+# Manage followers
 
 You can add followers to a page so that they will be notified of changes to that page. See the page [Overview of following and notification alerts](../../using-thoughtfarmer/basic-features/following-and-alerts/) to learn about following and how to add individual followers to a page.  
   
-If you want to add many followers to a page at once, use the **Bulk manage following** page on the administration panel.
+If you want to add many followers to a page at once, use the **Manage following** page on the Admin panel.
 
-### Add followers to a page in bulk
+## Add followers to a page in bulk
 
-1. Go to the **Administration panel**: **Content** section &gt; **Bulk manage following** page.
-2. Put your cursor in the **Show following list for** text box, and start typing the name of the page you want to add followers to.
+1. Go to the **Admin panel**: **Content** section &gt; **Manage following** page.
+2. In the **Find content** box, start typing the name of the page you want to add followers to.
 3. Click on the page name when it appears in the dropdown menu. A list of the current page followers will appear.
-4. To add \(or remove\) followers, click **Bulk update** at the top right of the list. The **Bulk manage following** dialog will appear.
-5. In the dialog, drag and drop names from the **All people** column to the **Following** column to add followers. Do the reverse to remove followers.
-   1. To select multiple consecutive names: Click on the first name, then hold the SHIFT key and click on the last name.
-   2. To select multiple non-consecutive names: Click on the first name, then hold the CTRL key and click on each name you want to select.
-   3. Once multiple names are selected, click on any of the selected names to drag-and-drop the entire selected group to another column.
-   4. To find a particular person, start typing the name in the search box at the top of the dialog to bring up matching names in all columns.
-   5. To add or remove all followers, click on the **Bulk operations** button in the dialog, and select **Set all people to following** or **Clear all following**.
-6. Click **Save** when you are done. The list of the current page followers will update.
+4. Start typing the **name** of a person in the **Filter** box to filter the list of followers.
+5. To add followers, click **Add followers**. In the **Add followers** pop-up window that appears, start typing the name of a person or group, and click on the name of the person or group when it appears in the dropdown list. Repeat to add more people or groups, then click **Add**. 
+   1. To add all users as followers, click **Add all users** in the **Add followers** window, then click **Add**.
+6. To remove a follower, hover over their name, and then click **Remove** when it appears on the right. Click **Confirm** in the **Remove followers** pop-up window that appears.
+   1. To remove multiple followers at once, select the checkboxes to the left of multiple followers, OR click the arrow beside the top checkbox and choose to select either all followers listed on the current page or all followers. Click **Remove \(\# of followers\)** at the top of the list. Click **Confirm** in the **Remove followers** pop-up window that appears.
+7. The list of followers will update as you add or remove followers.
+8. To manage followers on a different page, click the **X** beside the current page name at the top of the page and start again at Step 2.
+
+Note that adding a group as followers on a page is a one-time action that adds all current group members as individual followers on the page. Future changes to the group membership will not affect followers on the page.
 

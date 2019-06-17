@@ -18,7 +18,7 @@ This page serves to give an outline of some of the most valuable reports in Thou
 * [Browsers](../intranet-statistics/valuable-reports.md)
 * [Custom goals](../intranet-statistics/valuable-reports.md)
 
-### Visitor Overview <a id="VisitorOverview"></a>
+## Visitor Overview
 
 When launching the intranet, or after an upgrade marketing push or some other call to the intranet, the visitor overview can be a very informative report to get a sense of the overall success of these campaigns. In addition, the visitor overview gives you a high level overview of the health of your intranet. It can serve as an early warning indicator of declining usage allowing you to take the steps necessary to revitalize your intranet.  
   
@@ -26,13 +26,13 @@ It should be noted that the "unique visitors" count here is utilizing cookies to
 
 ![](../../.gitbook/assets/1%20%281%29.png)
 
-### Visits Per Duration <a id="VisitsPerDuration"></a>
+## Visits Per Duration
 
 By default, Matomo will accurately track the time spent on your pages for all pages, except the last page view of the visit. By default, on the last page view of any visit, Matomo counts the “Time spent on page” as 0 second. And when your visitor views only one page in the website, the visit duration will be set to a default of 10 seconds. This report can be found under Visitors &gt; Engagement.
 
 ![](../../.gitbook/assets/2%20%2834%29.png)
 
-### Visits Real-time <a id="VisitsRealtime"></a>
+## Visits Real-time
 
 The Live! widget is displayed in the Matomo Dashboard by default, and shows the real time flow of visits to your website. It also displays a real time counter of your visits and page views in the last 24 hours and the last 30 minutes.  
   
@@ -54,18 +54,18 @@ The Live! widget also shows the list of page views and actions the visitor perfo
 
 ![](../../.gitbook/assets/3%20%2825%29.png)
 
-### Users <a id="Users"></a>
+## Users
 
 The top users report under the ThoughtFarmer tab on the left hand side menu is one of the great tools to find out who is using your intranet. You can use this report to find out who your intranet champions are. By identifying these individuals you can leverage them as advocates for the intranet and also look at their usage to find out what draws them to the intranet. You can also identify those on the other end of the scale who may need encouragement or training to feel more comfortable using the intranet to its full potential.   
   
-**TIP:** The export of the top users report includes additional columns not included in the user interface. It is highly recommended that you use the **export to Excel** version of this report in analyzing data in-depth. This includes added columns for creates and page views per visit \(page views are noted as "hits" in the report\). This gives you added information that will allow you to segment users to find content creators, collaborators, and viewers.   
+**TIP:** The export of the top users report includes additional columns not included in the user interface. It is highly recommended that you use the **export to Excel** version of this report in analyzing data in-depth. This includes added columns for creates, likes, bookmarks, shares, and page views per visit \(page views are noted as "hits" in the report\). This gives you added information that will allow you to segment users to find content creators, collaborators, and viewers.   
   
 **PRO TIP:** You can apply a weighting to the exported user report in Excel to give a configurable total top user score. In the following example we have removed the unwanted columns and added a row above to hold the weights. The formula for the total in the last column is shown. Using this method you can craft your own unique definition of a top user based on overall activity. Simply re-sort the user list based on the weighted total to get this result.  
 
 
 ![](../../.gitbook/assets/4%20%2820%29.png)
 
-### Search keywords <a id="SearchKeywords"></a>
+## Search keywords
 
 Knowing what people are searching for will give you an idea of what content keywords are most important to your users. This gives you the opportunity to make important content easier for your users to find by tweaking the subject or title based on common searches.  
   
@@ -75,7 +75,7 @@ The following image shows ThoughtFarmer Analytics search keyword data for a spec
 
 ![](../../.gitbook/assets/5%20%284%29.png)
 
-### Media <a id="PageHierarchy"></a>
+## Media
 
 The Media reports allow you to see how your users are interacting with video and audio content, and can help you make the best use of media on your intranet.
 
@@ -85,7 +85,7 @@ You can see which videos are the most popular, how many times a video has been w
 
 ![](../../.gitbook/assets/media_analytics_video_titles.PNG)
 
-### Page Hierarchy <a id="PageHierarchy"></a>
+## Page Hierarchy
 
 Finding out the most active areas of your intranet is a very important metric to have. You can use this information to take a number of actions, including:
 
@@ -99,13 +99,13 @@ The Page Hierarchy report found under ThoughtFarmer on the left hand side menu i
 
 ![](../../.gitbook/assets/6%20%2825%29.png)
 
-### Page Titles <a id="PageTitles"></a>
+## Page Titles
 
 The Page Titles report lists all visited webpages \(with page URLs\). Here you will learn about the number of times each of your websites was visited. There are other important metrics here that you will want to pay attention to: the number of unique pageviews, page creates, edits, comments, bounce rate, average time spent on page, exit rate, and average generation time. This report can be found under ThoughtFarmer &gt; Page Titles
 
 ![](../../.gitbook/assets/7%20%2811%29.png)
 
-### Downloads <a id="Downloads"></a>
+## Downloads
 
 The Downloads report displays data for unique downloads and downloads, but you can also check the Visitor’s Log for each downloaded file and see what actions led to a particular download. On many websites, you want to track when visitors download a brochure, a photo, a software, etc. Matomo automatically track these clicks as Downloads, and reports them under Behavior &gt; Downloads.  
   
@@ -113,14 +113,14 @@ Matomo will automatically detect a download as a click on a link that ends with 
 
 ![](../../.gitbook/assets/8%20%2822%29.png)
 
-### Browsers <a id="Browsers"></a>
+## Browsers
 
 A report that shows the browsers used to display your intranet the most.  This report can be found on your dashboard as well as under Visitors &gt; Software tab.  
 
 
 ![](../../.gitbook/assets/9.png)
 
-### Custom goals <a id="CustomGoals"></a>
+## Custom goals
 
 In addition to the built-in reports highlighted above and in the other areas of ThoughtFarmer Analytics, there is another way to add additional tracking that is completely customizable within certain parameters. Custom goals were designed to allow you to identify certain user actions to be tracked as conversions. Please see the page [Set up a goal](../intranet-statistics/set-up-a-goal/).
 

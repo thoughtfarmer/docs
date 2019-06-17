@@ -18,6 +18,6 @@ When making changes to the Theme page, click **Save and Continue** to save your 
 * [Customize tabs](customize-main-navigation.md)
 * [Customize default images](customize-default-images.md)
 * [Customize mobile](customize-mobile.md)
-* [Learn about page header image guidelines](page-header-image-guidlines.md)
+* [Learn about page header image guidelines](page-header-images/page-header-image-guidlines.md)
 * [Learn about Image Size Guidelines](image-size-guidlines.md)
 

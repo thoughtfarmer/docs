@@ -1,13 +1,13 @@
-# Time zone setting
+# Timezone setting
 
-### Timezone settings
+## Timezone settings
 
 Timezones are used in ThoughtFarmer for Calendar events. Users are able to choose their preferred timezone. This will be the default for any Calendar events they create. The site default timezone will dictate the timezone set for any new users.
 
-### Change default timezone for the site
+## Change default timezone for the site
 
-1. Go to the **Administration panel**.
-2. Select **Edit** in the portlet on the right side, beside your intranet name.
+1. Go to the **Admin panel**.
+2. Click **Site settings** on the top left, under the version number.
 3. Click the triangle on the right of the **Default timezone** field to open a dropdown list of timezones. ![timezone.png](https://community.thoughtfarmer.com/imagethumb/229512600000/16710/392x53/False/timezone.png)
 4. Click to select the desired default timezone for your intranet site.
 5. Click **Save**.
